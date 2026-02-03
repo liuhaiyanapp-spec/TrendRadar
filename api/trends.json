@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-02-03T23:37:30.150417+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-02-04T02:44:12.206131+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "游戏里的 NPC 永远重复那几句台词，为什么很少有厂商做能持续互动、有真实生活轨迹的动态 NPC？",
-          "url": "https://www.zhihu.com/question/1994325797788469101",
-          "source": "知乎",
-          "ranks": [
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时36分 ~ 13时24分]"
-        },
-        {
-          "title": "如今游戏掌机尺寸一个个比头还大，是否已经脱离掌机的意义了？",
-          "url": "https://www.zhihu.com/question/1996181794526086431",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时59分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
