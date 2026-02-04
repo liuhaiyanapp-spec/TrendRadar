@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-04T15:36:07.298959+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-02-04T18:10:44.774097+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
+          "url": "https://www.zhihu.com/question/2002317275429037967",
+          "source": "知乎",
+          "ranks": [
+            19,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时35分 ~ 18时10分]"
+        },
+        {
           "title": "游戏里搞游行,我的世界夹私货",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350178&amp;topic_name=%E6%B8%B8%E6%88%8F%E9%87%8C%E6%90%9E%E6%B8%B8%E8%A1%8C%2C%E6%88%91%E7%9A%84%E4%B8%96%E7%95%8C%E5%A4%B9%E7%A7%81%E8%B4%A7",
           "source": "贴吧",
           "ranks": [
             7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时35分 ~ 15时36分]"
-        },
-        {
-          "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
-          "url": "https://www.zhihu.com/question/2002317275429037967",
-          "source": "知乎",
-          "ranks": [
-            19
           ],
           "is_new": false,
           "appearance_count": 2,
