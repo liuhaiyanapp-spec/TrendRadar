@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T01:35:20.161210+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-05T03:55:02.083553+08:00",
+  "total_titles_processed": 413,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
@@ -15,8 +15,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时35分"
+          "appearance_count": 3,
+          "time_info": "[01时35分 ~ 03时55分]"
+        },
+        {
+          "title": "三国题材的游戏为啥很少做 「三国后期」 的剧情？",
+          "url": "https://www.zhihu.com/question/1997053344133448774",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时54分 ~ 03时55分]"
         }
       ]
     }
