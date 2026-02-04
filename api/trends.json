@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T05:06:26.805708+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-02-05T06:57:07.071706+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时35分 ~ 05时06分]"
+          "appearance_count": 6,
+          "time_info": "[01时35分 ~ 06时57分]"
         },
         {
           "title": "三国题材的游戏为啥很少做 「三国后期」 的剧情？",
