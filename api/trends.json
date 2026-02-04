@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-05T03:55:02.083553+08:00",
-  "total_titles_processed": 413,
+  "generated_at": "2026-02-05T05:06:26.805708+08:00",
+  "total_titles_processed": 461,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2002317275429037967",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时35分 ~ 03时55分]"
+          "appearance_count": 4,
+          "time_info": "[01时35分 ~ 05时06分]"
         },
         {
           "title": "三国题材的游戏为啥很少做 「三国后期」 的剧情？",
           "url": "https://www.zhihu.com/question/1997053344133448774",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时54分 ~ 03时55分]"
+          "appearance_count": 3,
+          "time_info": "[03时54分 ~ 05时06分]"
         }
       ]
     }
