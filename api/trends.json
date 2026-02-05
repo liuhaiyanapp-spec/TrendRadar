@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T16:03:17.725958+08:00",
-  "total_titles_processed": 1014,
+  "generated_at": "2026-02-05T19:11:11.129382+08:00",
+  "total_titles_processed": 1195,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待「游戏行业税率可能从 6% 调高至 32%」的传言？你认为游戏行业目前的税率合理吗？",
@@ -31,6 +31,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时54分 ~ 05时06分]"
+        },
+        {
+          "title": "如何评价 2 月 4 号《异环》三测的游戏表现？",
+          "url": "https://www.zhihu.com/question/2002340436161873464",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时10分 ~ 19时11分]"
         },
         {
           "title": "孩子寒假沉迷《蛋仔派对》、《我的世界》等游戏，这是社交需求还是网瘾前兆？",
