@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T16:02:02.660733+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-02-06T18:10:05.904444+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.cls.cn/detail/2282526",
           "source": "财联社热门",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时01分 ~ 16时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时01分 ~ 18时10分]"
         },
         {
           "title": "法国总统马克龙：法国将研究人工智能（AI）和视频游戏对儿童的影响。",
