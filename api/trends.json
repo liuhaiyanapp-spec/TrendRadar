@@ -1,48 +1,22 @@
 {
-  "generated_at": "2026-02-07T23:52:13.654615+08:00",
-  "total_titles_processed": 1349,
+  "generated_at": "2026-02-08T01:01:52.971947+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
           "title": "游戏账号狂氪金!爱泼斯坦诈尸?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350362&amp;topic_name=%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E7%8B%82%E6%B0%AA%E9%87%91%21%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%AF%88%E5%B0%B8%3F",
           "source": "贴吧",
           "ranks": [
-            5
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[21时56分 ~ 23时52分]"
-        },
-        {
-          "title": "《QQ 经典农场》已于 2 月 6 日上线，如何评价这款游戏？体验过的玩家觉得好玩吗？",
-          "url": "https://www.zhihu.com/question/2002745576580670133",
-          "source": "知乎",
-          "ranks": [
-            7,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时29分 ~ 07时54分]"
-        },
-        {
-          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
-          "url": "https://www.cls.cn/detail/2283603",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时54分 ~ 17时02分]"
+          "appearance_count": 1,
+          "time_info": "01时01分"
         }
       ]
     }
