@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-07T07:54:44.088752+08:00",
-  "total_titles_processed": 568,
+  "generated_at": "2026-02-07T12:55:05.451409+08:00",
+  "total_titles_processed": 777,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "《QQ 经典农场》已于 2 月 6 日上线，如何评价这款游戏？体验过的玩家觉得好玩吗？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时29分 ~ 07时54分]"
+        },
+        {
+          "title": "赋能还是毁灭？全球游戏厂商陷入一场关于AI的激辩",
+          "url": "https://www.cls.cn/detail/2283603",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时54分 ~ 12时55分]"
         }
       ]
     }
