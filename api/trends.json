@@ -1,41 +1,22 @@
 {
-  "generated_at": "2026-02-08T23:54:14.705135+08:00",
-  "total_titles_processed": 1262,
+  "generated_at": "2026-02-09T01:02:40.494323+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "游戏账号狂氪金!爱泼斯坦诈尸?",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350362&amp;topic_name=%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E7%8B%82%E6%B0%AA%E9%87%91%21%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%AF%88%E5%B0%B8%3F",
           "source": "贴吧",
           "ranks": [
-            1,
-            2,
-            10,
-            14,
-            17,
-            19,
-            21,
-            26,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时01分 ~ 23时54分]"
-        },
-        {
-          "title": "游戏里有哪些看似正常实则非常不合理的设定？",
-          "url": "https://www.zhihu.com/question/294596872",
-          "source": "知乎",
-          "ranks": [
-            17
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时59分"
+          "time_info": "01时02分"
         }
       ]
     }
