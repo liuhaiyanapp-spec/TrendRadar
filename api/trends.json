@@ -1,47 +1,7 @@
 {
-  "generated_at": "2026-02-09T23:16:10.690647+08:00",
-  "total_titles_processed": 1237,
+  "generated_at": "2026-02-10T02:39:51.894142+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "游戏账号狂氪金!爱泼斯坦诈尸?",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28350362&amp;topic_name=%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E7%8B%82%E6%B0%AA%E9%87%91%21%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E8%AF%88%E5%B0%B8%3F",
-          "source": "贴吧",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时02分 ~ 07时01分]"
-        },
-        {
-          "title": "如何评价游戏《仁王 3》，这一作有什么新的玩法和体验？",
-          "url": "https://www.zhihu.com/question/2003056692800222726",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
-        },
-        {
-          "title": "赵樱子曝娜扎打游戏很厉害",
-          "url": "https://s.weibo.com/weibo?q=%23%E8%B5%B5%E6%A8%B1%E5%AD%90%E6%9B%9D%E5%A8%9C%E6%89%8E%E6%89%93%E6%B8%B8%E6%88%8F%E5%BE%88%E5%8E%89%E5%AE%B3%23&t=31&band_rank=24&Refer=top",
-          "source": "微博",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时26分 ~ 13时27分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
