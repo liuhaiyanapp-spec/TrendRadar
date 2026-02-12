@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T16:03:50.212462+08:00",
-  "total_titles_processed": 881,
+  "generated_at": "2026-02-12T19:29:47.904226+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时19分 ~ 16时03分]"
+          "appearance_count": 3,
+          "time_info": "[13时19分 ~ 19时29分]"
         },
         {
           "title": "在电子游戏中，你最讨厌遇到哪种敌人设计或战斗机制？",
