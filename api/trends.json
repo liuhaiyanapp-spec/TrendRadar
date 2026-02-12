@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-12T13:19:21.198551+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-02-12T16:03:50.212462+08:00",
+  "total_titles_processed": 881,
   "failed_sources": [],
   "trends": [
     {
@@ -14,7 +14,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         },
@@ -23,11 +23,12 @@
           "url": "https://www.zhihu.com/question/1974408555412080093",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时19分 ~ 16时03分]"
         },
         {
           "title": "在电子游戏中，你最讨厌遇到哪种敌人设计或战斗机制？",
@@ -36,7 +37,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时19分"
         }
