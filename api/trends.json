@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-02-14T23:52:22.087030+08:00",
-  "total_titles_processed": 1350,
+  "generated_at": "2026-02-15T01:01:25.173594+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "《碧蓝航线》将停止老角色情人节信件更新，这会如何影响玩家的游戏体验与情感投入？",
-          "url": "https://www.zhihu.com/question/2004654316724692502",
-          "source": "知乎",
-          "ranks": [
-            10,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时58分 ~ 19时44分]"
-        },
-        {
-          "title": "各位大佬目前准大一想未来进入游戏研发行业，主要想从事客户端开发或者引擎之类的，能不能给点建议或规划?",
-          "url": "https://www.zhihu.com/question/1921339403743233420",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时57分 ~ 21时58分]"
-        },
-        {
-          "title": "为何说《双影奇境》或《双人成行》可能是最适合春节情人节期间，两人一起玩的游戏？你有何游玩故事值得分享？",
-          "url": "https://www.zhihu.com/question/2004936193150840930",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
