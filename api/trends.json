@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T05:01:09.983338+08:00",
-  "total_titles_processed": 415,
+  "generated_at": "2026-02-18T06:01:20.542000+08:00",
+  "total_titles_processed": 477,
   "failed_sources": [],
   "trends": [
     {
@@ -16,19 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 06时01分]"
         },
         {
           "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
           "url": "https://www.zhihu.com/question/2006713868894901535",
           "source": "知乎",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时00分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[05时00分 ~ 06时01分]"
         },
         {
           "title": "如何评价极客湾视频《手机游戏性能大横评：厂商作弊太疯狂！》？",
@@ -36,11 +37,12 @@
           "source": "知乎",
           "ranks": [
             6,
-            4
+            4,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时07分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时07分 ~ 06时01分]"
         }
       ]
     }
