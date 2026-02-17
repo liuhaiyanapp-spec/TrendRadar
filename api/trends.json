@@ -1,47 +1,33 @@
 {
-  "generated_at": "2026-02-17T22:38:07.684287+08:00",
-  "total_titles_processed": 1231,
+  "generated_at": "2026-02-18T02:07:25.144666+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "游戏主播芜湖大司马时隔 2 年复播，如何评价他的选择？",
-          "url": "https://www.zhihu.com/question/2005959350657709667",
-          "source": "知乎",
-          "ranks": [
-            19,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 13时15分]"
-        },
         {
           "title": "手机游戏性能大横评",
           "url": "https://www.douyin.com/hot/2403740",
           "source": "抖音",
           "ranks": [
-            6,
-            7,
-            8
+            1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时15分 ~ 22时38分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         },
         {
           "title": "如何评价极客湾视频《手机游戏性能大横评：厂商作弊太疯狂！》？",
           "url": "https://www.zhihu.com/question/2006523831091733383",
           "source": "知乎",
           "ranks": [
-            7
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时30分 ~ 22时38分]"
+          "appearance_count": 1,
+          "time_info": "02时07分"
         }
       ]
     }
