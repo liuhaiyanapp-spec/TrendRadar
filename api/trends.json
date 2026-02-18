@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-18T07:03:24.565179+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-02-18T13:17:02.401917+08:00",
+  "total_titles_processed": 745,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,21 @@
           "time_info": "[02时07分 ~ 07时03分]"
         },
         {
+          "title": "如何评价极客湾视频《手机游戏性能大横评：厂商作弊太疯狂！》？",
+          "url": "https://www.zhihu.com/question/2006523831091733383",
+          "source": "知乎",
+          "ranks": [
+            6,
+            4,
+            12,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时07分 ~ 13时17分]"
+        },
+        {
           "title": "为什么游戏里的难度选项往往只是调整敌人伤害，而不是让敌人变聪明或变蠢？",
           "url": "https://www.zhihu.com/question/2006713868894901535",
           "source": "知乎",
@@ -34,27 +49,13 @@
           "time_info": "[05时00分 ~ 07时03分]"
         },
         {
-          "title": "如何评价极客湾视频《手机游戏性能大横评：厂商作弊太疯狂！》？",
-          "url": "https://www.zhihu.com/question/2006523831091733383",
-          "source": "知乎",
-          "ranks": [
-            6,
-            4,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时07分 ~ 07时03分]"
-        },
-        {
           "title": "体验完游戏后，列位诸公如何评价 2.17 发布的翁法罗斯同人游戏《未竟之书》？",
           "url": "https://www.zhihu.com/question/2007235367913428731",
           "source": "知乎",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时03分"
         }
