@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T21:55:16.116756+08:00",
-  "total_titles_processed": 1193,
+  "generated_at": "2026-02-21T22:57:13.624592+08:00",
+  "total_titles_processed": 1249,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2004903122351452756",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时55分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时55分 ~ 22时57分]"
         },
         {
           "title": "微软：Asha Sharma接替Phil Spencer，担任游戏业务的首席执行官（CEO）。",
