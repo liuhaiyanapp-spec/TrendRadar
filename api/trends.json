@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T04:51:29.360797+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-02-22T05:46:10.065559+08:00",
+  "total_titles_processed": 389,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报告称 8GB 显卡阻碍游戏画面进步，这一说法合理吗？",
@@ -14,11 +14,23 @@
           "ranks": [
             11,
             12,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时00分 ~ 04时51分]"
+          "appearance_count": 7,
+          "time_info": "[01时00分 ~ 05时46分]"
+        },
+        {
+          "title": "RTS 与 RTT 之间的界限如此清晰明了，为何还有不少人搞混，甚至就连游戏 up 主都能搞混？",
+          "url": "https://www.zhihu.com/question/2008340346136978548",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时45分 ~ 05时46分]"
         }
       ]
     }
