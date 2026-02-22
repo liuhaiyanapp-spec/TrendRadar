@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-22T19:42:13.049068+08:00",
-  "total_titles_processed": 995,
+  "generated_at": "2026-02-22T21:56:03.793430+08:00",
+  "total_titles_processed": 1117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "报告称 8GB 显卡阻碍游戏画面进步，这一说法合理吗？",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时51分 ~ 17时02分]"
+        },
+        {
+          "title": "男子将游戏外挂伪装成声卡显卡销售",
+          "url": "https://www.toutiao.com/trending/7609512939771265060/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时55分 ~ 21时56分]"
         },
         {
           "title": "波比的游戏时间全五章速通",
