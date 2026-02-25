@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-02-25T16:07:16.576693+08:00",
-  "total_titles_processed": 868,
+  "generated_at": "2026-02-25T19:32:26.368748+08:00",
+  "total_titles_processed": 1056,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 4,
       "titles": [
+        {
+          "title": "波比的游戏时间第五章剧情讲解",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E6%AF%94%E7%9A%84%E6%B8%B8%E6%88%8F%E6%97%B6%E9%97%B4%E7%AC%AC%E4%BA%94%E7%AB%A0%E5%89%A7%E6%83%85%E8%AE%B2%E8%A7%A3",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12,
+            24,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时34分 ~ 19时32分]"
+        },
         {
           "title": "字节跳动超 400 亿元出售沐瞳科技，对其游戏业务意味着什么？",
           "url": "https://www.zhihu.com/question/2006631956604003126",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时34分 ~ 07时47分]"
-        },
-        {
-          "title": "波比的游戏时间第五章剧情讲解",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B3%A2%E6%AF%94%E7%9A%84%E6%B8%B8%E6%88%8F%E6%97%B6%E9%97%B4%E7%AC%AC%E4%BA%94%E7%AB%A0%E5%89%A7%E6%83%85%E8%AE%B2%E8%A7%A3",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时34分 ~ 16时07分]"
         },
         {
           "title": "游戏机被没收,男孩枪杀养父",
@@ -47,11 +48,12 @@
           "url": "https://www.zhihu.com/question/1991902837198837634",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时07分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时07分 ~ 19时32分]"
         }
       ]
     }
