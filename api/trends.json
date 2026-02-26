@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T05:01:01.549633+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-02-27T06:01:39.892536+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,30 +15,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时08分 ~ 06时01分]"
         },
         {
           "title": "男子网吧包间打游戏遭陌生女子猥亵",
           "url": "https://www.toutiao.com/trending/7609940843651186724/",
           "source": "今日头条",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时08分 ~ 06时01分]"
         },
         {
           "title": "如何评价完美旗下游戏《异环》将于 2026 年 4 月 23 日全平台公测？",
           "url": "https://www.zhihu.com/question/2010323597332336787",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时59分 ~ 05时01分]"
+          "appearance_count": 3,
+          "time_info": "[04时59分 ~ 06时01分]"
         }
       ]
     }
