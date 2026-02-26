@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-27T02:08:52.129427+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-27T05:01:01.549633+08:00",
+  "total_titles_processed": 408,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "送游戏被当舔狗,吧友狂挽尊",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 05时01分]"
         },
         {
           "title": "男子网吧包间打游戏遭陌生女子猥亵",
@@ -26,8 +26,19 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时08分"
+          "appearance_count": 3,
+          "time_info": "[02时08分 ~ 05时01分]"
+        },
+        {
+          "title": "如何评价完美旗下游戏《异环》将于 2026 年 4 月 23 日全平台公测？",
+          "url": "https://www.zhihu.com/question/2010323597332336787",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时59分 ~ 05时01分]"
         }
       ]
     }
