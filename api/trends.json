@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T19:59:28.727106+08:00",
-  "total_titles_processed": 1218,
+  "generated_at": "2026-02-27T22:11:34.705982+08:00",
+  "total_titles_processed": 1383,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             10,
             13,
             15,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时08分 ~ 19时59分]"
+          "appearance_count": 12,
+          "time_info": "[02时08分 ~ 22时11分]"
         },
         {
           "title": "男子网吧包间打游戏遭陌生女子猥亵",
@@ -51,11 +52,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%8E%A9%E5%87%BA%E5%90%8D%E5%A0%82%E7%9A%84%E6%8A%93%E4%BA%BA%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时59分 ~ 22时11分]"
         }
       ]
     }
