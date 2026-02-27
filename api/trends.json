@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T07:58:14.569482+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-02-27T13:06:55.166227+08:00",
+  "total_titles_processed": 774,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351050&amp;topic_name=%E9%80%81%E6%B8%B8%E6%88%8F%E8%A2%AB%E5%BD%93%E8%88%94%E7%8B%97%2C%E5%90%A7%E5%8F%8B%E7%8B%82%E6%8C%BD%E5%B0%8A",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时08分 ~ 07时58分]"
+          "appearance_count": 7,
+          "time_info": "[02时08分 ~ 13时06分]"
         },
         {
           "title": "男子网吧包间打游戏遭陌生女子猥亵",
