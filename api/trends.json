@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T01:01:36.595954+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-02-28T02:06:59.315169+08:00",
+  "total_titles_processed": 390,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时06分]"
         },
         {
           "title": "「你击杀了一只下瘟疫老鼠，获得掉落物 - 瘟疫长剑」这非常违和，为什么游戏里会经常出现？还有类似组合么？",
           "url": "https://www.zhihu.com/question/2010032126045729408",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时06分]"
         },
         {
           "title": "送游戏被当舔狗,吧友狂挽尊",
@@ -37,8 +38,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时00分 ~ 01时01分]"
+          "appearance_count": 3,
+          "time_info": "[01时00分 ~ 02时06分]"
         }
       ]
     }
