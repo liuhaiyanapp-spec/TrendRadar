@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-27T13:06:55.166227+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-02-27T16:02:01.706670+08:00",
+  "total_titles_processed": 936,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             5,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时08分 ~ 13时06分]"
+          "appearance_count": 9,
+          "time_info": "[02时08分 ~ 16时02分]"
         },
         {
           "title": "男子网吧包间打游戏遭陌生女子猥亵",
