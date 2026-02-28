@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-28T15:07:04.239933+08:00",
-  "total_titles_processed": 1074,
+  "generated_at": "2026-02-28T16:56:27.635747+08:00",
+  "total_titles_processed": 1250,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             15,
             13,
             24,
-            16
+            16,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时00分 ~ 12时36分]"
+          "appearance_count": 11,
+          "time_info": "[01时00分 ~ 16时56分]"
         },
         {
           "title": "送游戏被当舔狗,吧友狂挽尊",
