@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-01T04:50:29.949422+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-03-01T05:40:31.167147+08:00",
+  "total_titles_processed": 562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "玩出名堂的抓人游戏",
@@ -15,11 +15,12 @@
             24,
             21,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时42分 ~ 04时50分]"
+          "appearance_count": 6,
+          "time_info": "[01时42分 ~ 05时40分]"
         },
         {
           "title": "Steam 新品节到底是独立游戏的龙门，还是把几千个梦想扔进算法绞肉机里的万人坑？",
@@ -32,6 +33,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时59分 ~ 03时39分]"
+        },
+        {
+          "title": "如果对标《天国拯救 2》以中国历史上一段历史来开发一部游戏，可以选哪个时代？",
+          "url": "https://www.zhihu.com/question/1983661065372972851",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时40分"
         }
       ]
     }
