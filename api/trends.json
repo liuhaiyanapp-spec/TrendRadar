@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T03:00:00.131975+08:00",
-  "total_titles_processed": 438,
+  "generated_at": "2026-03-01T03:39:22.375116+08:00",
+  "total_titles_processed": 483,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "bilibili 热搜",
           "ranks": [
             24,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时42分 ~ 03时00分]"
+          "appearance_count": 4,
+          "time_info": "[01时42分 ~ 03时39分]"
         },
         {
           "title": "Steam 新品节到底是独立游戏的龙门，还是把几千个梦想扔进算法绞肉机里的万人坑？",
           "url": "https://www.zhihu.com/question/2009605639299692221",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时59分 ~ 03时00分]"
+          "appearance_count": 3,
+          "time_info": "[02时59分 ~ 03时39分]"
         }
       ]
     }
