@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-01T03:39:22.375116+08:00",
-  "total_titles_processed": 483,
+  "generated_at": "2026-03-01T04:50:29.949422+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             24,
             21,
-            22
+            22,
+            25
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时42分 ~ 03时39分]"
+          "appearance_count": 5,
+          "time_info": "[01时42分 ~ 04时50分]"
         },
         {
           "title": "Steam 新品节到底是独立游戏的龙门，还是把几千个梦想扔进算法绞肉机里的万人坑？",
