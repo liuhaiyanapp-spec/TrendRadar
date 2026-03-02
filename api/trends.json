@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T06:57:34.852204+08:00",
-  "total_titles_processed": 540,
+  "generated_at": "2026-03-03T07:54:13.350886+08:00",
+  "total_titles_processed": 610,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "我从来没玩过恐怖游戏，第一次玩《生化危机 9：安魂曲》，可以得到什么忠告？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时53分 ~ 05时07分]"
+        },
+        {
+          "title": "一个做游戏的开发者如果不停测试自己的游戏，会不会觉得玩起来很无聊？",
+          "url": "https://www.zhihu.com/question/2007584733505282252",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
         },
         {
           "title": "男孩趁家人睡着给游戏充值6千多元",
