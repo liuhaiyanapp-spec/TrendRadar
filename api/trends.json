@@ -1,58 +1,22 @@
 {
-  "generated_at": "2026-03-03T22:34:20.892718+08:00",
-  "total_titles_processed": 1466,
+  "generated_at": "2026-03-04T01:31:45.210944+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "Unity 终止向所有位于中国大陆及港澳地区的组织提供海外资源商店的访问权限，对于游戏开发者有何影响？",
           "url": "https://www.zhihu.com/question/2012101480908358204",
           "source": "知乎",
           "ranks": [
-            20,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时57分 ~ 22时34分]"
-        },
-        {
-          "title": "我从来没玩过恐怖游戏，第一次玩《生化危机 9：安魂曲》，可以得到什么忠告？",
-          "url": "https://www.zhihu.com/question/2010774968464592974",
-          "source": "知乎",
-          "ranks": [
-            14,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 05时07分]"
-        },
-        {
-          "title": "一个做游戏的开发者如果不停测试自己的游戏，会不会觉得玩起来很无聊？",
-          "url": "https://www.zhihu.com/question/2007584733505282252",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
-        },
-        {
-          "title": "男孩趁家人睡着给游戏充值6千多元",
-          "url": "https://www.toutiao.com/trending/7612417227425562687/",
-          "source": "今日头条",
-          "ranks": [
-            20
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时33分"
+          "time_info": "01时31分"
         }
       ]
     }
