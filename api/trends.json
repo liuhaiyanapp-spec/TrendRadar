@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T06:57:50.098665+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-03-04T07:54:25.787425+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 06时57分]"
+          "appearance_count": 4,
+          "time_info": "[03时53分 ~ 07时54分]"
         },
         {
           "title": "Unity 终止向所有位于中国大陆及港澳地区的组织提供海外资源商店的访问权限，对于游戏开发者有何影响？",
