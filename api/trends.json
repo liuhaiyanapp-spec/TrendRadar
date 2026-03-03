@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-03T13:07:22.063845+08:00",
-  "total_titles_processed": 837,
+  "generated_at": "2026-03-03T15:57:47.088274+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "我从来没玩过恐怖游戏，第一次玩《生化危机 9：安魂曲》，可以得到什么忠告？",
@@ -40,6 +40,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "Unity 终止向所有位于中国大陆及港澳地区的组织提供海外资源商店的访问权限，对于游戏开发者有何影响？",
+          "url": "https://www.zhihu.com/question/2012101480908358204",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时57分"
         }
       ]
     }
