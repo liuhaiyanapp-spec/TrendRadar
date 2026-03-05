@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T17:36:48.602693+08:00",
-  "total_titles_processed": 1557,
+  "generated_at": "2026-03-05T18:33:06.544272+08:00",
+  "total_titles_processed": 1652,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时38分 ~ 17时36分]"
+          "appearance_count": 6,
+          "time_info": "[15时38分 ~ 18时33分]"
         },
         {
           "title": "靳东说不能让年轻人只沉迷游戏短视频",
