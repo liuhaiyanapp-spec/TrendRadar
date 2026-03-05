@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-03-05T13:42:46.033112+08:00",
-  "total_titles_processed": 1137,
+  "generated_at": "2026-03-05T14:42:06.581065+08:00",
+  "total_titles_processed": 1244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "靳东说不能让年轻人只沉迷游戏短视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%B3%E4%B8%9C%E8%AF%B4%E4%B8%8D%E8%83%BD%E8%AE%A9%E5%B9%B4%E8%BD%BB%E4%BA%BA%E5%8F%AA%E6%B2%89%E8%BF%B7%E6%B8%B8%E6%88%8F%E7%9F%AD%E8%A7%86%E9%A2%91%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时41分 ~ 14时42分]"
+        },
         {
           "title": "二次元游戏的核心魅力到底是什么？",
           "url": "https://www.zhihu.com/question/2010310435828696739",
