@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T18:28:39.145708+08:00",
-  "total_titles_processed": 1546,
+  "generated_at": "2026-03-06T19:23:42.445450+08:00",
+  "total_titles_processed": 1637,
   "failed_sources": [],
   "trends": [
     {
@@ -30,8 +30,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时29分 ~ 18时28分]"
+          "appearance_count": 5,
+          "time_info": "[16时29分 ~ 19时23分]"
+        },
+        {
+          "title": "不是说概念神都很强吗，那如果一个人打的每把游戏都百分百输，他怎么走上人生巅峰？",
+          "url": "https://www.zhihu.com/question/5229096312",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时31分 ~ 19时23分]"
         },
         {
           "title": "索尼将重返独占，《羊蹄山之魂》等单机游戏不再移植 PC，对此你怎么看？",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时04分 ~ 13时41分]"
-        },
-        {
-          "title": "不是说概念神都很强吗，那如果一个人打的每把游戏都百分百输，他怎么走上人生巅峰？",
-          "url": "https://www.zhihu.com/question/5229096312",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时31分 ~ 18时28分]"
         }
       ]
     }
