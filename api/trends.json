@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-06T15:35:09.971086+08:00",
-  "total_titles_processed": 1222,
+  "generated_at": "2026-03-06T16:31:14.588845+08:00",
+  "total_titles_processed": 1336,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美政府出手,强拆腾讯游戏股权",
@@ -20,6 +20,17 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[01时56分 ~ 14时38分]"
+        },
+        {
+          "title": "五年级的小朋友沉迷用 Python 编写游戏，家长对此完全不懂的情况下，应该怎么教育引导？",
+          "url": "https://www.zhihu.com/question/2011755020413064619",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时31分]"
         },
         {
           "title": "索尼将重返独占，《羊蹄山之魂》等单机游戏不再移植 PC，对此你怎么看？",
