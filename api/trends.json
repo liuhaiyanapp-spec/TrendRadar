@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-06T13:41:19.415179+08:00",
-  "total_titles_processed": 1043,
+  "generated_at": "2026-03-06T14:38:52.706717+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时56分 ~ 13时41分]"
+          "appearance_count": 12,
+          "time_info": "[01时56分 ~ 14时38分]"
         },
         {
           "title": "索尼将重返独占，《羊蹄山之魂》等单机游戏不再移植 PC，对此你怎么看？",
