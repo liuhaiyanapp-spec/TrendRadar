@@ -1,62 +1,7 @@
 {
-  "generated_at": "2026-03-07T23:17:18.532520+08:00",
-  "total_titles_processed": 1739,
+  "generated_at": "2026-03-08T00:20:05.185793+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "不是说概念神都很强吗，那如果一个人打的每把游戏都百分百输，他怎么走上人生巅峰？",
-          "url": "https://www.zhihu.com/question/5229096312",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时32分 ~ 14时31分]"
-        },
-        {
-          "title": "网易被曝缩减游戏业务，已停止对名越稔洋工作室的资助",
-          "url": "https://wallstreetcn.com/livenews/3065701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            22,
-            26,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时17分 ~ 22时18分]"
-        },
-        {
-          "title": "为什么现在的策略游戏没有以前的感觉了？",
-          "url": "https://www.zhihu.com/question/524445474",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时54分"
-        },
-        {
-          "title": "游戏操作越来越复杂了吗",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E6%93%8D%E4%BD%9C%E8%B6%8A%E6%9D%A5%E8%B6%8A%E5%A4%8D%E6%9D%82%E4%BA%86%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时17分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
