@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-07T12:57:28.984501+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-03-07T13:36:18.104418+08:00",
+  "total_titles_processed": 1022,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时32分 ~ 12时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 13时36分]"
         },
         {
           "title": "为什么现在的策略游戏没有以前的感觉了？",
