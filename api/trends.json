@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-10T15:36:52.371816+08:00",
-  "total_titles_processed": 1340,
+  "generated_at": "2026-03-10T16:33:20.715465+08:00",
+  "total_titles_processed": 1443,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             14,
             9,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时51分 ~ 15时36分]"
+          "appearance_count": 15,
+          "time_info": "[00时51分 ~ 16时33分]"
         },
         {
           "title": "失落星船马拉松游戏评测",
