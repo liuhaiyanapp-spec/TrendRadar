@@ -1,41 +1,7 @@
 {
-  "generated_at": "2026-03-10T23:56:20.158267+08:00",
-  "total_titles_processed": 2183,
+  "generated_at": "2026-03-11T00:51:05.632319+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "李鸿彬代表：鼓励企业设立“老年用户体验官”，消弭数字鸿沟",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32733094",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            14,
-            9,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时51分 ~ 16时33分]"
-        },
-        {
-          "title": "失落星船马拉松游戏评测",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%B1%E8%90%BD%E6%98%9F%E8%88%B9%E9%A9%AC%E6%8B%89%E6%9D%BE%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时17分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
