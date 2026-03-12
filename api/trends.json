@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-12T22:50:01.512111+08:00",
-  "total_titles_processed": 2045,
+  "generated_at": "2026-03-12T23:53:21.932838+08:00",
+  "total_titles_processed": 2127,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             8,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时44分 ~ 22时50分]"
+          "appearance_count": 13,
+          "time_info": "[14时44分 ~ 23时53分]"
         },
         {
           "title": "日本任天堂宣布，新款宝可梦游戏Pokemon Pokopia仅四天就售出超过220万份，其中100万份在国内售出。",
