@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-12T13:45:56.861340+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-03-12T14:44:37.057172+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "日本任天堂宣布，新款宝可梦游戏Pokemon Pokopia仅四天就售出超过220万份，其中100万份在国内售出。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时17分"
+        },
+        {
+          "title": "政协委员建议将网络游戏防沉迷管控从 18 岁延长至 22 岁，这一建议可行吗？能否防范大学生游戏成瘾？",
+          "url": "https://www.zhihu.com/question/2015129744446878568",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时44分"
         }
       ]
     }
