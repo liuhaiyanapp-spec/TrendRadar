@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-03-13T12:07:03.187473+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-03-13T13:44:00.639960+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 3,
       "titles": [
+        {
+          "title": "代表建议游戏平台凌晨 1 点到 5 点强制关闭，成年人的游戏时间也要被限制吗？若实行会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2015376786591014918",
+          "source": "知乎",
+          "ranks": [
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时21分 ~ 13时44分]"
+        },
+        {
+          "title": "游戏角色跳跃动作是如何设计的",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E8%B7%B3%E8%B7%83%E5%8A%A8%E4%BD%9C%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            18,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时06分 ~ 13时44分]"
+        },
         {
           "title": "为什么说音游注定是小众游戏？",
           "url": "https://www.zhihu.com/question/385337638",
@@ -18,29 +42,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时27分 ~ 07时21分]"
-        },
-        {
-          "title": "代表建议游戏平台凌晨 1 点到 5 点强制关闭，成年人的游戏时间也要被限制吗？若实行会带来什么影响？",
-          "url": "https://www.zhihu.com/question/2015376786591014918",
-          "source": "知乎",
-          "ranks": [
-            19,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时21分 ~ 12时07分]"
-        },
-        {
-          "title": "游戏角色跳跃动作是如何设计的",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E8%A7%92%E8%89%B2%E8%B7%B3%E8%B7%83%E5%8A%A8%E4%BD%9C%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时06分 ~ 12时07分]"
         }
       ]
     }
