@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-13T15:40:42.914049+08:00",
-  "total_titles_processed": 1314,
+  "generated_at": "2026-03-13T16:32:52.722630+08:00",
+  "total_titles_processed": 1408,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时21分 ~ 15时40分]"
+          "appearance_count": 8,
+          "time_info": "[09时21分 ~ 16时32分]"
         },
         {
           "title": "游戏角色跳跃动作是如何设计的",
@@ -27,11 +27,12 @@
           "ranks": [
             18,
             29,
-            19
+            19,
+            22
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时06分 ~ 15时40分]"
+          "appearance_count": 7,
+          "time_info": "[12时06分 ~ 16时32分]"
         },
         {
           "title": "为什么说音游注定是小众游戏？",
