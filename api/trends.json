@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T15:40:51.739007+08:00",
-  "total_titles_processed": 854,
+  "generated_at": "2026-03-15T16:29:24.166880+08:00",
+  "total_titles_processed": 926,
   "failed_sources": [],
   "trends": [
     {
@@ -14,22 +14,24 @@
           "ranks": [
             5,
             6,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时27分 ~ 15时40分]"
+          "appearance_count": 5,
+          "time_info": "[12时27分 ~ 16时29分]"
         },
         {
           "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
           "url": "https://m.thepaper.cn/newsDetail_forward_32732284",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时40分 ~ 16时29分]"
         }
       ]
     }
