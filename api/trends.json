@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T00:23:43.000709+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-03-16T01:22:52.084806+08:00",
+  "total_titles_processed": 360,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351822&amp;topic_name=%E6%88%98%E9%9B%B7%E4%B8%8A%E5%A4%AE%E8%A7%86%2C%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2%E8%A2%AB%E6%89%93%E5%81%87",
           "source": "贴吧",
           "ranks": [
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         },
         {
           "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
@@ -26,8 +27,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 01时22分]"
         }
       ]
     }
