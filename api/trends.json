@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-15T17:27:55.678211+08:00",
-  "total_titles_processed": 1000,
+  "generated_at": "2026-03-15T18:23:50.096641+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时27分 ~ 17时27分]"
+          "appearance_count": 7,
+          "time_info": "[12时27分 ~ 18时23分]"
         },
         {
           "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
@@ -30,8 +30,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时40分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[15时40分 ~ 18时23分]"
         },
         {
           "title": "自闭症女孩玩游戏半年充45万",
@@ -40,7 +40,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         }
