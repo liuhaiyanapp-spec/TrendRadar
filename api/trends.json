@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-16T09:46:24.372620+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-03-16T12:35:34.756801+08:00",
+  "total_titles_processed": 856,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "战雷上央视,游戏画面被打假",
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             16,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时46分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 12时35分]"
         },
         {
           "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
@@ -32,6 +33,17 @@
           "time_info": "[00时23分 ~ 09时46分]"
         },
         {
+          "title": "网易、腾讯正在大规模关闭收缩海外工作室战线，它们为什么这么做？这是游戏行业普遍的趋势吗？",
+          "url": "https://www.zhihu.com/question/2015389671794896944",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时35分"
+        },
+        {
           "title": "游戏主播「清雨 Tpor」毁号受害者发声将诉诸法律程序，在这件事情上法律能起作用吗？",
           "url": "https://www.zhihu.com/question/2012589119847495165",
           "source": "知乎",
@@ -41,8 +53,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时21分 ~ 07时23分]"
+          "appearance_count": 5,
+          "time_info": "[04时21分 ~ 12时35分]"
         }
       ]
     }
