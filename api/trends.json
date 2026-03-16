@@ -1,92 +1,22 @@
 {
-  "generated_at": "2026-03-16T23:59:46.409077+08:00",
-  "total_titles_processed": 1755,
+  "generated_at": "2026-03-17T01:02:42.141179+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "战雷上央视,游戏画面被打假",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351822&amp;topic_name=%E6%88%98%E9%9B%B7%E4%B8%8A%E5%A4%AE%E8%A7%86%2C%E6%B8%B8%E6%88%8F%E7%94%BB%E9%9D%A2%E8%A2%AB%E6%89%93%E5%81%87",
-          "source": "贴吧",
-          "ranks": [
-            14,
-            16,
-            15,
-            26,
-            28,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时23分 ~ 18时53分]"
-        },
-        {
-          "title": "网易、腾讯正在大规模关闭收缩海外工作室战线，它们为什么这么做？这是游戏行业普遍的趋势吗？",
-          "url": "https://www.zhihu.com/question/2015389671794896944",
-          "source": "知乎",
-          "ranks": [
-            4,
-            19,
-            3,
-            8,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时35分 ~ 20时54分]"
-        },
-        {
-          "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32732284",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时46分]"
-        },
         {
           "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
           "url": "https://www.zhihu.com/question/2015963736171644347",
           "source": "知乎",
           "ranks": [
-            9,
-            5,
-            18
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时53分 ~ 23时59分]"
-        },
-        {
-          "title": "AI对游戏版权有何影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时58分 ~ 22时18分]"
-        },
-        {
-          "title": "游戏主播「清雨 Tpor」毁号受害者发声将诉诸法律程序，在这件事情上法律能起作用吗？",
-          "url": "https://www.zhihu.com/question/2012589119847495165",
-          "source": "知乎",
-          "ranks": [
-            20,
-            18,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时21分 ~ 12时35分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     }
