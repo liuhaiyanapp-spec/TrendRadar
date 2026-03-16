@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T07:23:23.514371+08:00",
-  "total_titles_processed": 539,
+  "generated_at": "2026-03-16T09:46:24.372620+08:00",
+  "total_titles_processed": 682,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            16
+            16,
+            15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时46分]"
         },
         {
           "title": "315｜十年玩家称“无端被禁言一天”起诉索赔1元，游戏官方回应“存在不当言行”",
@@ -27,8 +28,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时23分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 09时46分]"
         },
         {
           "title": "游戏主播「清雨 Tpor」毁号受害者发声将诉诸法律程序，在这件事情上法律能起作用吗？",
