@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T06:46:21.004871+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-03-17T07:25:45.738628+08:00",
+  "total_titles_processed": 660,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
@@ -55,6 +55,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 05时33分]"
+        },
+        {
+          "title": "有没有哪种游戏类型已经几乎消失在游戏市场里的了？或者哪些成功的类型后续很少有后继者？",
+          "url": "https://www.zhihu.com/question/1998866867037685496",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         }
       ]
     }
