@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-16T20:54:29.433670+08:00",
-  "total_titles_processed": 1512,
+  "generated_at": "2026-03-16T22:18:38.644143+08:00",
+  "total_titles_processed": 1636,
   "failed_sources": [],
   "trends": [
     {
@@ -51,17 +51,6 @@
           "time_info": "[00时23分 ~ 09时46分]"
         },
         {
-          "title": "AI对游戏版权有何影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时58分 ~ 18时53分]"
-        },
-        {
           "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
           "url": "https://www.zhihu.com/question/2015963736171644347",
           "source": "知乎",
@@ -70,8 +59,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时53分 ~ 20时54分]"
+          "appearance_count": 5,
+          "time_info": "[18时53分 ~ 22时18分]"
+        },
+        {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时58分 ~ 22时18分]"
         },
         {
           "title": "游戏主播「清雨 Tpor」毁号受害者发声将诉诸法律程序，在这件事情上法律能起作用吗？",
