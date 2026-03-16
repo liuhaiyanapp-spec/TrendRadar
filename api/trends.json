@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T04:32:11.508165+08:00",
-  "total_titles_processed": 495,
+  "generated_at": "2026-03-17T05:33:03.051923+08:00",
+  "total_titles_processed": 552,
   "failed_sources": [],
   "trends": [
     {
@@ -22,6 +22,18 @@
           "time_info": "[01时02分 ~ 04时32分]"
         },
         {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时52分 ~ 05时33分]"
+        },
+        {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
           "url": "https://flash.jin10.com/detail/20260317023121292800",
           "source": "金十数据",
@@ -33,27 +45,16 @@
           "time_info": "02时52分"
         },
         {
-          "title": "AI对游戏版权有何影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时52分 ~ 04时32分]"
-        },
-        {
           "title": "以游戏《生化危机》中里昂的工资水平，他在美国能过上什么样的生活？",
           "url": "https://www.zhihu.com/question/1995548550365472676",
           "source": "知乎",
           "ranks": [
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时31分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[04时31分 ~ 05时33分]"
         }
       ]
     }
