@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-17T14:56:28.500368+08:00",
-  "total_titles_processed": 1212,
+  "generated_at": "2026-03-17T15:51:29.640813+08:00",
+  "total_titles_processed": 1315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 7,
       "titles": [
+        {
+          "title": "AI对游戏版权有何影响",
+          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30,
+            24,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时52分 ~ 15时51分]"
+        },
         {
           "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
           "url": "https://www.zhihu.com/question/2015963736171644347",
@@ -22,18 +35,6 @@
           "time_info": "[01时02分 ~ 04时32分]"
         },
         {
-          "title": "AI对游戏版权有何影响",
-          "url": "https://search.bilibili.com/all?keyword=AI%E5%AF%B9%E6%B8%B8%E6%88%8F%E7%89%88%E6%9D%83%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[02时52分 ~ 05时33分]"
-        },
-        {
           "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
           "url": "https://www.cls.cn/detail/2314845",
           "source": "财联社热门",
@@ -41,11 +42,12 @@
             7,
             6,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时23分 ~ 14时56分]"
+          "appearance_count": 6,
+          "time_info": "[09时23分 ~ 15时51分]"
         },
         {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
