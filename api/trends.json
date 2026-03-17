@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T04:32:36.906192+08:00",
-  "total_titles_processed": 468,
+  "generated_at": "2026-03-18T05:38:59.849149+08:00",
+  "total_titles_processed": 528,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时39分 ~ 04时32分]"
+          "appearance_count": 7,
+          "time_info": "[01时39分 ~ 05时38分]"
         },
         {
           "title": "如何看待《杀戮尖塔 2》转到 godot 引擎并大获成功，这对于独立游戏开发者有什么启示？",
@@ -30,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时51分 ~ 04时32分]"
+          "appearance_count": 4,
+          "time_info": "[03时51分 ~ 05时38分]"
         }
       ]
     }
