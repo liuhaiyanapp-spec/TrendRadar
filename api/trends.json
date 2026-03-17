@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T22:16:34.742473+08:00",
-  "total_titles_processed": 1956,
+  "generated_at": "2026-03-17T23:58:50.478921+08:00",
+  "total_titles_processed": 2060,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "AI对游戏版权有何影响",
@@ -50,17 +50,6 @@
           "time_info": "[09时23分 ~ 15时51分]"
         },
         {
-          "title": "假如你玩的游戏开启了DLSS5",
-          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%BD%A0%E7%8E%A9%E7%9A%84%E6%B8%B8%E6%88%8F%E5%BC%80%E5%90%AF%E4%BA%86DLSS5",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时16分"
-        },
-        {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
           "url": "https://flash.jin10.com/detail/20260317023121292800",
           "source": "金十数据",
@@ -70,6 +59,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
+        },
+        {
+          "title": "假如你玩的游戏开启了DLSS5",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E4%BD%A0%E7%8E%A9%E7%9A%84%E6%B8%B8%E6%88%8F%E5%BC%80%E5%90%AF%E4%BA%86DLSS5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时16分 ~ 23时58分]"
         },
         {
           "title": "以游戏《生化危机》中里昂的工资水平，他在美国能过上什么样的生活？",
@@ -82,6 +83,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 05时33分]"
+        },
+        {
+          "title": "如何看待网络游戏首次被纳入「十五五」规划？这会对国内游戏行业发展与出海带来哪些影响？",
+          "url": "https://www.zhihu.com/question/2016817221809218289",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时58分"
         },
         {
           "title": "有没有哪种游戏类型已经几乎消失在游戏市场里的了？或者哪些成功的类型后续很少有后继者？",
