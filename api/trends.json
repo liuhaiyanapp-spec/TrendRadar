@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T13:55:11.411583+08:00",
-  "total_titles_processed": 1115,
+  "generated_at": "2026-03-17T14:56:28.500368+08:00",
+  "total_titles_processed": 1212,
   "failed_sources": [],
   "trends": [
     {
@@ -34,6 +34,20 @@
           "time_info": "[02时52分 ~ 05时33分]"
         },
         {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时23分 ~ 14时56分]"
+        },
+        {
           "title": "市场消息：英伟达旗下的DLSS 5技术通过人工智能驱动，在游戏的视觉保真度方面实现了突破性进展。",
           "url": "https://flash.jin10.com/detail/20260317023121292800",
           "source": "金十数据",
@@ -43,19 +57,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时52分"
-        },
-        {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时23分 ~ 13时55分]"
         },
         {
           "title": "以游戏《生化危机》中里昂的工资水平，他在美国能过上什么样的生活？",
