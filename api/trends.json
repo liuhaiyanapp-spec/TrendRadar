@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-17T09:23:32.681499+08:00",
-  "total_titles_processed": 817,
+  "generated_at": "2026-03-17T12:11:47.230761+08:00",
+  "total_titles_processed": 992,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何评价游戏主播炫神禁止自己的录播员「就看看桑」继续录制传播自己的直播，还逼着他注销账号？",
@@ -61,11 +61,12 @@
           "url": "https://www.cls.cn/detail/2314845",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时23分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时23分 ~ 12时11分]"
         },
         {
           "title": "有没有哪种游戏类型已经几乎消失在游戏市场里的了？或者哪些成功的类型后续很少有后继者？",
@@ -77,6 +78,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
+        },
+        {
+          "title": "叠纸游戏称封号是华为原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%8F%A0%E7%BA%B8%E6%B8%B8%E6%88%8F%E7%A7%B0%E5%B0%81%E5%8F%B7%E6%98%AF%E5%8D%8E%E4%B8%BA%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时11分"
         }
       ]
     }
