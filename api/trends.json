@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T02:53:53.687513+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-03-18T03:52:10.527861+08:00",
+  "total_titles_processed": 423,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待网络游戏首次被纳入「十五五」规划？这会对国内游戏行业发展与出海带来哪些影响？",
@@ -13,11 +13,23 @@
           "source": "知乎",
           "ranks": [
             12,
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时39分 ~ 02时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时39分 ~ 03时52分]"
+        },
+        {
+          "title": "如何看待《杀戮尖塔 2》转到 godot 引擎并大获成功，这对于独立游戏开发者有什么启示？",
+          "url": "https://www.zhihu.com/question/2015546277190993578",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 03时52分]"
         }
       ]
     }
