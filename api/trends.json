@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-17T12:11:47.230761+08:00",
-  "total_titles_processed": 992,
+  "generated_at": "2026-03-17T13:55:11.411583+08:00",
+  "total_titles_processed": 1115,
   "failed_sources": [],
   "trends": [
     {
@@ -45,6 +45,19 @@
           "time_info": "02时52分"
         },
         {
+          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
+          "url": "https://www.cls.cn/detail/2314845",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时23分 ~ 13时55分]"
+        },
+        {
           "title": "以游戏《生化危机》中里昂的工资水平，他在美国能过上什么样的生活？",
           "url": "https://www.zhihu.com/question/1995548550365472676",
           "source": "知乎",
@@ -55,18 +68,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时31分 ~ 05时33分]"
-        },
-        {
-          "title": "英伟达DLSS 5采用生成式AI提升游戏真实感 黄仁勋：图形技术领域的GPT时刻",
-          "url": "https://www.cls.cn/detail/2314845",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时23分 ~ 12时11分]"
         },
         {
           "title": "有没有哪种游戏类型已经几乎消失在游戏市场里的了？或者哪些成功的类型后续很少有后继者？",
@@ -86,7 +87,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时11分"
         }
