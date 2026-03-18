@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-18T12:18:02.930481+08:00",
-  "total_titles_processed": 949,
+  "generated_at": "2026-03-18T13:58:57.287180+08:00",
+  "total_titles_processed": 1067,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
         {
           "title": "如何看待网络游戏首次被纳入「十五五」规划？这会对国内游戏行业发展与出海带来哪些影响？",
@@ -33,6 +33,39 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时51分 ~ 05时38分]"
+        },
+        {
+          "title": "怎样看待 switch 2 更新固件 22.0.0，掌机模式可以运行 ns1 游戏的 TV 模式？",
+          "url": "https://www.zhihu.com/question/2017191154391754316",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "记忆里射箭弓都是竖起来，但很多游戏会使用横握弓射箭的方式，在现实中真的可行吗？两种姿势有什么优缺点？",
+          "url": "https://www.zhihu.com/question/2014310673509786207",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
+        },
+        {
+          "title": "为何游戏大厂都在聊AI",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%BA%E4%BD%95%E6%B8%B8%E6%88%8F%E5%A4%A7%E5%8E%82%E9%83%BD%E5%9C%A8%E8%81%8AAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时58分"
         }
       ]
     }
