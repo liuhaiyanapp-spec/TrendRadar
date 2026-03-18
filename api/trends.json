@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-18T19:40:54.888906+08:00",
-  "total_titles_processed": 1616,
+  "generated_at": "2026-03-18T20:53:28.249576+08:00",
+  "total_titles_processed": 1727,
   "failed_sources": [],
   "trends": [
     {
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时51分 ~ 19时40分]"
+          "appearance_count": 5,
+          "time_info": "[17时51分 ~ 20时53分]"
         },
         {
           "title": "记忆里射箭弓都是竖起来，但很多游戏会使用横握弓射箭的方式，在现实中真的可行吗？两种姿势有什么优缺点？",
@@ -110,7 +110,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时40分"
         }
