@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T19:32:06.197354+08:00",
-  "total_titles_processed": 1837,
+  "generated_at": "2026-03-19T20:44:43.773008+08:00",
+  "total_titles_processed": 1957,
   "failed_sources": [],
   "trends": [
     {
@@ -18,11 +18,12 @@
             19,
             20,
             21,
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时04分 ~ 19时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时04分 ~ 20时44分]"
         },
         {
           "title": "《红色沙漠》IGN 评分仅 6 分，这游戏表现到底如何？",
