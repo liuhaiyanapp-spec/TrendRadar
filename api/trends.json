@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-19T18:33:55.823046+08:00",
-  "total_titles_processed": 1735,
+  "generated_at": "2026-03-19T19:32:06.197354+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "籽岷又爆典:玩家需适应游戏",
@@ -17,11 +17,12 @@
             15,
             19,
             20,
-            21
+            21,
+            22
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时04分 ~ 18时33分]"
+          "appearance_count": 20,
+          "time_info": "[00时04分 ~ 19时32分]"
         },
         {
           "title": "《红色沙漠》IGN 评分仅 6 分，这游戏表现到底如何？",
@@ -33,6 +34,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时34分 ~ 18时33分]"
+        },
+        {
+          "title": "红色沙漠游戏评测",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BA%A2%E8%89%B2%E6%B2%99%E6%BC%A0%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时31分 ~ 19时32分]"
         },
         {
           "title": "迪士尼首席执行官：公司将为其流媒体服务新增体验和游戏。",
