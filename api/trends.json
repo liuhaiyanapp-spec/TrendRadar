@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T13:46:14.827870+08:00",
-  "total_titles_processed": 1117,
+  "generated_at": "2026-03-20T14:45:16.546717+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -17,19 +17,20 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时50分 ~ 13时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时50分 ~ 14时45分]"
         },
         {
           "title": "steam春促史低游戏推荐",
           "url": "https://search.bilibili.com/all?keyword=steam%E6%98%A5%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
           "source": "bilibili 热搜",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时08分 ~ 13时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时08分 ~ 14时45分]"
         },
         {
           "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
