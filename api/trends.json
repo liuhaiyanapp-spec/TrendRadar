@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-20T14:45:16.546717+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-03-20T15:42:08.103871+08:00",
+  "total_titles_processed": 1301,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 4,
       "titles": [
+        {
+          "title": "steam春促史低游戏推荐",
+          "url": "https://search.bilibili.com/all?keyword=steam%E6%98%A5%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时08分 ~ 15时42分]"
+        },
         {
           "title": "籽岷又爆典:玩家需适应游戏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352034&amp;topic_name=%E7%B1%BD%E5%B2%B7%E5%8F%88%E7%88%86%E5%85%B8%3A%E7%8E%A9%E5%AE%B6%E9%9C%80%E9%80%82%E5%BA%94%E6%B8%B8%E6%88%8F",
@@ -17,20 +29,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 14时45分]"
-        },
-        {
-          "title": "steam春促史低游戏推荐",
-          "url": "https://search.bilibili.com/all?keyword=steam%E6%98%A5%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时08分 ~ 14时45分]"
+          "appearance_count": 18,
+          "time_info": "[00时50分 ~ 15时42分]"
         },
         {
           "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
