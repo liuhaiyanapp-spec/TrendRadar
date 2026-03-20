@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T18:32:08.691777+08:00",
-  "total_titles_processed": 1612,
+  "generated_at": "2026-03-20T19:26:39.874897+08:00",
+  "total_titles_processed": 1708,
   "failed_sources": [],
   "trends": [
     {
@@ -30,11 +30,12 @@
             25,
             27,
             29,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时50分 ~ 18时32分]"
+          "appearance_count": 23,
+          "time_info": "[00时50分 ~ 19时26分]"
         },
         {
           "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
