@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T15:42:08.103871+08:00",
-  "total_titles_processed": 1301,
+  "generated_at": "2026-03-20T16:33:33.489597+08:00",
+  "total_titles_processed": 1398,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时08分 ~ 15时42分]"
+          "appearance_count": 8,
+          "time_info": "[12时08分 ~ 16时33分]"
         },
         {
           "title": "籽岷又爆典:玩家需适应游戏",
@@ -29,8 +30,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时50分 ~ 15时42分]"
+          "appearance_count": 19,
+          "time_info": "[00时50分 ~ 16时33分]"
         },
         {
           "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
