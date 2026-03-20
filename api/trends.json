@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T20:41:09.695905+08:00",
-  "total_titles_processed": 1821,
+  "generated_at": "2026-03-20T21:57:52.357968+08:00",
+  "total_titles_processed": 1945,
   "failed_sources": [],
   "trends": [
     {
@@ -31,22 +31,24 @@
             27,
             29,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时50分 ~ 20时41分]"
+          "appearance_count": 26,
+          "time_info": "[00时50分 ~ 21时57分]"
         },
         {
           "title": "如何评价腾讯 25 年财报中，新增长青游戏仅有《三角洲行动》，并无其他游戏？",
           "url": "https://www.zhihu.com/question/2017680623167357994",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时40分 ~ 20时41分]"
+          "appearance_count": 3,
+          "time_info": "[20时40分 ~ 21时57分]"
         },
         {
           "title": "据华尔街日报：OpenAI正采取措施简化用户体验，计划推出桌面“超级应用”，整合Codex、ChatGPT和浏览器。",
