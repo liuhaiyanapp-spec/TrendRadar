@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-21T06:21:28.657957+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-03-21T07:23:02.970782+08:00",
+  "total_titles_processed": 626,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时35分 ~ 06时21分]"
+          "appearance_count": 10,
+          "time_info": "[00时35分 ~ 07时23分]"
         },
         {
           "title": "如何评价《王者荣耀世界》前瞻直播公开的游戏内容，它能成为腾讯游戏的新一代旗舰吗？",
@@ -36,11 +36,12 @@
           "url": "https://search.bilibili.com/all?keyword=steam%E6%98%A5%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
           "source": "bilibili 热搜",
           "ranks": [
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "appearance_count": 3,
+          "time_info": "[04时24分 ~ 07时23分]"
         }
       ]
     }
