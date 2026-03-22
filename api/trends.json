@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T06:19:19.444055+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-03-23T07:21:08.958659+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时21分 ~ 06时19分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 07时21分]"
         },
         {
           "title": "想知道现在的大学生一天要是不刷视频打游戏，还能干什么呢？",
@@ -33,6 +33,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 04时19分]"
+        },
+        {
+          "title": "《权力的游戏》中雪伊到底要什么？为什么她要背叛小恶魔？",
+          "url": "https://www.zhihu.com/question/24544351",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         }
       ]
     }
