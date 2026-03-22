@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T21:39:55.375929+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-03-22T22:22:21.761288+08:00",
+  "total_titles_processed": 1411,
   "failed_sources": [],
   "trends": [
     {
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时18分 ~ 21时39分]"
+          "appearance_count": 4,
+          "time_info": "[19时18分 ~ 22时22分]"
         },
         {
           "title": "你有过因为一个女角色而入坑一个游戏的经历吗？",
@@ -26,11 +26,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时26分 ~ 18时21分]"
+          "appearance_count": 4,
+          "time_info": "[17时26分 ~ 22时22分]"
         }
       ]
     }
