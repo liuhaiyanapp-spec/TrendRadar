@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-22T22:22:21.761288+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-03-22T23:20:23.409102+08:00",
+  "total_titles_processed": 1469,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             17,
-            15
+            15,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时18分 ~ 22时22分]"
+          "appearance_count": 5,
+          "time_info": "[19时18分 ~ 23时20分]"
         },
         {
           "title": "你有过因为一个女角色而入坑一个游戏的经历吗？",
