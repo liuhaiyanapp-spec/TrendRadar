@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T02:27:34.403104+08:00",
-  "total_titles_processed": 374,
+  "generated_at": "2026-03-23T03:21:06.835785+08:00",
+  "total_titles_processed": 393,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             7,
             8,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时21分]"
         },
         {
           "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
@@ -29,8 +30,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 02时27分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 03时21分]"
         }
       ]
     }
