@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-23T04:19:26.483198+08:00",
-  "total_titles_processed": 411,
+  "generated_at": "2026-03-23T05:20:32.042625+08:00",
+  "total_titles_processed": 439,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 2,
       "titles": [
+        {
+          "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32800865",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时21分 ~ 05时20分]"
+        },
         {
           "title": "想知道现在的大学生一天要是不刷视频打游戏，还能干什么呢？",
           "url": "https://www.zhihu.com/question/575275977",
@@ -16,19 +29,6 @@
             8,
             17,
             18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
-        },
-        {
-          "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32800865",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            15
           ],
           "is_new": false,
           "appearance_count": 6,
