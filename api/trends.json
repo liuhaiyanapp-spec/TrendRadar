@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-03-22T20:34:26.182797+08:00",
-  "total_titles_processed": 1293,
+  "generated_at": "2026-03-22T21:39:55.375929+08:00",
+  "total_titles_processed": 1370,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 2,
       "titles": [
+        {
+          "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32800865",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时18分 ~ 21时39分]"
+        },
         {
           "title": "你有过因为一个女角色而入坑一个游戏的经历吗？",
           "url": "https://www.zhihu.com/question/1997959307812168955",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时26分 ~ 18时21分]"
-        },
-        {
-          "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32800865",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时18分 ~ 20时34分]"
         }
       ]
     }
