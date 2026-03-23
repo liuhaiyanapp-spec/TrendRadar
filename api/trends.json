@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-23T12:23:29.501296+08:00",
-  "total_titles_processed": 835,
+  "generated_at": "2026-03-23T14:07:21.561336+08:00",
+  "total_titles_processed": 976,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             14,
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 12时23分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 14时07分]"
         },
         {
           "title": "想知道现在的大学生一天要是不刷视频打游戏，还能干什么呢？",
@@ -52,7 +53,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时23分"
         }
