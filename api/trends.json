@@ -1,76 +1,7 @@
 {
-  "generated_at": "2026-03-23T23:54:53.214687+08:00",
-  "total_titles_processed": 1853,
+  "generated_at": "2026-03-24T01:02:26.771206+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32800865",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            12,
-            15,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时21分 ~ 14时07分]"
-        },
-        {
-          "title": "想知道现在的大学生一天要是不刷视频打游戏，还能干什么呢？",
-          "url": "https://www.zhihu.com/question/575275977",
-          "source": "知乎",
-          "ranks": [
-            7,
-            8,
-            17,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 04时19分]"
-        },
-        {
-          "title": "《权力的游戏》中雪伊到底要什么？为什么她要背叛小恶魔？",
-          "url": "https://www.zhihu.com/question/24544351",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时26分]"
-        },
-        {
-          "title": "肉鸽游戏为何风靡全球",
-          "url": "https://search.bilibili.com/all?keyword=%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F%E4%B8%BA%E4%BD%95%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时48分 ~ 19时39分]"
-        },
-        {
-          "title": "如何评价游戏《龙胤立志传》，你能给它打几分？",
-          "url": "https://www.zhihu.com/question/2015579859334755761",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时23分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
