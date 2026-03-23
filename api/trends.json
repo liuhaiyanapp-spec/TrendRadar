@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T09:26:53.545956+08:00",
-  "total_titles_processed": 651,
+  "generated_at": "2026-03-23T12:23:29.501296+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
@@ -17,8 +17,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 09时26分]"
+          "appearance_count": 12,
+          "time_info": "[00时21分 ~ 12时23分]"
         },
         {
           "title": "想知道现在的大学生一天要是不刷视频打游戏，还能干什么呢？",
@@ -44,6 +44,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时26分]"
+        },
+        {
+          "title": "如何评价游戏《龙胤立志传》，你能给它打几分？",
+          "url": "https://www.zhihu.com/question/2015579859334755761",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时23分"
         }
       ]
     }
