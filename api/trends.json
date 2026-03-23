@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-23T17:57:14.855953+08:00",
-  "total_titles_processed": 1337,
+  "generated_at": "2026-03-23T18:48:20.308343+08:00",
+  "total_titles_processed": 1434,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "从奥斯卡到比特币：人类为何痴迷于排名和地位游戏？",
@@ -45,6 +45,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时20分 ~ 09时26分]"
+        },
+        {
+          "title": "肉鸽游戏为何风靡全球",
+          "url": "https://search.bilibili.com/all?keyword=%E8%82%89%E9%B8%BD%E6%B8%B8%E6%88%8F%E4%B8%BA%E4%BD%95%E9%A3%8E%E9%9D%A1%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时48分"
         },
         {
           "title": "如何评价游戏《龙胤立志传》，你能给它打几分？",
