@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-25T04:34:58.084735+08:00",
-  "total_titles_processed": 572,
+  "generated_at": "2026-03-25T05:31:50.124490+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             23,
             24,
-            26
+            26,
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时01分 ~ 04时34分]"
+          "appearance_count": 6,
+          "time_info": "[00时01分 ~ 05时31分]"
         },
         {
           "title": "为什么游戏护送任务里的 NPC，移动速度总是介于「我走路嫌慢」和「我跑步嫌快」的尴尬区间？",
@@ -29,8 +30,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时50分 ~ 04时34分]"
+          "appearance_count": 3,
+          "time_info": "[03时50分 ~ 05时31分]"
         }
       ]
     }
