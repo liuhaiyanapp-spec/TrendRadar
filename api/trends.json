@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-03-25T00:01:04.568698+08:00",
-  "total_titles_processed": 279,
-  "failed_sources": [
-    "wallstreetcn-quick"
-  ],
+  "generated_at": "2026-03-25T01:02:18.299758+08:00",
+  "total_titles_processed": 369,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
@@ -14,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时01分"
+          "appearance_count": 2,
+          "time_info": "[00时01分 ~ 01时02分]"
         }
       ]
     }
