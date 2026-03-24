@@ -1,59 +1,24 @@
 {
-  "generated_at": "2026-03-24T22:17:11.429975+08:00",
-  "total_titles_processed": 1968,
-  "failed_sources": [],
+  "generated_at": "2026-03-25T00:01:04.568698+08:00",
+  "total_titles_processed": 279,
+  "failed_sources": [
+    "wallstreetcn-quick"
+  ],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "给AI龙虾装上双手打游戏",
           "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            12,
-            25,
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时40分 ~ 22时17分]"
-        },
-        {
-          "title": "如果给丧尸设计一种「致口腔纤维化」的生化药剂，让它们张嘴困难无法攻击，在丧尸游戏里合理吗？",
-          "url": "https://www.zhihu.com/question/2018475089969063023",
-          "source": "知乎",
-          "ranks": [
-            17,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时51分 ~ 20时54分]"
-        },
-        {
-          "title": "警惕免费领游戏皮肤的骗局",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%83%95%E5%85%8D%E8%B4%B9%E9%A2%86%E6%B8%B8%E6%88%8F%E7%9A%AE%E8%82%A4%E7%9A%84%E9%AA%97%E5%B1%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
-        },
-        {
-          "title": "如果给丧尸设计一种“致口腔纤维化”的生化药剂，让它们张嘴困难无法攻击，在丧尸游戏里合理吗？",
-          "url": "https://www.zhihu.com/question/2018475089969063023",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时42分 ~ 16时43分]"
+          "appearance_count": 1,
+          "time_info": "00时01分"
         }
       ]
     }
