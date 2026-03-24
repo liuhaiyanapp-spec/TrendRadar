@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-24T18:44:26.232799+08:00",
-  "total_titles_processed": 1637,
+  "generated_at": "2026-03-24T19:41:01.820758+08:00",
+  "total_titles_processed": 1740,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如果给丧尸设计一种「致口腔纤维化」的生化药剂，让它们张嘴困难无法攻击，在丧尸游戏里合理吗？",
@@ -18,6 +18,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时51分 ~ 18时44分]"
+        },
+        {
+          "title": "给AI龙虾装上双手打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BB%99AI%E9%BE%99%E8%99%BE%E8%A3%85%E4%B8%8A%E5%8F%8C%E6%89%8B%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时40分 ~ 19时41分]"
         },
         {
           "title": "警惕免费领游戏皮肤的骗局",
