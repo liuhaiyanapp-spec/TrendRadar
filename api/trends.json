@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-26T18:46:13.878580+08:00",
-  "total_titles_processed": 1622,
+  "generated_at": "2026-03-26T19:44:59.772398+08:00",
+  "total_titles_processed": 1717,
   "failed_sources": [],
   "trends": [
     {
@@ -33,19 +33,20 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时58分 ~ 18时46分]"
+          "appearance_count": 8,
+          "time_info": "[15时58分 ~ 19时44分]"
         },
         {
           "title": "UP主肝60个小时复刻游戏饼干",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E8%82%9D60%E4%B8%AA%E5%B0%8F%E6%97%B6%E5%A4%8D%E5%88%BB%E6%B8%B8%E6%88%8F%E9%A5%BC%E5%B9%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
+          "appearance_count": 2,
+          "time_info": "[15时58分 ~ 19时44分]"
         }
       ]
     }
