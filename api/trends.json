@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-27T23:44:50.104405+08:00",
-  "total_titles_processed": 2096,
+  "generated_at": "2026-03-28T00:45:44.962015+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "研究称部分玩家在游戏通关后容易患上「通关抑郁」，为什么会产生这种心理？通关后劲太大又该怎么缓解？",
@@ -15,19 +15,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时28分 ~ 23时44分]"
-        },
-        {
-          "title": "《洛克王国：世界》已于 3 月 26 日正式开服，体验过该游戏的玩家如何评价这款游戏？",
-          "url": "https://www.zhihu.com/question/2020450941556454435",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "00时06分"
+          "time_info": "00时45分"
         }
       ]
     }
