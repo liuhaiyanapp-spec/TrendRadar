@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-30T04:23:54.504280+08:00",
-  "total_titles_processed": 447,
+  "generated_at": "2026-03-30T05:26:11.100650+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 2,
       "titles": [
+        {
+          "title": "00后小伙在游戏里“重建”母校",
+          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B8%B8%E6%88%8F%E9%87%8C%E2%80%9C%E9%87%8D%E5%BB%BA%E2%80%9D%E6%AF%8D%E6%A0%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时32分 ~ 05时26分]"
+        },
         {
           "title": "为什么 PVP 游戏电竞化在玩家心目中从十年前的高大上形象，逐渐变成近些年「闻之色变」的担忧心态呢？",
           "url": "https://www.zhihu.com/question/2017997567519057233",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "00后小伙在游戏里“重建”母校",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B8%B8%E6%88%8F%E9%87%8C%E2%80%9C%E9%87%8D%E5%BB%BA%E2%80%9D%E6%AF%8D%E6%A0%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时32分 ~ 02时33分]"
         }
       ]
     }
