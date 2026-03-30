@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T02:50:56.151700+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-03-31T03:51:54.685993+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "你在游戏《艾尔登法环》中见过的最丧心病狂的操作是什么？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "4月国产游戏大作前瞻",
+          "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E4%BD%9C%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时51分"
         }
       ]
     }
