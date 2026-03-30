@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-03-30T09:49:27.170958+08:00",
-  "total_titles_processed": 715,
+  "generated_at": "2026-03-30T12:41:29.307057+08:00",
+  "total_titles_processed": 905,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 3,
       "titles": [
+        {
+          "title": "《洛克王国世界》力压《王者荣耀》登顶游戏榜首，如何看待这一成绩？",
+          "url": "https://www.zhihu.com/question/2020957633037770841",
+          "source": "知乎",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时49分 ~ 12时41分]"
+        },
         {
           "title": "00后小伙在游戏里“重建”母校",
           "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B8%B8%E6%88%8F%E9%87%8C%E2%80%9C%E9%87%8D%E5%BB%BA%E2%80%9D%E6%AF%8D%E6%A0%A1",
@@ -29,17 +41,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时27分 ~ 00时28分]"
-        },
-        {
-          "title": "《洛克王国世界》力压《王者荣耀》登顶游戏榜首，如何看待这一成绩？",
-          "url": "https://www.zhihu.com/question/2020957633037770841",
-          "source": "知乎",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时49分"
         }
       ]
     }
