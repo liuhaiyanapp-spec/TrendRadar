@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-30T12:41:29.307057+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2026-03-30T14:27:06.238618+08:00",
+  "total_titles_processed": 1038,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "《洛克王国世界》力压《王者荣耀》登顶游戏榜首，如何看待这一成绩？",
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             8,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时49分 ~ 12时41分]"
+          "appearance_count": 4,
+          "time_info": "[09时49分 ~ 14时27分]"
         },
         {
           "title": "00后小伙在游戏里“重建”母校",
@@ -30,6 +31,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时32分 ~ 05时26分]"
+        },
+        {
+          "title": "怎样让 9 岁的小朋友明白，打游戏为生不靠谱？",
+          "url": "https://www.zhihu.com/question/661734548",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时26分 ~ 14时27分]"
         },
         {
           "title": "为什么 PVP 游戏电竞化在玩家心目中从十年前的高大上形象，逐渐变成近些年「闻之色变」的担忧心态呢？",
