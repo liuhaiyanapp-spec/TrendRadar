@@ -1,82 +1,22 @@
 {
-  "generated_at": "2026-03-30T22:43:26.652858+08:00",
-  "total_titles_processed": 1689,
+  "generated_at": "2026-03-31T00:02:54.909164+08:00",
+  "total_titles_processed": 304,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "《洛克王国世界》力压《王者荣耀》登顶游戏榜首，如何看待这一成绩？",
-          "url": "https://www.zhihu.com/question/2020957633037770841",
-          "source": "知乎",
-          "ranks": [
-            8,
-            3,
-            1,
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 19时51分]"
-        },
-        {
-          "title": "00后小伙在游戏里“重建”母校",
-          "url": "https://www.baidu.com/s?wd=00%E5%90%8E%E5%B0%8F%E4%BC%99%E5%9C%A8%E6%B8%B8%E6%88%8F%E9%87%8C%E2%80%9C%E9%87%8D%E5%BB%BA%E2%80%9D%E6%AF%8D%E6%A0%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时32分 ~ 05时26分]"
-        },
-        {
-          "title": "怎样让 9 岁的小朋友明白，打游戏为生不靠谱？",
-          "url": "https://www.zhihu.com/question/661734548",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时26分 ~ 14时27分]"
-        },
-        {
-          "title": "为什么 PVP 游戏电竞化在玩家心目中从十年前的高大上形象，逐渐变成近些年「闻之色变」的担忧心态呢？",
-          "url": "https://www.zhihu.com/question/2017997567519057233",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时27分 ~ 00时28分]"
-        },
         {
           "title": "你在游戏《艾尔登法环》中见过的最丧心病狂的操作是什么？",
           "url": "https://www.zhihu.com/question/518457187",
           "source": "知乎",
           "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时43分"
-        },
-        {
-          "title": "4月国产游戏大作前瞻",
-          "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E4%BD%9C%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
+            16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "00时02分"
         }
       ]
     }
