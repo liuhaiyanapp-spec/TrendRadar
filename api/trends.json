@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T00:02:25.251350+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-01T01:51:25.996470+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2022056803073091173",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时51分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -26,8 +27,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 01时51分]"
         }
       ]
     }
