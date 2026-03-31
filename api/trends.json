@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T06:28:30.025300+08:00",
-  "total_titles_processed": 647,
+  "generated_at": "2026-04-01T07:29:04.373260+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             10,
             8,
-            4
+            4,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -28,8 +29,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时02分 ~ 06时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时02分 ~ 07时29分]"
         },
         {
           "title": "4月国产游戏大作前瞻",
