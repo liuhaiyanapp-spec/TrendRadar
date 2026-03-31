@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-01T02:52:16.017070+08:00",
-  "total_titles_processed": 456,
+  "generated_at": "2026-04-01T03:52:11.182529+08:00",
+  "total_titles_processed": 500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "男子在非洲开网吧月赚 3 万， 还提供游戏代打业务，这种经营模式是怎么做起来的？为什么不好复刻？",
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时52分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -27,8 +27,19 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时02分 ~ 02时52分]"
+          "appearance_count": 5,
+          "time_info": "[00时02分 ~ 03时52分]"
+        },
+        {
+          "title": "4月国产游戏大作前瞻",
+          "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E4%BD%9C%E5%89%8D%E7%9E%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时51分 ~ 03时52分]"
         }
       ]
     }
