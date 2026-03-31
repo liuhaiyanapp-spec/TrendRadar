@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T01:51:25.996470+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-04-01T02:52:16.017070+08:00",
+  "total_titles_processed": 456,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时52分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
@@ -27,8 +27,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时02分 ~ 01时51分]"
+          "appearance_count": 3,
+          "time_info": "[00时02分 ~ 02时52分]"
         }
       ]
     }
