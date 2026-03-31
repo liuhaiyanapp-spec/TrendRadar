@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-03-31T18:52:55.897062+08:00",
-  "total_titles_processed": 1581,
+  "generated_at": "2026-03-31T19:43:34.516523+08:00",
+  "total_titles_processed": 1675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "4月国产游戏大作前瞻",
@@ -33,11 +33,12 @@
             6,
             9,
             14,
-            15
+            15,
+            18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时31分 ~ 18时52分]"
+          "appearance_count": 7,
+          "time_info": "[12时31分 ~ 19时43分]"
         },
         {
           "title": "你在游戏《艾尔登法环》中见过的最丧心病狂的操作是什么？",
@@ -49,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时02分"
+        },
+        {
+          "title": "男子在非洲开网吧月赚 3 万， 还提供游戏代打业务，这种经营模式是怎么做起来的？为什么不好复刻？",
+          "url": "https://www.zhihu.com/question/2022056803073091173",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时43分"
         }
       ]
     }
