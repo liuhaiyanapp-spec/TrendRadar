@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T17:58:38.733097+08:00",
-  "total_titles_processed": 1477,
+  "generated_at": "2026-03-31T18:52:55.897062+08:00",
+  "total_titles_processed": 1581,
   "failed_sources": [],
   "trends": [
     {
@@ -32,11 +32,12 @@
             5,
             6,
             9,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时31分 ~ 17时58分]"
+          "appearance_count": 6,
+          "time_info": "[12时31分 ~ 18时52分]"
         },
         {
           "title": "你在游戏《艾尔登法环》中见过的最丧心病狂的操作是什么？",
