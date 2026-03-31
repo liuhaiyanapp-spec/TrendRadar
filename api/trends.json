@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T12:32:03.853697+08:00",
-  "total_titles_processed": 1069,
+  "generated_at": "2026-03-31T14:13:26.498097+08:00",
+  "total_titles_processed": 1185,
   "failed_sources": [],
   "trends": [
     {
@@ -20,19 +20,20 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时51分 ~ 12时32分]"
+          "appearance_count": 8,
+          "time_info": "[03时51分 ~ 14时13分]"
         },
         {
           "title": "功勋翻译下岗,AI包揽游戏翻译",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时31分 ~ 12时32分]"
+          "appearance_count": 3,
+          "time_info": "[12时31分 ~ 14时13分]"
         },
         {
           "title": "你在游戏《艾尔登法环》中见过的最丧心病狂的操作是什么？",
