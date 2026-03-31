@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-31T21:00:04.606549+08:00",
-  "total_titles_processed": 1797,
+  "generated_at": "2026-03-31T22:28:14.618749+08:00",
+  "total_titles_processed": 1929,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 21时00分]"
+          "appearance_count": 11,
+          "time_info": "[12时31分 ~ 22时28分]"
         },
         {
           "title": "4月国产游戏大作前瞻",
@@ -46,11 +46,12 @@
           "url": "https://www.zhihu.com/question/2022056803073091173",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时43分 ~ 21时00分]"
+          "appearance_count": 5,
+          "time_info": "[19时43分 ~ 22时28分]"
         },
         {
           "title": "你在游戏《艾尔登法环》中见过的最丧心病狂的操作是什么？",
