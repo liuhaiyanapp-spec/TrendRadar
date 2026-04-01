@@ -1,73 +1,22 @@
 {
-  "generated_at": "2026-04-01T22:44:02.796535+08:00",
-  "total_titles_processed": 1896,
+  "generated_at": "2026-04-02T00:04:14.221568+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 5,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "男子在非洲开网吧月赚 3 万， 还提供游戏代打业务，这种经营模式是怎么做起来的？为什么不好复刻？",
-          "url": "https://www.zhihu.com/question/2022056803073091173",
-          "source": "知乎",
-          "ranks": [
-            10,
-            8,
-            4,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时29分]"
-        },
-        {
-          "title": "功勋翻译下岗,AI包揽游戏翻译",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
-          "source": "贴吧",
-          "ranks": [
-            22,
-            23,
-            26,
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时02分 ~ 16时12分]"
-        },
         {
           "title": "被精心设计的内存涨价游戏",
           "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E7%B2%BE%E5%BF%83%E8%AE%BE%E8%AE%A1%E7%9A%84%E5%86%85%E5%AD%98%E6%B6%A8%E4%BB%B7%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时45分"
-        },
-        {
-          "title": "4月国产游戏大作前瞻",
-          "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E5%9B%BD%E4%BA%A7%E6%B8%B8%E6%88%8F%E5%A4%A7%E4%BD%9C%E5%89%8D%E7%9E%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            30
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[03时51分 ~ 03时52分]"
-        },
-        {
-          "title": "4月重磅游戏一览",
-          "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E9%87%8D%E7%A3%85%E6%B8%B8%E6%88%8F%E4%B8%80%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时24分"
+          "time_info": "[00时03分 ~ 00时04分]"
         }
       ]
     }
