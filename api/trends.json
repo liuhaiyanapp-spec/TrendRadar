@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T05:36:37.568200+08:00",
-  "total_titles_processed": 601,
+  "generated_at": "2026-04-02T06:31:23.444027+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时03分 ~ 04时38分]"
+          "appearance_count": 10,
+          "time_info": "[00时03分 ~ 06时31分]"
         },
         {
           "title": "如何评价《洛克王国：世界》称自己「登顶游戏免费榜、畅销总榜第一」，并发邮件感谢玩家？",
@@ -29,11 +29,12 @@
           "ranks": [
             18,
             17,
-            13
+            13,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时55分 ~ 05时36分]"
+          "appearance_count": 5,
+          "time_info": "[03时55分 ~ 06时31分]"
         }
       ]
     }
