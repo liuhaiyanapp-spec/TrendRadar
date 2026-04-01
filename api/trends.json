@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-01T07:29:04.373260+08:00",
-  "total_titles_processed": 739,
+  "generated_at": "2026-04-01T09:53:27.230359+08:00",
+  "total_titles_processed": 911,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28352562&amp;topic_name=%E5%8A%9F%E5%8B%8B%E7%BF%BB%E8%AF%91%E4%B8%8B%E5%B2%97%2CAI%E5%8C%85%E6%8F%BD%E6%B8%B8%E6%88%8F%E7%BF%BB%E8%AF%91",
           "source": "贴吧",
           "ranks": [
-            22
+            22,
+            23
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时02分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时02分 ~ 09时53分]"
         },
         {
           "title": "4月国产游戏大作前瞻",
