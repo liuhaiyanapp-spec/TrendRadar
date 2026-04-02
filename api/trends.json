@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-02T22:20:08.165455+08:00",
-  "total_titles_processed": 1911,
+  "generated_at": "2026-04-02T23:54:46.853152+08:00",
+  "total_titles_processed": 2005,
   "failed_sources": [],
   "trends": [
     {
@@ -50,11 +50,12 @@
             8,
             22,
             25,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时01分 ~ 22时20分]"
+          "appearance_count": 9,
+          "time_info": "[16时01分 ~ 23时54分]"
         },
         {
           "title": "为什么很多游戏里的「二周目」，只是让玩家带着装备重新打一遍，而不是让 NPC 知道「你上周目干过什么」？",
