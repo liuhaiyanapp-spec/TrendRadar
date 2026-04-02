@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T14:08:52.806958+08:00",
-  "total_titles_processed": 1186,
+  "generated_at": "2026-04-02T16:02:15.113999+08:00",
+  "total_titles_processed": 1340,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "被精心设计的内存涨价游戏",
@@ -42,6 +42,30 @@
           "time_info": "[03时55分 ~ 14时08分]"
         },
         {
+          "title": "为什么很多游戏里的「二周目」，只是让玩家带着装备重新打一遍，而不是让 NPC 知道「你上周目干过什么」？",
+          "url": "https://www.zhihu.com/question/2021280682983309943",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时24分 ~ 16时02分]"
+        },
+        {
+          "title": "如何把太阳之子做成游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时01分 ~ 16时02分]"
+        },
+        {
           "title": "到底是「玩家必须适应游戏，游戏不会惯着你」还是「应该做让玩家爽的游戏」？",
           "url": "https://www.zhihu.com/question/2020774416334725928",
           "source": "知乎",
@@ -51,17 +75,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
-        },
-        {
-          "title": "为什么很多游戏里的「二周目」，只是让玩家带着装备重新打一遍，而不是让 NPC 知道「你上周目干过什么」？",
-          "url": "https://www.zhihu.com/question/2021280682983309943",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时24分"
         },
         {
           "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
