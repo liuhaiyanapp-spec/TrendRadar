@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-02T07:44:50.594141+08:00",
-  "total_titles_processed": 721,
+  "generated_at": "2026-04-02T09:29:37.665827+08:00",
+  "total_titles_processed": 879,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "被精心设计的内存涨价游戏",
@@ -20,8 +20,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时03分 ~ 07时44分]"
+          "appearance_count": 12,
+          "time_info": "[00时03分 ~ 09时29分]"
         },
         {
           "title": "如何评价《洛克王国：世界》称自己「登顶游戏免费榜、畅销总榜第一」，并发邮件感谢玩家？",
@@ -32,11 +32,23 @@
             17,
             13,
             9,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时55分 ~ 07时44分]"
+          "appearance_count": 7,
+          "time_info": "[03时55分 ~ 09时29分]"
+        },
+        {
+          "title": "到底是「玩家必须适应游戏，游戏不会惯着你」还是「应该做让玩家爽的游戏」？",
+          "url": "https://www.zhihu.com/question/2020774416334725928",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时29分"
         },
         {
           "title": "AI 写游戏剧情已经与真人分不出差别，那么未来游戏文案策划的核心竞争力是什么？",
@@ -45,7 +57,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
         }
