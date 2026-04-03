@@ -1,57 +1,12 @@
 {
-  "generated_at": "2026-04-03T23:35:30.689934+08:00",
-  "total_titles_processed": 2026,
+  "generated_at": "2026-04-04T00:32:15.072994+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 7,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "如何把太阳之子做成游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20,
-            23,
-            22,
-            21,
-            17,
-            18,
-            14,
-            15,
-            16,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时50分 ~ 23时35分]"
-        },
-        {
-          "title": "为什么游戏里魔法师永远是体弱、脆皮、拄拐杖的刻板印象？有没有肌肉、近战、狂战士型的反套路魔法师？",
-          "url": "https://www.zhihu.com/question/2022969399204751300",
-          "source": "知乎",
-          "ranks": [
-            10,
-            7,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时46分 ~ 21时58分]"
-        },
-        {
-          "title": "阚清子 尊重游戏规则",
-          "url": "https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%B0%8A%E9%87%8D%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时41分 ~ 23时35分]"
-        },
         {
           "title": "联合国副秘书长怒斥美方：不要把冲突当“游戏表演”",
           "url": "https://news.ifeng.com/c/8s1s6f253kB",
@@ -60,42 +15,41 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时58分 ~ 23时35分]"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "为啥感觉 VR 游戏已经没啥前途了，到底还有啥瓶颈没有解决？",
-          "url": "https://www.zhihu.com/question/1980051538677363940",
-          "source": "知乎",
+          "title": "阚清子 尊重游戏规则",
+          "url": "https://s.weibo.com/weibo?q=%E9%98%9A%E6%B8%85%E5%AD%90%20%E5%B0%8A%E9%87%8D%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            18,
-            14
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时28分 ~ 09时31分]"
+          "time_info": "[00时31分 ~ 00时32分]"
         },
         {
-          "title": "阚清子拒绝重唱 称尊重游戏规则",
-          "url": "https://www.baidu.com/s?wd=%E9%98%9A%E6%B8%85%E5%AD%90%E6%8B%92%E7%BB%9D%E9%87%8D%E5%94%B1+%E7%A7%B0%E5%B0%8A%E9%87%8D%E6%B8%B8%E6%88%8F%E8%A7%84%E5%88%99",
-          "source": "百度热搜",
+          "title": "许多量化团队用机器学习 7×24 筛选因子，标准多依赖统计指标，黑箱式的统计套利是不是一场危险的游戏？",
+          "url": "https://www.zhihu.com/question/1933946436787074339",
+          "source": "知乎",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时35分"
-        },
-        {
-          "title": "伊朗革命卫队嘲讽敌方“文字游戏”掩盖失败",
-          "url": "https://flash.jin10.com/detail/20260403213559893800",
-          "source": "金十数据",
-          "ranks": [
-            12
+            18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时58分"
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "如何把太阳之子做成游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时31分 ~ 00时32分]"
         }
       ]
     }
