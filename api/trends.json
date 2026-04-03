@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T07:28:44.356753+08:00",
-  "total_titles_processed": 655,
+  "generated_at": "2026-04-03T09:31:33.367345+08:00",
+  "total_titles_processed": 811,
   "failed_sources": [],
   "trends": [
     {
@@ -18,22 +18,24 @@
             21,
             17,
             18,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时50分 ~ 07时28分]"
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 09时31分]"
         },
         {
           "title": "为啥感觉 VR 游戏已经没啥前途了，到底还有啥瓶颈没有解决？",
           "url": "https://www.zhihu.com/question/1980051538677363940",
           "source": "知乎",
           "ranks": [
-            18
+            18,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时28分 ~ 09时31分]"
         }
       ]
     }
