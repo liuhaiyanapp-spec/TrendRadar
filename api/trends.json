@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T18:37:31.354791+08:00",
-  "total_titles_processed": 1561,
+  "generated_at": "2026-04-03T19:34:01.225375+08:00",
+  "total_titles_processed": 1658,
   "failed_sources": [],
   "trends": [
     {
@@ -20,11 +20,12 @@
             18,
             14,
             15,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时50分 ~ 18时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时50分 ~ 19时34分]"
         },
         {
           "title": "为什么游戏里魔法师永远是体弱、脆皮、拄拐杖的刻板印象？有没有肌肉、近战、狂战士型的反套路魔法师？",
@@ -34,8 +35,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时46分 ~ 18时37分]"
+          "appearance_count": 4,
+          "time_info": "[17时46分 ~ 19时34分]"
         },
         {
           "title": "为啥感觉 VR 游戏已经没啥前途了，到底还有啥瓶颈没有解决？",
