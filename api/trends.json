@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T02:37:39.013721+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-04-04T03:34:40.370104+08:00",
+  "total_titles_processed": 459,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时34分]"
         },
         {
           "title": "阚清子 尊重游戏规则",
@@ -25,11 +25,12 @@
           "ranks": [
             17,
             22,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时34分]"
         },
         {
           "title": "如何把太阳之子做成游戏",
@@ -37,11 +38,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             19,
-            26
+            26,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时31分 ~ 02时37分]"
+          "appearance_count": 5,
+          "time_info": "[00时31分 ~ 03时34分]"
         },
         {
           "title": "许多量化团队用机器学习 7×24 筛选因子，标准多依赖统计指标，黑箱式的统计套利是不是一场危险的游戏？",
