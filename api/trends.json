@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-03T09:31:33.367345+08:00",
-  "total_titles_processed": 811,
+  "generated_at": "2026-04-03T12:25:13.702960+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
@@ -19,11 +19,12 @@
             17,
             18,
             14,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时50分 ~ 12时25分]"
         },
         {
           "title": "为啥感觉 VR 游戏已经没啥前途了，到底还有啥瓶颈没有解决？",
