@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T09:25:46.331732+08:00",
-  "total_titles_processed": 676,
+  "generated_at": "2026-04-04T12:11:21.292568+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时31分 ~ 09时25分]"
+          "appearance_count": 11,
+          "time_info": "[00时31分 ~ 12时11分]"
         },
         {
           "title": "阚清子 尊重游戏规则",
@@ -49,6 +49,18 @@
           "time_info": "[00时31分 ~ 07时28分]"
         },
         {
+          "title": "阚清子：我尊重游戏规则",
+          "url": "https://www.douyin.com/hot/2454459",
+          "source": "抖音",
+          "ranks": [
+            18,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时25分 ~ 12时11分]"
+        },
+        {
           "title": "许多量化团队用机器学习 7×24 筛选因子，标准多依赖统计指标，黑箱式的统计套利是不是一场危险的游戏？",
           "url": "https://www.zhihu.com/question/1933946436787074339",
           "source": "知乎",
@@ -66,18 +78,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时25分"
-        },
-        {
-          "title": "阚清子：我尊重游戏规则",
-          "url": "https://www.douyin.com/hot/2454459",
-          "source": "抖音",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
         },
