@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-04T13:53:06.044771+08:00",
-  "total_titles_processed": 911,
+  "generated_at": "2026-04-04T14:52:14.756620+08:00",
+  "total_titles_processed": 968,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时31分 ~ 13时53分]"
+          "appearance_count": 15,
+          "time_info": "[00时31分 ~ 14时52分]"
         },
         {
           "title": "阚清子 尊重游戏规则",
@@ -55,11 +55,12 @@
           "ranks": [
             18,
             12,
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时25分 ~ 13时53分]"
+          "appearance_count": 6,
+          "time_info": "[09时25分 ~ 14时52分]"
         },
         {
           "title": "明日方舟游戏设计师解读卫戍协议",
@@ -70,8 +71,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时25分 ~ 13时53分]"
+          "appearance_count": 5,
+          "time_info": "[09时25分 ~ 14时52分]"
         },
         {
           "title": "许多量化团队用机器学习 7×24 筛选因子，标准多依赖统计指标，黑箱式的统计套利是不是一场危险的游戏？",
