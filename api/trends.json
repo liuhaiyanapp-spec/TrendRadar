@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-04-04T07:28:17.609733+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-04-04T09:25:46.331732+08:00",
+  "total_titles_processed": 676,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
-        {
-          "title": "联合国副秘书长怒斥美方：不要把冲突当“游戏表演”",
-          "url": "https://news.ifeng.com/c/8s1s6f253kB",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时28分]"
-        },
         {
           "title": "如何把太阳之子做成游戏",
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
@@ -30,8 +19,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时31分 ~ 07时28分]"
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时25分]"
         },
         {
           "title": "阚清子 尊重游戏规则",
@@ -41,7 +30,19 @@
             17,
             22,
             14,
-            15
+            15,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时31分 ~ 09时25分]"
+        },
+        {
+          "title": "联合国副秘书长怒斥美方：不要把冲突当“游戏表演”",
+          "url": "https://news.ifeng.com/c/8s1s6f253kB",
+          "source": "凤凰网",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -57,6 +58,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 00时32分]"
+        },
+        {
+          "title": "明日方舟游戏设计师解读卫戍协议",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%A7%A3%E8%AF%BB%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
+        },
+        {
+          "title": "阚清子：我尊重游戏规则",
+          "url": "https://www.douyin.com/hot/2454459",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时25分"
         },
         {
           "title": "阚清子拒绝重唱 称尊重游戏规则",
