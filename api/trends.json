@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T15:44:36.898487+08:00",
-  "total_titles_processed": 1033,
+  "generated_at": "2026-04-04T16:33:18.104911+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "如何把太阳之子做成游戏",
@@ -16,11 +16,12 @@
             26,
             17,
             25,
-            14
+            14,
+            16
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时31分 ~ 15时44分]"
+          "appearance_count": 17,
+          "time_info": "[00时31分 ~ 16时33分]"
         },
         {
           "title": "阚清子 尊重游戏规则",
@@ -56,11 +57,12 @@
             18,
             12,
             23,
-            17
+            17,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时25分 ~ 15时44分]"
+          "appearance_count": 8,
+          "time_info": "[09时25分 ~ 16时33分]"
         },
         {
           "title": "明日方舟游戏设计师解读卫戍协议",
@@ -95,6 +97,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "90后立遗嘱把压岁钱游戏账号给朋友",
+          "url": "https://s.weibo.com/weibo?q=%2390%E5%90%8E%E7%AB%8B%E9%81%97%E5%98%B1%E6%8A%8A%E5%8E%8B%E5%B2%81%E9%92%B1%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E7%BB%99%E6%9C%8B%E5%8F%8B%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时33分"
         }
       ]
     }
