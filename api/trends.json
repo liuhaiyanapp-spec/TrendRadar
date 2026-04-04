@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T00:27:56.326946+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-05T01:24:31.453451+08:00",
+  "total_titles_processed": 345,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E6%8A%8A%E5%A4%AA%E9%98%B3%E4%B9%8B%E5%AD%90%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            12
+            12,
+            15
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         },
         {
           "title": "上海出台“游戏沪十条”，瞄准全球游戏电竞话语权",
@@ -26,8 +27,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时27分"
+          "appearance_count": 2,
+          "time_info": "[00时27分 ~ 01时24分]"
         }
       ]
     }
