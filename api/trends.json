@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T20:38:12.490498+08:00",
-  "total_titles_processed": 1413,
+  "generated_at": "2026-04-04T21:48:25.176744+08:00",
+  "total_titles_processed": 1513,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何把太阳之子做成游戏",
@@ -18,11 +18,12 @@
             25,
             14,
             16,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时31分 ~ 20时38分]"
+          "appearance_count": 23,
+          "time_info": "[00时31分 ~ 21时48分]"
         },
         {
           "title": "阚清子 尊重游戏规则",
@@ -66,17 +67,6 @@
           "time_info": "[09时25分 ~ 17时31分]"
         },
         {
-          "title": "上海出台“游戏沪十条”，瞄准全球游戏电竞话语权",
-          "url": "https://wallstreetcn.com/livenews/3082444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时38分"
-        },
-        {
           "title": "明日方舟游戏设计师解读卫戍协议",
           "url": "https://search.bilibili.com/all?keyword=%E6%98%8E%E6%97%A5%E6%96%B9%E8%88%9F%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1%E5%B8%88%E8%A7%A3%E8%AF%BB%E5%8D%AB%E6%88%8D%E5%8D%8F%E8%AE%AE",
           "source": "bilibili 热搜",
@@ -87,6 +77,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[09时25分 ~ 14时52分]"
+        },
+        {
+          "title": "上海出台“游戏沪十条”，瞄准全球游戏电竞话语权",
+          "url": "https://wallstreetcn.com/livenews/3082444",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时38分 ~ 21时48分]"
         },
         {
           "title": "许多量化团队用机器学习 7×24 筛选因子，标准多依赖统计指标，黑箱式的统计套利是不是一场危险的游戏？",
@@ -109,6 +111,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "助推游戏电竞产业高质量发展，上海出台“游戏沪十条”",
+          "url": "https://flash.jin10.com/detail/20260404201505298800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时48分"
         },
         {
           "title": "90后立遗嘱把压岁钱游戏账号给朋友",
