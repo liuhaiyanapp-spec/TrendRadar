@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-05T07:24:39.675370+08:00",
-  "total_titles_processed": 457,
+  "generated_at": "2026-04-05T09:48:30.342967+08:00",
+  "total_titles_processed": 613,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             12,
             15,
             13,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时27分 ~ 07时24分]"
+          "appearance_count": 10,
+          "time_info": "[00时27分 ~ 09时48分]"
         },
         {
           "title": "上海出台“游戏沪十条”，瞄准全球游戏电竞话语权",
