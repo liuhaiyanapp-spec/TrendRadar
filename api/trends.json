@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-06T19:43:02.534305+08:00",
-  "total_titles_processed": 1267,
+  "generated_at": "2026-04-06T20:54:28.514993+08:00",
+  "total_titles_processed": 1351,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 2,
       "titles": [
+        {
+          "title": "特朗普的“最后通牒”让避险光芒失色！国际银价暴跌20%只是“纸面游戏”？| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20260406152016093800",
+          "source": "金十数据",
+          "ranks": [
+            23,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时20分 ~ 20时54分]"
+        },
         {
           "title": "伊朗议会议长卡利巴夫：特朗普鲁莽的举动正在把美国每个家庭拖入地狱，而我们整个地区也将陷入战火，因为他坚持要听从内塔尼亚胡的命令。 毫无疑问：特朗普不会从战争罪行中获得任何好处。唯一真正的解决办法是尊重伊朗人民的权利，结束这场危险的游戏。",
           "url": "https://flash.jin10.com/detail/20260406000834466800",
@@ -18,17 +30,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时24分 ~ 02时33分]"
-        },
-        {
-          "title": "特朗普的“最后通牒”让避险光芒失色！国际银价暴跌20%只是“纸面游戏”？| Live分析更新中",
-          "url": "https://flash.jin10.com/detail/20260406152016093800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时20分"
         }
       ]
     }
