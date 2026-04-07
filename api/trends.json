@@ -1,38 +1,22 @@
 {
-  "generated_at": "2026-04-07T23:02:46.874240+08:00",
-  "total_titles_processed": 1840,
+  "generated_at": "2026-04-08T00:48:31.317901+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "天才游戏票房破3000万",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%A9%E6%89%8D%E6%B8%B8%E6%88%8F%E7%A5%A8%E6%88%BF%E7%A0%B43000%E4%B8%87%23&t=31&band_rank=7&Refer=top",
-          "source": "微博",
-          "ranks": [
-            7,
-            1,
-            2,
-            8,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时39分 ~ 07时30分]"
-        },
         {
           "title": "人民日报批某地为民办事沦为“数字游戏”：数据好看了，群众满意度却下降了",
           "url": "https://m.thepaper.cn/newsDetail_forward_32914970",
           "source": "澎湃新闻",
           "ranks": [
-            19,
-            17
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时04分 ~ 23时02分]"
+          "appearance_count": 1,
+          "time_info": "00时48分"
         }
       ]
     }
