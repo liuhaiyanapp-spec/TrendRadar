@@ -1,37 +1,22 @@
 {
-  "generated_at": "2026-04-09T23:16:18.012868+08:00",
-  "total_titles_processed": 1851,
+  "generated_at": "2026-04-10T01:01:16.827010+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "哀鸿风评稀烂,龙族游戏危了",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353015&amp;topic_name=%E5%93%80%E9%B8%BF%E9%A3%8E%E8%AF%84%E7%A8%80%E7%83%82%2C%E9%BE%99%E6%97%8F%E6%B8%B8%E6%88%8F%E5%8D%B1%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            3,
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时49分 ~ 23时16分]"
-        },
-        {
-          "title": "当不同游戏玩家玩洛克王国世界",
-          "url": "https://www.douyin.com/hot/2458788",
-          "source": "抖音",
-          "ranks": [
-            27,
-            23,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时53分 ~ 16时16分]"
+          "appearance_count": 2,
+          "time_info": "[00时59分 ~ 01时01分]"
         }
       ]
     }
