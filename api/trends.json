@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-10T22:14:43.700315+08:00",
-  "total_titles_processed": 1869,
+  "generated_at": "2026-04-10T23:44:11.268222+08:00",
+  "total_titles_processed": 1991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "《王者荣耀世界》已正式公测，PC 端玩家体验怎么样？玩过的玩家如何评价这款游戏？",
@@ -16,11 +16,12 @@
             3,
             2,
             1,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时42分 ~ 22时14分]"
+          "appearance_count": 11,
+          "time_info": "[12时42分 ~ 23时44分]"
         },
         {
           "title": "哀鸿风评稀烂,龙族游戏危了",
@@ -31,11 +32,12 @@
             4,
             8,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时59分 ~ 22时14分]"
+          "appearance_count": 21,
+          "time_info": "[00时59分 ~ 23时44分]"
         },
         {
           "title": "《苏丹的游戏》一年免费更新三倍内容却迎来差评？作为买断制游戏，新内容免费却吃差评，是否有点多此一举？",
@@ -52,6 +54,18 @@
           "time_info": "[09时50分 ~ 19时42分]"
         },
         {
+          "title": "警方捣毁游戏外挂窝点全记录",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E6%8D%A3%E6%AF%81%E6%B8%B8%E6%88%8F%E5%A4%96%E6%8C%82%E7%AA%9D%E7%82%B9%E5%85%A8%E8%AE%B0%E5%BD%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时14分 ~ 23时44分]"
+        },
+        {
           "title": "体验过《王者荣耀世界》公测版本后，你觉得它的游戏品质属于什么水平？符合你的预期吗？",
           "url": "https://www.zhihu.com/question/2025886441310352310",
           "source": "知乎",
@@ -62,6 +76,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[20时52分 ~ 22时14分]"
+        },
+        {
+          "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
+          "url": "https://www.zhihu.com/question/2025560267992376641",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时43分 ~ 23时44分]"
         },
         {
           "title": "玩《魔兽世界》后，你觉得要怎么才能拯救这个游戏？",
@@ -75,24 +100,13 @@
           "time_info": "[20时52分 ~ 20时53分]"
         },
         {
-          "title": "警方捣毁游戏外挂窝点全记录",
-          "url": "https://search.bilibili.com/all?keyword=%E8%AD%A6%E6%96%B9%E6%8D%A3%E6%AF%81%E6%B8%B8%E6%88%8F%E5%A4%96%E6%8C%82%E7%AA%9D%E7%82%B9%E5%85%A8%E8%AE%B0%E5%BD%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
           "title": "游戏照进现实？美政府招募游戏玩家填补空管人员缺口",
           "url": "https://flash.jin10.com/detail/20260410215150029800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时14分"
         }
