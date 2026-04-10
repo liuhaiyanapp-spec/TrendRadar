@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-10T18:03:41.244994+08:00",
-  "total_titles_processed": 1493,
+  "generated_at": "2026-04-10T19:42:34.008198+08:00",
+  "total_titles_processed": 1628,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时59分 ~ 18时03分]"
+          "appearance_count": 16,
+          "time_info": "[00时59分 ~ 19时42分]"
         },
         {
           "title": "《王者荣耀世界》已正式公测，PC 端玩家体验怎么样？玩过的玩家如何评价这款游戏？",
@@ -28,11 +28,12 @@
           "ranks": [
             8,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时42分 ~ 18时03分]"
+          "appearance_count": 6,
+          "time_info": "[12时42分 ~ 19时42分]"
         },
         {
           "title": "《苏丹的游戏》一年免费更新三倍内容却迎来差评？作为买断制游戏，新内容免费却吃差评，是否有点多此一举？",
@@ -41,11 +42,12 @@
           "ranks": [
             14,
             16,
-            13
+            13,
+            19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时50分 ~ 18时03分]"
+          "appearance_count": 7,
+          "time_info": "[09时50分 ~ 19时42分]"
         }
       ]
     }
