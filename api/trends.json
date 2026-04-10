@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T02:42:27.546444+08:00",
-  "total_titles_processed": 429,
+  "generated_at": "2026-04-11T03:39:23.957871+08:00",
+  "total_titles_processed": 467,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,25 @@
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时39分]"
+        },
+        {
+          "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
+          "url": "https://www.zhihu.com/question/2025560267992376641",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时39分]"
         },
         {
           "title": "哀鸿风评稀烂,龙族游戏危了",
@@ -27,20 +41,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时42分]"
-        },
-        {
-          "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
-          "url": "https://www.zhihu.com/question/2025560267992376641",
-          "source": "知乎",
-          "ranks": [
-            16,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时42分 ~ 02时42分]"
+          "appearance_count": 5,
+          "time_info": "[00时42分 ~ 03时39分]"
         },
         {
           "title": "市场消息：“大空头”迈克尔·伯里（Michael Burry）表示，买入了京东、阿里巴巴、游戏驿站和FISERV的股票。",
