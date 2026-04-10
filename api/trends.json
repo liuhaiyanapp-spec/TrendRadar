@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-11T00:43:00.076987+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-04-11T01:42:46.828234+08:00",
+  "total_titles_processed": 374,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "警方捣毁游戏外挂窝点全记录",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时42分]"
         },
         {
           "title": "哀鸿风评稀烂,龙族游戏危了",
@@ -26,8 +26,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时42分]"
         },
         {
           "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
@@ -37,8 +37,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时42分 ~ 00时43分]"
+          "appearance_count": 3,
+          "time_info": "[00时42分 ~ 01时42分]"
+        },
+        {
+          "title": "市场消息：“大空头”迈克尔·伯里（Michael Burry）表示，买入了京东、阿里巴巴、游戏驿站和FISERV的股票。",
+          "url": "https://flash.jin10.com/detail/20260411005748709800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "01时42分"
         }
       ]
     }
