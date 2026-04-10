@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T05:31:38.153760+08:00",
-  "total_titles_processed": 553,
+  "generated_at": "2026-04-11T06:30:03.402950+08:00",
+  "total_titles_processed": 585,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,23 @@
             4,
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时31分]"
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时30分]"
+        },
+        {
+          "title": "哀鸿风评稀烂,龙族游戏危了",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353015&amp;topic_name=%E5%93%80%E9%B8%BF%E9%A3%8E%E8%AF%84%E7%A8%80%E7%83%82%2C%E9%BE%99%E6%97%8F%E6%B8%B8%E6%88%8F%E5%8D%B1%E4%BA%86",
+          "source": "贴吧",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时42分 ~ 06时30分]"
         },
         {
           "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
@@ -29,17 +41,6 @@
             16,
             13,
             12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时42分 ~ 05时31分]"
-        },
-        {
-          "title": "哀鸿风评稀烂,龙族游戏危了",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353015&amp;topic_name=%E5%93%80%E9%B8%BF%E9%A3%8E%E8%AF%84%E7%A8%80%E7%83%82%2C%E9%BE%99%E6%97%8F%E6%B8%B8%E6%88%8F%E5%8D%B1%E4%BA%86",
-          "source": "贴吧",
-          "ranks": [
-            13
           ],
           "is_new": false,
           "appearance_count": 7,
