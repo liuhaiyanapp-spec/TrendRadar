@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T16:34:48.988576+08:00",
-  "total_titles_processed": 1119,
+  "generated_at": "2026-04-11T17:34:10.710604+08:00",
+  "total_titles_processed": 1182,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             20,
             22,
             24,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 16时34分]"
+          "appearance_count": 21,
+          "time_info": "[00时42分 ~ 17时34分]"
         },
         {
           "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
