@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-11T07:29:28.044394+08:00",
-  "total_titles_processed": 612,
+  "generated_at": "2026-04-11T09:28:57.151560+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353015&amp;topic_name=%E5%93%80%E9%B8%BF%E9%A3%8E%E8%AF%84%E7%A8%80%E7%83%82%2C%E9%BE%99%E6%97%8F%E6%B8%B8%E6%88%8F%E5%8D%B1%E4%BA%86",
           "source": "贴吧",
           "ranks": [
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时42分 ~ 07时29分]"
+          "appearance_count": 11,
+          "time_info": "[00时42分 ~ 09时28分]"
         },
         {
           "title": "为什么有的人手游一单 648 猛猛冲，为精品单机游戏买单却抠抠搜搜不愿意？",
