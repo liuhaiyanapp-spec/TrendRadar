@@ -1,61 +1,22 @@
 {
-  "generated_at": "2026-04-12T23:31:40.283586+08:00",
-  "total_titles_processed": 1522,
+  "generated_at": "2026-04-13T00:31:52.481226+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "专访《天才游戏》导演程亮：十几年前写朋友，磨六年成电影",
           "url": "https://m.thepaper.cn/newsDetail_forward_32941153",
           "source": "澎湃新闻",
           "ranks": [
-            20,
-            18,
-            16,
             14
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时39分 ~ 23时31分]"
-        },
-        {
-          "title": "你见过设计最巧妙的游戏 Buff/Debuff 是哪一个？反观目前游戏，这类状态效果似乎没什么出彩设计？",
-          "url": "https://www.zhihu.com/question/2024260890434760958",
-          "source": "知乎",
-          "ranks": [
-            4,
-            5,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时26分 ~ 07时26分]"
-        },
-        {
-          "title": "独立游戏是否是只有前 1% 的天才才可以成功的行业？",
-          "url": "https://www.zhihu.com/question/2017604550131999606",
-          "source": "知乎",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时59分 ~ 16时53分]"
-        },
-        {
-          "title": "中国游戏算法第一案为何被驳回",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E7%AE%97%E6%B3%95%E7%AC%AC%E4%B8%80%E6%A1%88%E4%B8%BA%E4%BD%95%E8%A2%AB%E9%A9%B3%E5%9B%9E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "20时43分"
+          "appearance_count": 2,
+          "time_info": "[00时30分 ~ 00时31分]"
         }
       ]
     }
