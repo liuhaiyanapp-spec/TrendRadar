@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T22:37:21.304522+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-04-12T23:31:40.283586+08:00",
+  "total_titles_processed": 1522,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             20,
             18,
-            16
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[17时39分 ~ 22时37分]"
+          "appearance_count": 9,
+          "time_info": "[17时39分 ~ 23时31分]"
         },
         {
           "title": "你见过设计最巧妙的游戏 Buff/Debuff 是哪一个？反观目前游戏，这类状态效果似乎没什么出彩设计？",
