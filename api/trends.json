@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-12T14:21:28.748940+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-04-12T16:01:07.732545+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "你见过设计最巧妙的游戏 Buff/Debuff 是哪一个？反观目前游戏，这类状态效果似乎没什么出彩设计？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时26分 ~ 07时26分]"
+        },
+        {
+          "title": "独立游戏是否是只有前 1% 的天才才可以成功的行业？",
+          "url": "https://www.zhihu.com/question/2017604550131999606",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时59分 ~ 16时01分]"
         }
       ]
     }
