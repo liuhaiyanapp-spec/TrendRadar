@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-12T18:32:57.798915+08:00",
-  "total_titles_processed": 1168,
+  "generated_at": "2026-04-12T19:29:52.885770+08:00",
+  "total_titles_processed": 1232,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "time_info": "[05时26分 ~ 07时26分]"
         },
         {
+          "title": "专访《天才游戏》导演程亮：十几年前写朋友，磨六年成电影",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32941153",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时39分 ~ 19时29分]"
+        },
+        {
           "title": "独立游戏是否是只有前 1% 的天才才可以成功的行业？",
           "url": "https://www.zhihu.com/question/2017604550131999606",
           "source": "知乎",
@@ -31,17 +43,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时59分 ~ 16时53分]"
-        },
-        {
-          "title": "专访《天才游戏》导演程亮：十几年前写朋友，磨六年成电影",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32941153",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时39分 ~ 18时32分]"
         }
       ]
     }
