@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-13T19:12:10.881279+08:00",
-  "total_titles_processed": 1356,
+  "generated_at": "2026-04-13T21:07:35.520900+08:00",
+  "total_titles_processed": 1503,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "专访《天才游戏》导演程亮：十几年前写朋友，磨六年成电影",
@@ -27,11 +27,23 @@
           "url": "https://www.zhihu.com/question/2026328659154285282",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时11分 ~ 19时12分]"
+          "appearance_count": 3,
+          "time_info": "[19时11分 ~ 21时07分]"
+        },
+        {
+          "title": "UP主将函数做成游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%B0%86%E5%87%BD%E6%95%B0%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时07分"
         },
         {
           "title": "荣耀WIN游戏本正式发布",
