@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-14T21:08:48.728938+08:00",
-  "total_titles_processed": 1702,
+  "generated_at": "2026-04-14T23:08:46.352478+08:00",
+  "total_titles_processed": 1839,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             1,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时26分 ~ 21时08分]"
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 23时08分]"
         },
         {
           "title": "我发现其实挺多单机游戏通关后是没有新增什么内容的，为什么还有大量玩家愿意二周目、三周目重复游玩？",
