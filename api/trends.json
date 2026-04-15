@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T06:36:45.599064+08:00",
-  "total_titles_processed": 613,
+  "generated_at": "2026-04-16T07:36:55.143593+08:00",
+  "total_titles_processed": 663,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时36分]"
         },
         {
           "title": "玩家老杨的游戏人生",
@@ -28,11 +28,12 @@
             20,
             21,
             25,
-            23
+            23,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时10分 ~ 06时36分]"
+          "appearance_count": 10,
+          "time_info": "[00时10分 ~ 07时36分]"
         }
       ]
     }
