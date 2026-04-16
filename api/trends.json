@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T21:14:41.462112+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2026-04-16T23:21:36.572764+08:00",
+  "total_titles_processed": 1837,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             5,
             7,
             1,
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时07分 ~ 21时14分]"
+          "appearance_count": 9,
+          "time_info": "[13时07分 ~ 23时21分]"
         },
         {
           "title": "国外新提案!游戏关服出离线版",
