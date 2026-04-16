@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-16T18:10:59.959136+08:00",
-  "total_titles_processed": 1433,
+  "generated_at": "2026-04-16T19:55:25.449031+08:00",
+  "total_titles_processed": 1560,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "游戏主播芜湖大司马吐槽「每天需要狂送手机才能维持人气」，为什么现在游戏主播越来越难做了？",
+          "url": "https://www.zhihu.com/question/2027762134264673438",
+          "source": "知乎",
+          "ranks": [
+            5,
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时07分 ~ 19时55分]"
+        },
         {
           "title": "国外新提案!游戏关服出离线版",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353276&amp;topic_name=%E5%9B%BD%E5%A4%96%E6%96%B0%E6%8F%90%E6%A1%88%21%E6%B8%B8%E6%88%8F%E5%85%B3%E6%9C%8D%E5%87%BA%E7%A6%BB%E7%BA%BF%E7%89%88",
@@ -15,11 +28,12 @@
             15,
             22,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时10分 ~ 18时10分]"
+          "appearance_count": 18,
+          "time_info": "[00时10分 ~ 19时55分]"
         },
         {
           "title": "玩家老杨的游戏人生",
@@ -37,19 +51,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时10分 ~ 09时57分]"
-        },
-        {
-          "title": "游戏主播芜湖大司马吐槽「每天需要狂送手机才能维持人气」，为什么现在游戏主播越来越难做了？",
-          "url": "https://www.zhihu.com/question/2027762134264673438",
-          "source": "知乎",
-          "ranks": [
-            5,
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时07分 ~ 18时10分]"
         },
         {
           "title": "A股三大股指高开高走，创业板指涨1%，深证成指涨0.69%，沪指涨0.3%，钛白粉概念、云游戏板块、算力租赁板块涨幅居前。",
@@ -83,6 +84,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时08分"
+        },
+        {
+          "title": "K90Max玩游戏还是太权威了",
+          "url": "https://s.weibo.com/weibo?q=%23K90Max%E7%8E%A9%E6%B8%B8%E6%88%8F%E8%BF%98%E6%98%AF%E5%A4%AA%E6%9D%83%E5%A8%81%E4%BA%86%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     }
