@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-16T16:25:15.283663+08:00",
-  "total_titles_processed": 1297,
+  "generated_at": "2026-04-16T18:10:59.959136+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             15,
             22,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时10分 ~ 16时25分]"
+          "appearance_count": 17,
+          "time_info": "[00时10分 ~ 18时10分]"
         },
         {
           "title": "玩家老杨的游戏人生",
@@ -47,8 +48,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时07分 ~ 16时25分]"
+          "appearance_count": 6,
+          "time_info": "[13时07分 ~ 18时10分]"
         },
         {
           "title": "A股三大股指高开高走，创业板指涨1%，深证成指涨0.69%，沪指涨0.3%，钛白粉概念、云游戏板块、算力租赁板块涨幅居前。",
