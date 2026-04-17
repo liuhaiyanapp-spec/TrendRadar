@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-17T18:08:21.720706+08:00",
-  "total_titles_processed": 1382,
+  "generated_at": "2026-04-17T19:44:54.460470+08:00",
+  "total_titles_processed": 1512,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "游戏主播芜湖大司马吐槽「每天需要狂送手机才能维持人气」，为什么现在游戏主播越来越难做了？",
@@ -33,6 +33,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时24分"
+        },
+        {
+          "title": "《王者荣耀世界》移动端已于 17 日 7 点开服，如何评价这款游戏在移动端的表现？",
+          "url": "https://www.zhihu.com/question/2028418307426968018",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "被大学老师邀请回家打游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A2%AB%E5%A4%A7%E5%AD%A6%E8%80%81%E5%B8%88%E9%82%80%E8%AF%B7%E5%9B%9E%E5%AE%B6%E6%89%93%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     }
