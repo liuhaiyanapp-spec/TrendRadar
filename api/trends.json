@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-18T19:30:45.851182+08:00",
-  "total_titles_processed": 1411,
+  "generated_at": "2026-04-18T20:44:02.398751+08:00",
+  "total_titles_processed": 1486,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            21
+            21,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时34分 ~ 19时30分]"
+          "appearance_count": 5,
+          "time_info": "[18时34分 ~ 20时44分]"
         },
         {
           "title": "如果要彻底买断你余生的「游戏权」，你的心理定价是多少？",
