@@ -1,53 +1,7 @@
 {
-  "generated_at": "2026-04-18T23:32:12.005608+08:00",
-  "total_titles_processed": 1684,
+  "generated_at": "2026-04-19T00:31:56.238951+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "《王者荣耀世界》移动端已于 17 日 7 点开服，如何评价这款游戏在移动端的表现？",
-          "url": "https://www.zhihu.com/question/2028418307426968018",
-          "source": "知乎",
-          "ranks": [
-            9,
-            8,
-            5,
-            4,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时46分 ~ 04时38分]"
-        },
-        {
-          "title": "中国游戏公司财报盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E6%B8%B8%E6%88%8F%E5%85%AC%E5%8F%B8%E8%B4%A2%E6%8A%A5%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            21,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时34分 ~ 20时44分]"
-        },
-        {
-          "title": "如果要彻底买断你余生的「游戏权」，你的心理定价是多少？",
-          "url": "https://www.zhihu.com/question/1999844435173867615",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
