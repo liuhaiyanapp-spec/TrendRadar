@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T05:39:46.047740+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-04-22T06:33:14.242201+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%B8%E6%88%8F%E5%B7%A5%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E7%BB%93%E6%9E%84",
           "source": "bilibili 热搜",
           "ranks": [
-            8
+            8,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时39分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 06时33分]"
         },
         {
           "title": "如何控制游戏平衡性？",
