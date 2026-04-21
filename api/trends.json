@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-04-21T21:07:51.040994+08:00",
-  "total_titles_processed": 1645,
+  "generated_at": "2026-04-21T23:07:07.795198+08:00",
+  "total_titles_processed": 1773,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "拆解游戏工业的财务结构",
+          "url": "https://search.bilibili.com/all?keyword=%E6%8B%86%E8%A7%A3%E6%B8%B8%E6%88%8F%E5%B7%A5%E4%B8%9A%E7%9A%84%E8%B4%A2%E5%8A%A1%E7%BB%93%E6%9E%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时06分 ~ 23时07分]"
+        },
         {
           "title": "《原神》玩家何时发现游戏世界观具有深度规划？",
           "url": "https://www.zhihu.com/question/2027087550410503957",
