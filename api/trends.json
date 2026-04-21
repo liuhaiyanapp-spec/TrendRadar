@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T06:33:14.242201+08:00",
-  "total_titles_processed": 618,
+  "generated_at": "2026-04-22T07:31:20.665271+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时52分 ~ 06时33分]"
+          "appearance_count": 10,
+          "time_info": "[00时52分 ~ 07时31分]"
         },
         {
           "title": "如何控制游戏平衡性？",
