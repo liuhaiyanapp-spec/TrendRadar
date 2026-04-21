@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T01:56:04.921321+08:00",
-  "total_titles_processed": 378,
+  "generated_at": "2026-04-22T03:01:59.367865+08:00",
+  "total_titles_processed": 437,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时52分 ~ 01时56分]"
+          "appearance_count": 4,
+          "time_info": "[00时52分 ~ 03时01分]"
         },
         {
           "title": "如何控制游戏平衡性？",
