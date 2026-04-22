@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T21:09:03.477837+08:00",
-  "total_titles_processed": 1601,
+  "generated_at": "2026-04-22T23:07:21.651557+08:00",
+  "total_titles_processed": 1731,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时55分 ~ 21时09分]"
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 23时07分]"
         },
         {
           "title": "游戏侵权案告破,嫌犯全部落网",
@@ -41,11 +42,12 @@
           "source": "贴吧",
           "ranks": [
             14,
-            19
+            19,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 21时09分]"
+          "appearance_count": 5,
+          "time_info": "[16时27分 ~ 23时07分]"
         },
         {
           "title": "如何控制游戏平衡性？",
