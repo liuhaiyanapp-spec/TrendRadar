@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-04-23T04:59:55.223699+08:00",
-  "total_titles_processed": 515,
+  "generated_at": "2026-04-23T05:45:01.516004+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 3,
       "titles": [
+        {
+          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
+          "url": "https://www.cls.cn/detail/2352731",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
+        },
         {
           "title": "游戏厂商叫苦:离线版成本太高",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
@@ -15,19 +27,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时59分]"
-        },
-        {
-          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
-          "url": "https://www.cls.cn/detail/2352731",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
         },
         {
           "title": "游戏侵权案告破,嫌犯全部落网",
@@ -37,8 +38,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时52分 ~ 04时59分]"
+          "appearance_count": 6,
+          "time_info": "[00时52分 ~ 05时45分]"
         }
       ]
     }
