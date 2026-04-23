@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T12:47:49.559603+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-04-23T14:58:56.342225+08:00",
+  "total_titles_processed": 1148,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             12,
             13,
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 12时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时58分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -39,11 +40,12 @@
           "ranks": [
             21,
             22,
-            25
+            25,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时52分 ~ 12时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时52分 ~ 14时58分]"
         }
       ]
     }
