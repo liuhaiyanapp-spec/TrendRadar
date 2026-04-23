@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-23T19:56:55.384806+08:00",
-  "total_titles_processed": 1548,
+  "generated_at": "2026-04-23T21:09:07.774452+08:00",
+  "total_titles_processed": 1664,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时52分 ~ 19时56分]"
+          "appearance_count": 19,
+          "time_info": "[00时52分 ~ 21时09分]"
         },
         {
           "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
@@ -60,8 +60,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时53分 ~ 19时56分]"
+          "appearance_count": 5,
+          "time_info": "[16时53分 ~ 21时09分]"
         },
         {
           "title": "游戏地图是如何设计的",
