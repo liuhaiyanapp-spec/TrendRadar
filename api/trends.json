@@ -1,91 +1,22 @@
 {
-  "generated_at": "2026-04-23T23:46:43.343440+08:00",
-  "total_titles_processed": 1812,
+  "generated_at": "2026-04-24T01:13:00.879150+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "游戏厂商叫苦:离线版成本太高",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353575&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%8E%82%E5%95%86%E5%8F%AB%E8%8B%A6%3A%E7%A6%BB%E7%BA%BF%E7%89%88%E6%88%90%E6%9C%AC%E5%A4%AA%E9%AB%98",
           "source": "贴吧",
           "ranks": [
-            12,
-            13,
-            16,
-            19,
-            21,
-            22,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时52分 ~ 23时46分]"
-        },
-        {
-          "title": "AI将重塑游戏业！大摩：成本有望减半 释放220亿美元利润",
-          "url": "https://www.cls.cn/detail/2352731",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时52分 ~ 09时57分]"
-        },
-        {
-          "title": "游戏侵权案告破,嫌犯全部落网",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353592&amp;topic_name=%E6%B8%B8%E6%88%8F%E4%BE%B5%E6%9D%83%E6%A1%88%E5%91%8A%E7%A0%B4%2C%E5%AB%8C%E7%8A%AF%E5%85%A8%E9%83%A8%E8%90%BD%E7%BD%91",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22,
-            25,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时52分 ~ 18时18分]"
-        },
-        {
-          "title": "游戏开发圈有个名言叫「门是所有人的噩梦」，如何理解这句话？",
-          "url": "https://www.zhihu.com/question/2029649478177571600",
-          "source": "知乎",
-          "ranks": [
-            13,
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时53分 ~ 21时09分]"
-        },
-        {
-          "title": "游戏地图是如何设计的",
-          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E5%9C%B0%E5%9B%BE%E6%98%AF%E5%A6%82%E4%BD%95%E8%AE%BE%E8%AE%A1%E7%9A%84",
-          "source": "bilibili 热搜",
-          "ranks": [
-            28,
             27
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[18时18分 ~ 19时56分]"
-        },
-        {
-          "title": "西山居游戏：不存在所谓“解散”或“出售”的情况",
-          "url": "https://flash.jin10.com/detail/20260423162007448800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时53分"
+          "time_info": "[01时12分 ~ 01时13分]"
         }
       ]
     }
