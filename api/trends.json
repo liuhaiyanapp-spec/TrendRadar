@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T20:02:25.951956+08:00",
-  "total_titles_processed": 1574,
+  "generated_at": "2026-04-24T21:49:25.751307+08:00",
+  "total_titles_processed": 1710,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
             9,
             10,
             14,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时52分 ~ 20时02分]"
+          "appearance_count": 8,
+          "time_info": "[12时52分 ~ 21时49分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -40,9 +41,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时02分 ~ 21时49分]"
         },
         {
           "title": "孩子游戏退款后又充5万再退被拒",
