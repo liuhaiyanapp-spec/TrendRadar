@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-24T17:25:05.651457+08:00",
-  "total_titles_processed": 1326,
+  "generated_at": "2026-04-24T19:02:03.514158+08:00",
+  "total_titles_processed": 1462,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "游戏厂商叫苦:离线版成本太高",
@@ -29,8 +29,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 17时25分]"
+          "appearance_count": 6,
+          "time_info": "[12时52分 ~ 19时02分]"
         },
         {
           "title": "《星穹铁道》三周年小游戏银河信号漫游的游戏体验如何？",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时57分 ~ 09时58分]"
+        },
+        {
+          "title": "孩子游戏退款后又充5万再退被拒",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E6%B8%B8%E6%88%8F%E9%80%80%E6%AC%BE%E5%90%8E%E5%8F%88%E5%85%855%E4%B8%87%E5%86%8D%E9%80%80%E8%A2%AB%E6%8B%92%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时01分 ~ 19时02分]"
         },
         {
           "title": "A股游戏概念震荡调整，完美世界触及跌停，盛天网络、冰川网络、游族网络、昆仑万维、恺英网络跟跌。",
