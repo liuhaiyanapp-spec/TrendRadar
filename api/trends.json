@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-24T15:02:44.405095+08:00",
-  "total_titles_processed": 1146,
+  "generated_at": "2026-04-24T17:25:05.651457+08:00",
+  "total_titles_processed": 1326,
   "failed_sources": [],
   "trends": [
     {
@@ -25,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             9,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时52分 ~ 15时02分]"
+          "appearance_count": 4,
+          "time_info": "[12时52分 ~ 17时25分]"
         },
         {
           "title": "《星穹铁道》三周年小游戏银河信号漫游的游戏体验如何？",
