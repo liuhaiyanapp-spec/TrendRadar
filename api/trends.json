@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-25T18:38:03.791891+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-04-25T19:34:24.307110+08:00",
+  "total_titles_processed": 1269,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -15,11 +15,12 @@
             2,
             7,
             9,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时47分 ~ 18时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 19时34分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -29,11 +30,34 @@
             17,
             19,
             23,
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时47分 ~ 18时38分]"
+          "appearance_count": 20,
+          "time_info": "[00时47分 ~ 19时34分]"
+        },
+        {
+          "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
+          "url": "https://www.zhihu.com/question/2031070115622384249",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
+        },
+        {
+          "title": "星铁幻月新游戏开幕战",
+          "url": "https://search.bilibili.com/all?keyword=%E6%98%9F%E9%93%81%E5%B9%BB%E6%9C%88%E6%96%B0%E6%B8%B8%E6%88%8F%E5%BC%80%E5%B9%95%E6%88%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时34分"
         },
         {
           "title": "如何评价原神【向至冬，向未来】视频中对于游戏硬件配置兼顾性的言论？",
