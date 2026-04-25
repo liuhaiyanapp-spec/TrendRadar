@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T09:47:53.540940+08:00",
-  "total_titles_processed": 735,
+  "generated_at": "2026-04-25T12:32:05.584734+08:00",
+  "total_titles_processed": 873,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353709&amp;topic_name=%E6%B8%B8%E6%88%8F%E9%87%8C%E6%9D%80%E7%94%9F%E9%80%A0%E5%AD%BD%3F%E9%AB%98%E5%83%A7%E5%B9%BD%E9%BB%98%E8%A7%A3%E6%83%91",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 12时32分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -24,11 +25,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时47分 ~ 09时47分]"
+          "appearance_count": 13,
+          "time_info": "[00时47分 ~ 12时32分]"
         },
         {
           "title": "如何评价原神【向至冬，向未来】视频中对于游戏硬件配置兼顾性的言论？",
@@ -37,7 +39,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时47分"
         }
