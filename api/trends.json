@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T12:32:05.584734+08:00",
-  "total_titles_processed": 873,
+  "generated_at": "2026-04-25T14:17:43.974950+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             2,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 12时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 14时17分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -26,11 +27,12 @@
           "ranks": [
             17,
             19,
-            23
+            23,
+            24
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时47分 ~ 12时32分]"
+          "appearance_count": 14,
+          "time_info": "[00时47分 ~ 14时17分]"
         },
         {
           "title": "如何评价原神【向至冬，向未来】视频中对于游戏硬件配置兼顾性的言论？",
