@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-25T22:45:01.530581+08:00",
-  "total_titles_processed": 1473,
+  "generated_at": "2026-04-25T23:34:51.469741+08:00",
+  "total_titles_processed": 1524,
   "failed_sources": [],
   "trends": [
     {
@@ -21,8 +21,20 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时47分 ~ 22时45分]"
+          "appearance_count": 27,
+          "time_info": "[00时47分 ~ 23时34分]"
+        },
+        {
+          "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
+          "url": "https://www.zhihu.com/question/2031070115622384249",
+          "source": "知乎",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[19时34分 ~ 23时34分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -38,20 +50,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时47分 ~ 22时45分]"
-        },
-        {
-          "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
-          "url": "https://www.zhihu.com/question/2031070115622384249",
-          "source": "知乎",
-          "ranks": [
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[19时34分 ~ 22时45分]"
+          "appearance_count": 27,
+          "time_info": "[00时47分 ~ 23时34分]"
         },
         {
           "title": "星铁幻月新游戏开幕战",
