@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T02:40:07.968248+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-04-26T03:40:15.335847+08:00",
+  "total_titles_processed": 434,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时40分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -26,8 +26,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时40分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -37,8 +37,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时34分 ~ 02时40分]"
+          "appearance_count": 6,
+          "time_info": "[00时34分 ~ 03时40分]"
         }
       ]
     }
