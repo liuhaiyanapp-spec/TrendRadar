@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T13:14:21.920190+08:00",
-  "total_titles_processed": 806,
+  "generated_at": "2026-04-26T15:19:33.288113+08:00",
+  "total_titles_processed": 898,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             15,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时34分 ~ 13时14分]"
+          "appearance_count": 16,
+          "time_info": "[00时34分 ~ 15时19分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -68,11 +69,12 @@
           "url": "https://www.douyin.com/hot/2479119",
           "source": "抖音",
           "ranks": [
-            20
+            20,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时14分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时14分 ~ 15时19分]"
         }
       ]
     }
