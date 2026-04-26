@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T06:31:37.579855+08:00",
-  "total_titles_processed": 460,
+  "generated_at": "2026-04-27T07:33:17.470009+08:00",
+  "total_titles_processed": 492,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             7,
             13,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时33分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -29,8 +30,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时33分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -40,8 +41,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时35分 ~ 06时31分]"
+          "appearance_count": 11,
+          "time_info": "[00时35分 ~ 07时33分]"
         }
       ]
     }
