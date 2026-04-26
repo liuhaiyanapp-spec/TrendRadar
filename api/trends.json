@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T18:39:48.808565+08:00",
-  "total_titles_processed": 1078,
+  "generated_at": "2026-04-26T19:35:21.260758+08:00",
+  "total_titles_processed": 1135,
   "failed_sources": [],
   "trends": [
     {
@@ -26,11 +26,12 @@
             15,
             20,
             21,
-            24
+            24,
+            26
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时34分 ~ 18时39分]"
+          "appearance_count": 20,
+          "time_info": "[00时34分 ~ 19时35分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -44,6 +45,19 @@
           "time_info": "[00时34分 ~ 10时01分]"
         },
         {
+          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
+          "url": "https://wallstreetcn.com/articles/3770913",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时52分 ~ 19时35分]"
+        },
+        {
           "title": "游戏入侵完结",
           "url": "https://www.douyin.com/hot/2479119",
           "source": "抖音",
@@ -55,19 +69,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时14分 ~ 17时47分]"
-        },
-        {
-          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
-          "url": "https://wallstreetcn.com/articles/3770913",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时52分 ~ 18时39分]"
         },
         {
           "title": "阚清子老公游戏账号谐音喜欢阚清子",
@@ -98,7 +99,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时39分"
         },
