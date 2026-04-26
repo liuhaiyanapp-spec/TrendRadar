@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T15:19:33.288113+08:00",
-  "total_titles_processed": 898,
+  "generated_at": "2026-04-26T16:52:32.653877+08:00",
+  "total_titles_processed": 980,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
@@ -25,11 +25,12 @@
           "ranks": [
             15,
             20,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时34分 ~ 15时19分]"
+          "appearance_count": 17,
+          "time_info": "[00时34分 ~ 16时52分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -41,6 +42,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时34分 ~ 10时01分]"
+        },
+        {
+          "title": "游戏入侵完结",
+          "url": "https://www.douyin.com/hot/2479119",
+          "source": "抖音",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时14分 ~ 16时52分]"
         },
         {
           "title": "阚清子老公游戏账号谐音喜欢阚清子",
@@ -65,16 +78,26 @@
           "time_info": "[09时59分 ~ 10时01分]"
         },
         {
-          "title": "游戏入侵完结",
-          "url": "https://www.douyin.com/hot/2479119",
-          "source": "抖音",
+          "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
+          "url": "https://wallstreetcn.com/articles/3770913",
+          "source": "华尔街见闻",
           "ranks": [
-            20,
-            26
+            10
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时14分 ~ 15时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
+        },
+        {
+          "title": "英特尔还会有游戏显卡吗",
+          "url": "https://search.bilibili.com/all?keyword=%E8%8B%B1%E7%89%B9%E5%B0%94%E8%BF%98%E4%BC%9A%E6%9C%89%E6%B8%B8%E6%88%8F%E6%98%BE%E5%8D%A1%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时52分"
         }
       ]
     }
