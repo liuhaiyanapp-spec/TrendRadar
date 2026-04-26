@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T03:41:37.338995+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-04-27T04:31:41.348633+08:00",
+  "total_titles_processed": 415,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2030952709961021185",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
@@ -26,8 +27,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时31分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -37,8 +38,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时35分 ~ 03时41分]"
+          "appearance_count": 7,
+          "time_info": "[00时35分 ~ 04时31分]"
         }
       ]
     }
