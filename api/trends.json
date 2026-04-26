@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T20:47:57.334257+08:00",
-  "total_titles_processed": 1247,
+  "generated_at": "2026-04-26T22:02:28.201391+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
@@ -31,8 +31,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时34分 ~ 20时47分]"
+          "appearance_count": 22,
+          "time_info": "[00时34分 ~ 22时02分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -56,8 +56,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时52分 ~ 20时47分]"
+          "appearance_count": 6,
+          "time_info": "[16时52分 ~ 22时02分]"
+        },
+        {
+          "title": "为什么腾讯有钱、有人、有流量，做出来的游戏却总是 「 差一点意思 」？",
+          "url": "https://www.zhihu.com/question/2030952709961021185",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时39分 ~ 22时02分]"
         },
         {
           "title": "游戏入侵完结",
@@ -93,18 +106,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时59分 ~ 10时01分]"
-        },
-        {
-          "title": "为什么腾讯有钱、有人、有流量，做出来的游戏却总是 「 差一点意思 」？",
-          "url": "https://www.zhihu.com/question/2030952709961021185",
-          "source": "知乎",
-          "ranks": [
-            17,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时39分 ~ 20时47分]"
         },
         {
           "title": "英特尔还会有游戏显卡吗",
