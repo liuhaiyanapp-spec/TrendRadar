@@ -1,11 +1,13 @@
 {
-  "generated_at": "2026-04-26T07:31:41.064485+08:00",
-  "total_titles_processed": 502,
-  "failed_sources": [],
+  "generated_at": "2026-04-26T10:01:19.044775+08:00",
+  "total_titles_processed": 636,
+  "failed_sources": [
+    "jin10"
+  ],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "设计师凌晨办公室猝死，因距下班超 10 小时且曾打游戏被拒认工伤，法律上如何认定？法院裁决会考量哪些因素？",
@@ -26,8 +28,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 10时01分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -37,8 +39,30 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时34分 ~ 07时31分]"
+          "appearance_count": 14,
+          "time_info": "[00时34分 ~ 10时01分]"
+        },
+        {
+          "title": "阚清子老公游戏账号谐音喜欢阚清子",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%98%9A%E6%B8%85%E5%AD%90%E8%80%81%E5%85%AC%E6%B8%B8%E6%88%8F%E8%B4%A6%E5%8F%B7%E8%B0%90%E9%9F%B3%E5%96%9C%E6%AC%A2%E9%98%9A%E6%B8%85%E5%AD%90%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时01分]"
+        },
+        {
+          "title": "《崩坏: 星穹铁道》「幻月新游戏」开幕战打响，还有哪些亮点值得关注？",
+          "url": "https://www.zhihu.com/question/2031455402487961116",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时59分 ~ 10时01分]"
         }
       ]
     }
