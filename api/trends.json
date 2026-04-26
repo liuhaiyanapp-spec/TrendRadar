@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-26T22:02:28.201391+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-04-26T23:37:07.439074+08:00",
+  "total_titles_processed": 1424,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             21,
             24,
             26,
-            27
+            27,
+            30
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[00时34分 ~ 22时02分]"
+          "appearance_count": 24,
+          "time_info": "[00时34分 ~ 23时37分]"
         },
         {
           "title": "洛克风靡全网,洋人翻墙肝游戏",
@@ -56,8 +57,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时52分 ~ 22时02分]"
+          "appearance_count": 8,
+          "time_info": "[16时52分 ~ 23时37分]"
         },
         {
           "title": "为什么腾讯有钱、有人、有流量，做出来的游戏却总是 「 差一点意思 」？",
@@ -66,11 +67,12 @@
           "ranks": [
             17,
             16,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时39分 ~ 22时02分]"
+          "appearance_count": 5,
+          "time_info": "[18时39分 ~ 23时37分]"
         },
         {
           "title": "游戏入侵完结",
