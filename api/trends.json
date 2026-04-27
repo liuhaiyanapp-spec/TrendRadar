@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T07:33:17.470009+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-04-27T10:03:25.287635+08:00",
+  "total_titles_processed": 661,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "url": "https://wallstreetcn.com/articles/3770913",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 10时03分]"
         },
         {
           "title": "游戏里杀生造孽?高僧幽默解惑",
@@ -41,8 +42,8 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时35分 ~ 07时33分]"
+          "appearance_count": 12,
+          "time_info": "[00时35分 ~ 10时03分]"
         }
       ]
     }
