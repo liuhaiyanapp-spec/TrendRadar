@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T20:18:36.300862+08:00",
-  "total_titles_processed": 1298,
+  "generated_at": "2026-04-27T23:02:12.222808+08:00",
+  "total_titles_processed": 1476,
   "failed_sources": [],
   "trends": [
     {
@@ -47,6 +47,19 @@
           "time_info": "[00时35分 ~ 10时03分]"
         },
         {
+          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
+          "url": "https://www.zhihu.com/question/2030297015276549260",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时56分 ~ 23时02分]"
+        },
+        {
           "title": "游戏入侵完结",
           "url": "https://www.douyin.com/hot/2479119",
           "source": "抖音",
@@ -58,18 +71,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时47分 ~ 20时18分]"
-        },
-        {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时56分 ~ 20时18分]"
         },
         {
           "title": "孩子沉迷手机游戏怎么控制使用时间",
