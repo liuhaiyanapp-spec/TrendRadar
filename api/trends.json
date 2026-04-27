@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-27T18:56:32.949366+08:00",
-  "total_titles_processed": 1180,
+  "generated_at": "2026-04-27T20:18:36.300862+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -56,19 +56,20 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时47分 ~ 18时56分]"
+          "appearance_count": 4,
+          "time_info": "[13时47分 ~ 20时18分]"
         },
         {
           "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
           "url": "https://www.zhihu.com/question/2030297015276549260",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时56分 ~ 20时18分]"
         },
         {
           "title": "孩子沉迷手机游戏怎么控制使用时间",
@@ -77,7 +78,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时56分"
         }
