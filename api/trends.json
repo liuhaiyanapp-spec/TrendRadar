@@ -1,45 +1,22 @@
 {
-  "generated_at": "2026-04-28T20:23:34.635650+08:00",
-  "total_titles_processed": 1452,
+  "generated_at": "2026-04-29T01:41:58.333472+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "A股游戏板块盘初走强，迅游科技涨超6%，完美世界涨超4%，三七互娱、掌趣科技、凯撒文化、巨人网络、世纪华通等个股跟涨。",
-          "url": "https://flash.jin10.com/detail/20260428093645864800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时09分"
-        },
-        {
-          "title": "我没有编程能力，现在写了完整的游戏设计文稿，并准备了 20 万资金，想把游戏用 AI 做出来，该怎么做？",
-          "url": "https://www.zhihu.com/question/2030297015276549260",
-          "source": "知乎",
-          "ranks": [
-            8,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时43分 ~ 02时02分]"
-        },
         {
           "title": "如何看待《明末：渊虚之羽》被意大利游戏巨头以 3200W 收购？",
           "url": "https://www.zhihu.com/question/2032245202908346123",
           "source": "知乎",
           "ranks": [
-            17
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "16时11分"
+          "time_info": "01时41分"
         }
       ]
     }
