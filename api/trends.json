@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T07:48:00.458516+08:00",
-  "total_titles_processed": 582,
+  "generated_at": "2026-04-29T10:10:49.459650+08:00",
+  "total_titles_processed": 750,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何看待《明末：渊虚之羽》被意大利游戏巨头以 3200W 收购？",
@@ -42,6 +42,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 05时02分]"
+        },
+        {
+          "title": "上证指数转涨，深证成指、创业板指此前转涨；航天装备、游戏、白色家电、传媒等板块涨幅居前；全市近3400股上涨。",
+          "url": "https://flash.jin10.com/detail/20260429094040387800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时10分"
         }
       ]
     }
