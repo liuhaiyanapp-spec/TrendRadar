@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-29T20:13:23.257620+08:00",
-  "total_titles_processed": 1366,
+  "generated_at": "2026-04-29T23:06:07.134527+08:00",
+  "total_titles_processed": 1535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "锐评异环游戏流程设定",
@@ -57,6 +57,28 @@
           "time_info": "[05时01分 ~ 05时02分]"
         },
         {
+          "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33075663",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
+        {
+          "title": "网传 9 岁小孩哥已拿到杭州云谷中心游戏公司的 offer，你怎么看？",
+          "url": "https://www.zhihu.com/question/2030722229307229877",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时05分 ~ 23时06分]"
+        },
+        {
           "title": "上证指数转涨，深证成指、创业板指此前转涨；航天装备、游戏、白色家电、传媒等板块涨幅居前；全市近3400股上涨。",
           "url": "https://flash.jin10.com/detail/20260429094040387800",
           "source": "金十数据",
@@ -74,7 +96,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时13分"
         }
