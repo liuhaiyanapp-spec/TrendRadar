@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-04-29T10:10:49.459650+08:00",
-  "total_titles_processed": 750,
+  "generated_at": "2026-04-29T13:48:12.849186+08:00",
+  "total_titles_processed": 932,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 4,
       "titles": [
+        {
+          "title": "锐评异环游戏流程设定",
+          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%82%E7%8E%AF%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B%E8%AE%BE%E5%AE%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29,
+            30,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时23分 ~ 13时48分]"
+        },
         {
           "title": "如何看待《明末：渊虚之羽》被意大利游戏巨头以 3200W 收购？",
           "url": "https://www.zhihu.com/question/2032245202908346123",
@@ -19,18 +32,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时41分 ~ 06时49分]"
-        },
-        {
-          "title": "锐评异环游戏流程设定",
-          "url": "https://search.bilibili.com/all?keyword=%E9%94%90%E8%AF%84%E5%BC%82%E7%8E%AF%E6%B8%B8%E6%88%8F%E6%B5%81%E7%A8%8B%E8%AE%BE%E5%AE%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            29,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时23分 ~ 05时02分]"
         },
         {
           "title": "如何评价《崩坏: 星穹铁道》于 4 月 28 日开启的「幻月新游戏·集结战」直播活动?",
@@ -50,7 +51,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
         }
