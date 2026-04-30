@@ -1,7 +1,36 @@
 {
-  "generated_at": "2026-05-01T03:09:09.589114+08:00",
-  "total_titles_processed": 399,
+  "generated_at": "2026-05-01T04:53:29.010567+08:00",
+  "total_titles_processed": 465,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "游戏 用户体验 交互设计",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "幻月新游戏",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BB%E6%9C%88%E6%96%B0%E6%B8%B8%E6%88%8F%23&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        },
+        {
+          "title": "独立游戏会不会出现饱和状态?",
+          "url": "https://www.zhihu.com/question/1973121218904355991",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时53分"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
