@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-01T05:52:02.720775+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-05-01T06:45:06.679995+08:00",
+  "total_titles_processed": 558,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时53分 ~ 05时52分]"
+          "appearance_count": 5,
+          "time_info": "[04时53分 ~ 06时45分]"
         },
         {
           "title": "独立游戏会不会出现饱和状态?",
