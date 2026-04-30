@@ -1,22 +1,34 @@
 {
-  "generated_at": "2026-05-01T06:45:06.679995+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-05-01T07:45:02.124579+08:00",
+  "total_titles_processed": 632,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "幻月新游戏",
           "url": "https://s.weibo.com/weibo?q=%23%E5%B9%BB%E6%9C%88%E6%96%B0%E6%B8%B8%E6%88%8F%23&t=31&band_rank=10&Refer=top",
           "source": "微博",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[04时53分 ~ 06时45分]"
+          "appearance_count": 7,
+          "time_info": "[04时53分 ~ 07时45分]"
+        },
+        {
+          "title": "孙杨玩游戏真打了范明一耳光",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%99%E6%9D%A8%E7%8E%A9%E6%B8%B8%E6%88%8F%E7%9C%9F%E6%89%93%E4%BA%86%E8%8C%83%E6%98%8E%E4%B8%80%E8%80%B3%E5%85%89%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时44分 ~ 07时45分]"
         },
         {
           "title": "独立游戏会不会出现饱和状态?",
