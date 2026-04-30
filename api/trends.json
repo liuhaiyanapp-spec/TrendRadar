@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-30T07:47:31.198980+08:00",
-  "total_titles_processed": 657,
+  "generated_at": "2026-04-30T10:10:47.448412+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时47分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时10分]"
         },
         {
           "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
@@ -37,7 +37,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时47分"
         }
