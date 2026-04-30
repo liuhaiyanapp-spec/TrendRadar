@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-04-30T23:16:16.038790+08:00",
-  "total_titles_processed": 1611,
+  "generated_at": "2026-05-01T01:12:33.800216+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "网传 9 岁小孩哥已拿到杭州云谷中心游戏公司的 offer，你怎么看？",
-          "url": "https://www.zhihu.com/question/2030722229307229877",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时21分 ~ 10时10分]"
-        },
-        {
-          "title": "经济日报：把取消键还给消费者，数字消费不能成平台的算法游戏",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33075663",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时47分]"
-        },
-        {
-          "title": "4月游戏版号公布",
-          "url": "https://search.bilibili.com/all?keyword=4%E6%9C%88%E6%B8%B8%E6%88%8F%E7%89%88%E5%8F%B7%E5%85%AC%E5%B8%83",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时47分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
