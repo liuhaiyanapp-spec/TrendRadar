@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T21:02:21.317227+08:00",
-  "total_titles_processed": 1455,
+  "generated_at": "2026-05-01T22:49:08.400387+08:00",
+  "total_titles_processed": 1598,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "幻月新游戏",
@@ -54,6 +54,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时53分 ~ 05时52分]"
+        },
+        {
+          "title": "如何说服家人同意自己从事游戏行业工作？",
+          "url": "https://www.zhihu.com/question/37966419",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时48分 ~ 22时49分]"
         }
       ]
     }
