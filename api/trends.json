@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-04T02:47:33.700008+08:00",
-  "total_titles_processed": 379,
+  "generated_at": "2026-05-04T03:50:11.159254+08:00",
+  "total_titles_processed": 395,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             8,
             9,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时40分 ~ 02时47分]"
+          "appearance_count": 5,
+          "time_info": "[00时40分 ~ 03时50分]"
         },
         {
           "title": "和AI玩猜历史人物游戏",
@@ -29,8 +30,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 02时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时41分 ~ 03时50分]"
         }
       ]
     }
