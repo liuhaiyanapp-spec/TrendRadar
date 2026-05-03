@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-04T06:34:27.188083+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-04T07:37:55.919964+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "你心目中最好的十款单机游戏是什么？",
@@ -15,11 +15,12 @@
             8,
             9,
             5,
-            4
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 06时34分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 07时37分]"
         },
         {
           "title": "和AI玩猜历史人物游戏",
@@ -29,11 +30,34 @@
             6,
             9,
             8,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时41分 ~ 06时34分]"
+          "appearance_count": 8,
+          "time_info": "[01时41分 ~ 07时37分]"
+        },
+        {
+          "title": "据华尔街日报：游戏驿站(GME.N)提出以每股125美元或约合560亿美元的价格收购eBay(EBAY.O)。",
+          "url": "https://flash.jin10.com/detail/20260504070408438800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
+        },
+        {
+          "title": "游戏驿站（GameStop）首席执行官Cohen 称提议以560亿美元收购eBay。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3098323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时37分"
         }
       ]
     }
