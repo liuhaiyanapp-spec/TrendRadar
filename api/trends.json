@@ -1,48 +1,22 @@
 {
-  "generated_at": "2026-05-03T23:41:00.810881+08:00",
-  "total_titles_processed": 1369,
+  "generated_at": "2026-05-04T00:40:28.776134+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
-        {
-          "title": "和AI玩猜历史人物游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E5%92%8CAI%E7%8E%A9%E7%8C%9C%E5%8E%86%E5%8F%B2%E4%BA%BA%E7%89%A9%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            25,
-            26,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时37分 ~ 23时41分]"
-        },
-        {
-          "title": "中国儒意：与腾讯代表公司签订2026年游戏合作框架协议",
-          "url": "https://flash.jin10.com/detail/20260503201654738800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时53分 ~ 22时08分]"
-        },
         {
           "title": "你心目中最好的十款单机游戏是什么？",
           "url": "https://www.zhihu.com/question/479719590",
           "source": "知乎",
           "ranks": [
-            14
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时08分 ~ 23时41分]"
+          "appearance_count": 1,
+          "time_info": "00时40分"
         }
       ]
     }
