@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-05-06T19:01:45.533082+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-05-06T20:28:59.966797+08:00",
+  "total_titles_processed": 1352,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
           "url": "https://www.zhihu.com/question/2032416656081802662",
           "source": "知乎",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 20时28分]"
         },
         {
           "title": "A股云游戏板块震荡上升，优刻得涨超7%，顺网科技、完美世界、均涨超6%，协创数据涨超5%，首都在线、蜂助手等跟涨。",
@@ -37,19 +38,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 20时28分]"
         },
         {
           "title": "游戏嘉豪发展史",
           "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E5%98%89%E8%B1%AA%E5%8F%91%E5%B1%95%E5%8F%B2",
           "source": "bilibili 热搜",
           "ranks": [
-            16
+            16,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时00分 ~ 19时01分]"
+          "appearance_count": 3,
+          "time_info": "[19时00分 ~ 20时28分]"
         },
         {
           "title": "我们在开发 VR 独立游戏，快三年了，累计年底投入 45 万美元，内容是打丧尸，类似亚利桑那阳光，还能坚持吗？",
@@ -61,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
+        },
+        {
+          "title": "夏日游戏节2026宣传视频",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%822026%E5%AE%A3%E4%BC%A0%E8%A7%86%E9%A2%91",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         }
       ]
     }
