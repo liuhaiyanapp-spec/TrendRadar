@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-07T03:27:22.362837+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-05-07T05:05:11.282581+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时27分]"
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时05分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -26,8 +26,19 @@
             18
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时25分 ~ 05时05分]"
+        },
+        {
+          "title": "游戏嘉豪发展史",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%B8%E6%88%8F%E5%98%89%E8%B1%AA%E5%8F%91%E5%B1%95%E5%8F%B2",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时25分 ~ 03时27分]"
+          "time_info": "[05时04分 ~ 05时05分]"
         }
       ]
     }
