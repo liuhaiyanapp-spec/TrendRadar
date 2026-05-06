@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T01:25:31.316314+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-05-07T03:27:22.362837+08:00",
+  "total_titles_processed": 400,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时27分]"
         },
         {
           "title": "异环横扫海外,掀翻日本游戏圈",
@@ -26,8 +26,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时25分"
+          "appearance_count": 2,
+          "time_info": "[01时25分 ~ 03时27分]"
         }
       ]
     }
