@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-07T10:08:04.124824+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-05-07T13:54:59.801277+08:00",
+  "total_titles_processed": 964,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时25分 ~ 10时08分]"
+          "appearance_count": 9,
+          "time_info": "[01时25分 ~ 13时54分]"
         },
         {
           "title": "如果有游戏将所有氪金价格变为十分之一，会不会迎来盈利大涨？「1 人充 100 元」和「100 人充 1 元」谁赢？",
