@@ -1,26 +1,12 @@
 {
-  "generated_at": "2026-05-10T05:37:16.023856+08:00",
-  "total_titles_processed": 466,
+  "generated_at": "2026-05-10T06:36:11.851142+08:00",
+  "total_titles_processed": 485,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 2,
       "titles": [
-        {
-          "title": "Cui71 韩国游戏",
-          "url": "https://s.weibo.com/weibo?q=Cui71%20%E9%9F%A9%E5%9B%BD%E6%B8%B8%E6%88%8F&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12,
-            15,
-            17,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时49分 ~ 05时37分]"
-        },
         {
           "title": "男子打游戏中闪光弹主机不断冒火花",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%AD%E9%97%AA%E5%85%89%E5%BC%B9%E4%B8%BB%E6%9C%BA%E4%B8%8D%E6%96%AD%E5%86%92%E7%81%AB%E8%8A%B1",
@@ -30,6 +16,20 @@
             14,
             18,
             28
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[02时49分 ~ 06时36分]"
+        },
+        {
+          "title": "Cui71 韩国游戏",
+          "url": "https://s.weibo.com/weibo?q=Cui71%20%E9%9F%A9%E5%9B%BD%E6%B8%B8%E6%88%8F&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12,
+            15,
+            17,
+            30
           ],
           "is_new": false,
           "appearance_count": 5,
