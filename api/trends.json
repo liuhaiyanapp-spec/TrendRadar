@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T03:53:14.108340+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-05-10T04:37:45.173573+08:00",
+  "total_titles_processed": 445,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "微博",
           "ranks": [
             12,
-            15
+            15,
+            17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 04时37分]"
         },
         {
           "title": "男子打游戏中闪光弹主机不断冒火花",
@@ -25,11 +26,12 @@
           "source": "百度热搜",
           "ranks": [
             29,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时49分 ~ 03时53分]"
+          "appearance_count": 4,
+          "time_info": "[02时49分 ~ 04时37分]"
         }
       ]
     }
