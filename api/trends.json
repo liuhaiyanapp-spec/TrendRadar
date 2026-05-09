@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T02:49:42.214837+08:00",
-  "total_titles_processed": 401,
+  "generated_at": "2026-05-10T03:53:14.108340+08:00",
+  "total_titles_processed": 422,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://s.weibo.com/weibo?q=Cui71%20%E9%9F%A9%E5%9B%BD%E6%B8%B8%E6%88%8F&t=31&band_rank=12&Refer=top",
           "source": "微博",
           "ranks": [
-            12
+            12,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 03时53分]"
         },
         {
           "title": "男子打游戏中闪光弹主机不断冒火花",
           "url": "https://www.baidu.com/s?wd=%E7%94%B7%E5%AD%90%E6%89%93%E6%B8%B8%E6%88%8F%E4%B8%AD%E9%97%AA%E5%85%89%E5%BC%B9%E4%B8%BB%E6%9C%BA%E4%B8%8D%E6%96%AD%E5%86%92%E7%81%AB%E8%8A%B1",
           "source": "百度热搜",
           "ranks": [
-            29
+            29,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时49分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时49分 ~ 03时53分]"
         }
       ]
     }
