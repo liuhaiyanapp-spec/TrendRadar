@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-10T10:10:00.639487+08:00",
-  "total_titles_processed": 646,
+  "generated_at": "2026-05-10T13:57:55.031804+08:00",
+  "total_titles_processed": 803,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "男子打游戏中闪光弹主机不断冒火花",
@@ -36,6 +36,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时49分 ~ 05时37分]"
+        },
+        {
+          "title": "腾讯官宣增持《黑神话：悟空》开发商游戏科学至 24%，成唯一外部股东，你觉得是好的还是会影响创作自由度？",
+          "url": "https://www.zhihu.com/question/2033670239087503335",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时57分"
         }
       ]
     }
