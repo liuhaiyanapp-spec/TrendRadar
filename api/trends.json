@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T16:04:41.625994+08:00",
-  "total_titles_processed": 901,
+  "generated_at": "2026-05-10T18:07:34.157423+08:00",
+  "total_titles_processed": 1019,
   "failed_sources": [],
   "trends": [
     {
@@ -24,6 +24,18 @@
           "time_info": "[02时49分 ~ 10时10分]"
         },
         {
+          "title": "腾讯官宣增持《黑神话：悟空》开发商游戏科学至 24%，成唯一外部股东，你觉得是好的还是会影响创作自由度？",
+          "url": "https://www.zhihu.com/question/2033670239087503335",
+          "source": "知乎",
+          "ranks": [
+            7,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 18时07分]"
+        },
+        {
           "title": "Cui71 韩国游戏",
           "url": "https://s.weibo.com/weibo?q=Cui71%20%E9%9F%A9%E5%9B%BD%E6%B8%B8%E6%88%8F&t=31&band_rank=12&Refer=top",
           "source": "微博",
@@ -36,17 +48,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时49分 ~ 05时37分]"
-        },
-        {
-          "title": "腾讯官宣增持《黑神话：悟空》开发商游戏科学至 24%，成唯一外部股东，你觉得是好的还是会影响创作自由度？",
-          "url": "https://www.zhihu.com/question/2033670239087503335",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 16时04分]"
         }
       ]
     }
