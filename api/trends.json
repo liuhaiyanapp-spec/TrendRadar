@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-10T18:07:34.157423+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-05-10T19:44:13.035707+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
@@ -29,11 +29,12 @@
           "source": "知乎",
           "ranks": [
             7,
-            2
+            2,
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时57分 ~ 18时07分]"
+          "appearance_count": 5,
+          "time_info": "[13时57分 ~ 19时44分]"
         },
         {
           "title": "Cui71 韩国游戏",
