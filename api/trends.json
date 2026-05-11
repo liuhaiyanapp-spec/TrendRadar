@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-05-11T21:40:45.877866+08:00",
-  "total_titles_processed": 1355,
+  "generated_at": "2026-05-12T00:26:48.800317+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "如何评价改编自经典游戏的动作电影《真人快打 2》？",
-          "url": "https://www.zhihu.com/question/2035872181381486169",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时54分 ~ 05时41分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
