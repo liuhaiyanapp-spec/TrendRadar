@@ -1,40 +1,7 @@
 {
-  "generated_at": "2026-05-12T22:03:09.883665+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-05-13T00:44:28.956467+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "曾经每天玩 5 小时游戏的人，为什么在二十多岁后会「断崖式」地对游戏失去兴趣？",
-          "url": "https://www.zhihu.com/question/1969364589067105538",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时00分 ~ 19时15分]"
-        },
-        {
-          "title": "为什么《王者荣耀世界》的开发成本看起来这么高？游戏开发的主要开销在哪里？",
-          "url": "https://www.zhihu.com/question/2019850821072898030",
-          "source": "知乎",
-          "ranks": [
-            20,
-            15,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 06时03分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
