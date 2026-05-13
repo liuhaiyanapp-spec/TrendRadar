@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-14T05:20:01.874748+08:00",
-  "total_titles_processed": 477,
+  "generated_at": "2026-05-14T07:01:32.676932+08:00",
+  "total_titles_processed": 538,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "官方慌神?洛手急聘游戏策划",
@@ -15,8 +15,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时13分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[01时13分 ~ 07时01分]"
+        },
+        {
+          "title": "游戏驿站(GME.N)CEO：eBay董事会不应在未深入讨论（收购）提案实质的情况下轻易驳回。eBay的股东应有机会评估收购提议。已请求与eBay董事会会面，但董事会拒绝了。",
+          "url": "https://flash.jin10.com/detail/20260514064444371800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "满足「长青游戏≥3 款」的中国游戏公司是否仅有腾讯一家？",
@@ -28,6 +39,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时19分 ~ 05时20分]"
+        },
+        {
+          "title": "游戏驿站(GME.N)CEO：（谈及eBay）我喜欢这项资产，但它是由一群失败者经营的。",
+          "url": "https://flash.jin10.com/detail/20260514063428064800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     }
