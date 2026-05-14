@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-14T19:46:53.589296+08:00",
-  "total_titles_processed": 1303,
+  "generated_at": "2026-05-14T21:51:29.461296+08:00",
+  "total_titles_processed": 1439,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             11,
             16,
             19,
-            23
+            23,
+            22
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时13分 ~ 19时46分]"
+          "appearance_count": 13,
+          "time_info": "[01时13分 ~ 21时51分]"
         },
         {
           "title": "游戏驿站(GME.N)CEO：eBay董事会不应在未深入讨论（收购）提案实质的情况下轻易驳回。eBay的股东应有机会评估收购提议。已请求与eBay董事会会面，但董事会拒绝了。",
