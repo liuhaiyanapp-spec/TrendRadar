@@ -1,60 +1,33 @@
 {
-  "generated_at": "2026-05-15T23:59:31.757318+08:00",
-  "total_titles_processed": 1600,
+  "generated_at": "2026-05-16T01:28:23.579956+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
           "title": "国行Switch成单机游戏机",
           "url": "https://www.douyin.com/hot/2499780",
           "source": "抖音",
           "ranks": [
-            10,
-            19,
-            9
+            13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时29分 ~ 21时48分]"
-        },
-        {
-          "title": "官方慌神?洛手急聘游戏策划",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354239&amp;topic_name=%E5%AE%98%E6%96%B9%E6%85%8C%E7%A5%9E%3F%E6%B4%9B%E6%89%8B%E6%80%A5%E8%81%98%E6%B8%B8%E6%88%8F%E7%AD%96%E5%88%92",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时07分 ~ 10时29分]"
+          "appearance_count": 1,
+          "time_info": "01时28分"
         },
         {
           "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
           "url": "https://www.zhihu.com/question/2037259013860087102",
           "source": "知乎",
           "ranks": [
-            20,
-            9,
             13
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时49分 ~ 23时59分]"
-        },
-        {
-          "title": "创业板指跌幅收窄至0.7%，快手概念、氟化工、短剧游戏、足球概念涨幅居前。",
-          "url": "https://flash.jin10.com/detail/20260515101804965800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时29分"
+          "time_info": "01时28分"
         }
       ]
     }
