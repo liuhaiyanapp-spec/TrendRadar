@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-15T17:42:07.257237+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-05-15T19:50:04.572140+08:00",
+  "total_titles_processed": 1344,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "官方慌神?洛手急聘游戏策划",
@@ -28,8 +28,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 19时50分]"
+        },
+        {
+          "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
+          "url": "https://www.zhihu.com/question/2037259013860087102",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时49分 ~ 19时50分]"
         },
         {
           "title": "创业板指跌幅收窄至0.7%，快手概念、氟化工、短剧游戏、足球概念涨幅居前。",
