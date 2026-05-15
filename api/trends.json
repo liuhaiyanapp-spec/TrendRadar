@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T05:53:23.203192+08:00",
-  "total_titles_processed": 493,
+  "generated_at": "2026-05-16T06:46:40.215935+08:00",
+  "total_titles_processed": 520,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时28分 ~ 05时53分]"
+          "appearance_count": 5,
+          "time_info": "[01时28分 ~ 06时46分]"
         },
         {
           "title": "国行Switch成单机游戏机",
@@ -25,11 +26,12 @@
           "source": "抖音",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 05时53分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 06时46分]"
         }
       ]
     }
