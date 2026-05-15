@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-15T14:30:51.164198+08:00",
-  "total_titles_processed": 1016,
+  "generated_at": "2026-05-15T17:42:07.257237+08:00",
+  "total_titles_processed": 1201,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://www.douyin.com/hot/2499780",
           "source": "抖音",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时29分 ~ 14时30分]"
+          "appearance_count": 4,
+          "time_info": "[14时29分 ~ 17时42分]"
         },
         {
           "title": "创业板指跌幅收窄至0.7%，快手概念、氟化工、短剧游戏、足球概念涨幅居前。",
