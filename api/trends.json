@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T01:28:23.579956+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-05-16T03:20:49.608162+08:00",
+  "total_titles_processed": 391,
   "failed_sources": [],
   "trends": [
     {
@@ -8,20 +8,20 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "国行Switch成单机游戏机",
-          "url": "https://www.douyin.com/hot/2499780",
-          "source": "抖音",
+          "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
+          "url": "https://www.zhihu.com/question/2037259013860087102",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时28分"
+          "appearance_count": 2,
+          "time_info": "[01时28分 ~ 03时20分]"
         },
         {
-          "title": "如果黄仁勋愿意，凭借英伟达目前造算力卡的技术，最高可以造出什么水平的游戏显卡？",
-          "url": "https://www.zhihu.com/question/2037259013860087102",
-          "source": "知乎",
+          "title": "国行Switch成单机游戏机",
+          "url": "https://www.douyin.com/hot/2499780",
+          "source": "抖音",
           "ranks": [
             13
           ],
