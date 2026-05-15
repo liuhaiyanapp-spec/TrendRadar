@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-16T04:54:30.968817+08:00",
-  "total_titles_processed": 465,
+  "generated_at": "2026-05-16T05:53:23.203192+08:00",
+  "total_titles_processed": 493,
   "failed_sources": [],
   "trends": [
     {
@@ -12,22 +12,24 @@
           "url": "https://www.zhihu.com/question/2037259013860087102",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            18
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时28分 ~ 04时54分]"
+          "appearance_count": 4,
+          "time_info": "[01时28分 ~ 05时53分]"
         },
         {
           "title": "国行Switch成单机游戏机",
           "url": "https://www.douyin.com/hot/2499780",
           "source": "抖音",
           "ranks": [
-            13
+            13,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时28分 ~ 04时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时28分 ~ 05时53分]"
         }
       ]
     }
