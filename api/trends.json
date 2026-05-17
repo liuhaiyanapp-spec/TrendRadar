@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-05-17T21:02:37.251252+08:00",
-  "total_titles_processed": 1094,
+  "generated_at": "2026-05-17T22:51:32.108439+08:00",
+  "total_titles_processed": 1204,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 2,
       "titles": [
+        {
+          "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
+          "url": "https://www.zhihu.com/question/667429963",
+          "source": "知乎",
+          "ranks": [
+            12,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时51分]"
+        },
         {
           "title": "如何看待《蓝色星原：旅谣》海外代理商 Nexon 在 5 月 14 日发布的季度财报中表示游戏将在今年发布？",
           "url": "https://www.zhihu.com/question/2038755353848984902",
@@ -17,17 +29,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[14时15分 ~ 14时16分]"
-        },
-        {
-          "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
-          "url": "https://www.zhihu.com/question/667429963",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         }
       ]
     }
