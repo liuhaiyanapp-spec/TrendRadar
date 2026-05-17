@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-05-17T10:16:24.065043+08:00",
-  "total_titles_processed": 581,
+  "generated_at": "2026-05-17T14:16:07.158284+08:00",
+  "total_titles_processed": 743,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "游戏 用户体验 交互设计",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待《蓝色星原：旅谣》海外代理商 Nexon 在 5 月 14 日发布的季度财报中表示游戏将在今年发布？",
+          "url": "https://www.zhihu.com/question/2038755353848984902",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 14时16分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
