@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-18T19:02:28.769359+08:00",
-  "total_titles_processed": 1153,
+  "generated_at": "2026-05-18T22:33:17.102790+08:00",
+  "total_titles_processed": 1328,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "「游戏本」是否应该改名为「学术本」「工程本」「高性能本」等与游戏无关的名字？",
@@ -24,11 +24,23 @@
           "source": "贴吧",
           "ranks": [
             1,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时49分 ~ 19时02分]"
+          "appearance_count": 3,
+          "time_info": "[14时49分 ~ 22时33分]"
+        },
+        {
+          "title": "广西一官方号发“套圈美女游戏”视频引争议",
+          "url": "https://news.ifeng.com/c/8tEVYty9McK",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "中国音数协游戏工委：4月中国游戏市场实际销售收入303.69亿元 同比增长11.04%",
@@ -37,7 +49,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时02分"
         }
