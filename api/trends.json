@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-20T07:57:23.472055+08:00",
-  "total_titles_processed": 649,
+  "generated_at": "2026-05-20T10:43:08.623111+08:00",
+  "total_titles_processed": 835,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354373&amp;topic_name=%E5%90%A7%E5%8F%8B%E6%94%AF%E6%8B%9B%2C60%E5%B2%81%E8%80%81%E5%93%A5%E6%B1%82%E6%8E%A8%E6%B8%B8%E6%88%8F",
           "source": "贴吧",
           "ranks": [
-            24
+            24,
+            27
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时47分 ~ 07时57分]"
+          "appearance_count": 10,
+          "time_info": "[00时47分 ~ 10时43分]"
         },
         {
           "title": "三星推出新一代Odyssey游戏显示器和ViewFinity显示器，其中包括业界首款6K游戏显示器。",
@@ -25,7 +26,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时57分"
         }
