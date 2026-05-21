@@ -1,42 +1,7 @@
 {
-  "generated_at": "2026-05-21T21:59:16.963588+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-05-22T00:39:28.980494+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "铁路部门回应“3岁女童高铁座位与母亲相隔8节车厢”：持续优化相关功能，提升用户体验",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33204168",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            8,
-            3,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时49分 ~ 18时34分]"
-        },
-        {
-          "title": "为什么游戏的 BOSS，都在圆形的大场子里等你？他们就不能在楼梯间、在悬崖边、在公共厕所里跟你打？",
-          "url": "https://www.zhihu.com/question/2040333578471465457",
-          "source": "知乎",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时36分 ~ 14时46分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
