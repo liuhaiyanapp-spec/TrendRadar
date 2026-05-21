@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-21T14:46:04.140666+08:00",
-  "total_titles_processed": 943,
+  "generated_at": "2026-05-21T18:34:27.092503+08:00",
+  "total_titles_processed": 1147,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             13,
             8,
             3,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时49分 ~ 14时46分]"
+          "appearance_count": 8,
+          "time_info": "[00时49分 ~ 18时34分]"
         },
         {
           "title": "为什么游戏的 BOSS，都在圆形的大场子里等你？他们就不能在楼梯间、在悬崖边、在公共厕所里跟你打？",
