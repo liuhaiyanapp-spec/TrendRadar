@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-05-23T11:27:27.442916+08:00",
-  "total_titles_processed": 764,
+  "generated_at": "2026-05-23T14:30:20.692491+08:00",
+  "total_titles_processed": 918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英伟达重组,游戏部门other",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
+          "source": "贴吧",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时29分 ~ 14时30分]"
+        },
         {
           "title": "本周，标普累涨约0.9%，道指涨2.1%，纳指涨0.3%，半导体指数涨5.1%，超大规模云服务商指数跌1.1%，科技股七巨头指数跌1.2%。 标普500指数初步收涨0.4%，保健板块涨1.2%，科技板块涨0.5%，能源板块涨0.2%，电信板块跌0.6%。 纳斯达克100指数初步收涨0.4%，成分股中，高通初步收涨11.5%，罗斯百货涨17.6%，Zscaler涨6.8%，恩智浦涨5.8%，Workday涨4.8%，Strategy跌3%，拼多多跌3.3%，闪迪跌3.7%，游戏股TTWO跌4.2% Merck初步收涨5.7%，Salesforce涨2.3%，思科涨2%，领跑道指成分股，麦当劳跌0.7%，沃尔玛跌0.7%，英伟达跌1.9%。",
           "url": "https://wallstreetcn.com/livenews/3108222",
