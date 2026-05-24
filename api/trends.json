@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-24T19:10:12.209996+08:00",
-  "total_titles_processed": 1072,
+  "generated_at": "2026-05-24T21:06:24.872926+08:00",
+  "total_titles_processed": 1183,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             11,
             12,
-            13
+            13,
+            15
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时56分 ~ 19时10分]"
+          "appearance_count": 16,
+          "time_info": "[00时56分 ~ 21时06分]"
         },
         {
           "title": "如果给你 200-300 块，你会选择充手游里还是买几款买断制游戏还是吃顿好的？",
