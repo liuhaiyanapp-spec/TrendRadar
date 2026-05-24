@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-24T17:16:29.663188+08:00",
-  "total_titles_processed": 962,
+  "generated_at": "2026-05-24T19:10:12.209996+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达重组,游戏部门other",
@@ -14,11 +14,23 @@
           "ranks": [
             7,
             11,
-            12
+            12,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时56分 ~ 17时16分]"
+          "appearance_count": 15,
+          "time_info": "[00时56分 ~ 19时10分]"
+        },
+        {
+          "title": "如果给你 200-300 块，你会选择充手游里还是买几款买断制游戏还是吃顿好的？",
+          "url": "https://www.zhihu.com/question/1990794492782060584",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时09分 ~ 19时10分]"
         }
       ]
     }
