@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-25T22:39:28.526400+08:00",
-  "total_titles_processed": 1309,
+  "generated_at": "2026-05-26T01:02:26.419592+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
@@ -8,17 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "英伟达重组,游戏部门other",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354529&amp;topic_name=%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%87%8D%E7%BB%84%2C%E6%B8%B8%E6%88%8F%E9%83%A8%E9%97%A8other",
-          "source": "贴吧",
+          "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
+          "url": "https://www.zhihu.com/question/649375328",
+          "source": "知乎",
           "ranks": [
-            14,
-            15,
-            22
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时59分 ~ 15时06分]"
+          "appearance_count": 1,
+          "time_info": "01时02分"
         }
       ]
     }
