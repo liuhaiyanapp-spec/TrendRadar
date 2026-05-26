@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-05-26T11:38:51.411433+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-05-26T15:38:52.547713+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "AI繁荣的隐秘真相：数万亿云收入背后的“循环计账游戏”",
+          "url": "https://wallstreetcn.com/articles/3773084",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "小学生男孩，因为不玩游戏，班里的男同学课间几乎不找他玩，他主动加入也无法融入，该怎么办？",
+          "url": "https://www.zhihu.com/question/2037540754919306345",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
         {
           "title": "超六成游戏工作室采用 AI 进行开发，AI 将会如何改变游戏行业？",
           "url": "https://www.zhihu.com/question/649375328",
