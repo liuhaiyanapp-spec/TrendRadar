@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-28T04:04:12.688179+08:00",
-  "total_titles_processed": 384,
+  "generated_at": "2026-05-28T06:27:14.596500+08:00",
+  "total_titles_processed": 463,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "今日头条",
           "ranks": [
             22,
-            18
+            18,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时54分 ~ 04时04分]"
+          "appearance_count": 5,
+          "time_info": "[01时54分 ~ 06时27分]"
         }
       ]
     }
