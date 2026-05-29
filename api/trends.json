@@ -1,27 +1,7 @@
 {
-  "generated_at": "2026-05-29T20:43:54.268940+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-05-30T00:39:17.207134+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么游戏里的商人总能毫发无损地出现在最终 BOSS 门口，玩家却对这种离谱的设定习以为常？",
-          "url": "https://www.zhihu.com/question/2038556257922102366",
-          "source": "知乎",
-          "ranks": [
-            13,
-            14,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 06时29分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
