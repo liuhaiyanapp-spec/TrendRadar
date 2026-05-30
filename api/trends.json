@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-30T21:08:29.585081+08:00",
-  "total_titles_processed": 1274,
+  "generated_at": "2026-05-30T23:02:37.518185+08:00",
+  "total_titles_processed": 1376,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "抖音",
           "ranks": [
             5,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时11分 ~ 21时08分]"
+          "appearance_count": 4,
+          "time_info": "[17时11分 ~ 23时02分]"
         },
         {
           "title": "因为切西瓜和打游戏的事，跟男友大吵一架，他说「我没有义务承接你的情绪」，是我小题大做了吗？",
@@ -26,9 +27,9 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时08分 ~ 23时02分]"
         }
       ]
     }
