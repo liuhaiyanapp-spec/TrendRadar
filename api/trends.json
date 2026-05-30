@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-30T19:15:27.449642+08:00",
-  "total_titles_processed": 1145,
+  "generated_at": "2026-05-30T21:08:29.585081+08:00",
+  "total_titles_processed": 1274,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "当我用游戏的方式打开vlog",
@@ -16,8 +16,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时11分 ~ 19时15分]"
+          "appearance_count": 3,
+          "time_info": "[17时11分 ~ 21时08分]"
+        },
+        {
+          "title": "因为切西瓜和打游戏的事，跟男友大吵一架，他说「我没有义务承接你的情绪」，是我小题大做了吗？",
+          "url": "https://www.zhihu.com/question/2042401732332934208",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时08分"
         }
       ]
     }
