@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-31T07:55:58.106699+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-05-31T10:43:15.532063+08:00",
+  "total_titles_processed": 679,
   "failed_sources": [],
   "trends": [
     {
@@ -18,19 +18,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 10时43分]"
         },
         {
           "title": "因为切西瓜和打游戏的事，跟男友大吵一架，他说「我没有义务承接你的情绪」，是我小题大做了吗？",
           "url": "https://www.zhihu.com/question/2042401732332934208",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时08分 ~ 07时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时08分 ~ 10时43分]"
         },
         {
           "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
