@@ -1,66 +1,7 @@
 {
-  "generated_at": "2026-05-31T23:14:48.800192+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-06-01T01:00:32.328054+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "当我用游戏的方式打开vlog",
-          "url": "https://www.douyin.com/hot/2517623",
-          "source": "抖音",
-          "ranks": [
-            11,
-            8,
-            9,
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时08分 ~ 14时53分]"
-        },
-        {
-          "title": "因为切西瓜和打游戏的事，跟男友大吵一架，他说「我没有义务承接你的情绪」，是我小题大做了吗？",
-          "url": "https://www.zhihu.com/question/2042401732332934208",
-          "source": "知乎",
-          "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时08分 ~ 10时43分]"
-        },
-        {
-          "title": "为什么无论是 chatgpt 还是 deepseek 都会在 24 点游戏上表现的这么差？",
-          "url": "https://www.zhihu.com/question/2040472846393161206",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18,
-            19,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时59分 ~ 07时55分]"
-        },
-        {
-          "title": "本周游戏圈大事件速览",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9C%AC%E5%91%A8%E6%B8%B8%E6%88%8F%E5%9C%88%E5%A4%A7%E4%BA%8B%E4%BB%B6%E9%80%9F%E8%A7%88",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时53分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
