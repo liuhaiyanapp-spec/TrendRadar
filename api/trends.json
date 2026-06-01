@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-01T08:01:55.813171+08:00",
-  "total_titles_processed": 530,
+  "generated_at": "2026-06-01T12:44:11.294044+08:00",
+  "total_titles_processed": 756,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "游戏 用户体验 交互设计",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "夏日游戏节官宣B站合作",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82%E5%AE%98%E5%AE%A3B%E7%AB%99%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时43分 ~ 12时44分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
