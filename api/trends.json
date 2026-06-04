@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-04T07:28:43.352297+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-06-04T10:54:28.643233+08:00",
+  "total_titles_processed": 681,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "《王者荣耀世界》制作人离职，将对游戏后续开发产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2045196713208570577",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
+        },
         {
           "title": "Valve 创始人纽厄尔驳斥 Steam 垄断指控，称「玩家有丰富的游戏购买渠道」，如何看待？",
           "url": "https://www.zhihu.com/question/2045091353588131084",
@@ -17,6 +28,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 05时44分]"
+        },
+        {
+          "title": "索尼游戏发布会有哪些亮点",
+          "url": "https://search.bilibili.com/all?keyword=%E7%B4%A2%E5%B0%BC%E6%B8%B8%E6%88%8F%E5%8F%91%E5%B8%83%E4%BC%9A%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BA%AE%E7%82%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时54分"
         }
       ]
     }
