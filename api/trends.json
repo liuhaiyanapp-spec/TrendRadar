@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-06T08:09:46.330041+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-06-06T12:49:14.826148+08:00",
+  "total_titles_processed": 796,
   "failed_sources": [],
   "trends": [
     {
@@ -23,11 +23,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E5%BD%92%E5%94%90%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82%E5%85%A8%E6%96%B0%E9%A2%84%E5%91%8A",
           "source": "bilibili 热搜",
           "ranks": [
-            6
+            6,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时00分 ~ 08时09分]"
+          "appearance_count": 5,
+          "time_info": "[07时00分 ~ 12时49分]"
         },
         {
           "title": "UP主接力开发游戏",
@@ -36,7 +37,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时09分"
         }
