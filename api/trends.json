@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-07T20:17:53.892218+08:00",
-  "total_titles_processed": 1083,
+  "generated_at": "2026-06-07T22:48:51.150268+08:00",
+  "total_titles_processed": 1236,
   "failed_sources": [],
   "trends": [
     {
@@ -21,6 +21,18 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[03时08分 ~ 15时02分]"
+        },
+        {
+          "title": "游戏圈遭毒手,女仆变丫头",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354946&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%9C%88%E9%81%AD%E6%AF%92%E6%89%8B%2C%E5%A5%B3%E4%BB%86%E5%8F%98%E4%B8%AB%E5%A4%B4",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时17分 ~ 22时48分]"
         },
         {
           "title": "黄仁勋会见韩国两大游戏商代表，共商游戏AI合作方案",
@@ -45,17 +57,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时03分 ~ 03时08分]"
-        },
-        {
-          "title": "游戏圈遭毒手,女仆变丫头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354946&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%9C%88%E9%81%AD%E6%AF%92%E6%89%8B%2C%E5%A5%B3%E4%BB%86%E5%8F%98%E4%B8%AB%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时17分"
         }
       ]
     }
