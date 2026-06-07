@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-08T00:09:04.976320+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-06-08T02:02:04.252068+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "游戏圈遭毒手,女仆变丫头",
@@ -15,8 +15,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时08分 ~ 02时02分]"
+        },
+        {
+          "title": "XBOX游戏展示会",
+          "url": "https://search.bilibili.com/all?keyword=XBOX%E6%B8%B8%E6%88%8F%E5%B1%95%E7%A4%BA%E4%BC%9A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时08分 ~ 00时09分]"
+          "time_info": "[02时01分 ~ 02时02分]"
         }
       ]
     }
