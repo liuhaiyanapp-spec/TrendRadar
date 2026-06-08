@@ -1,80 +1,33 @@
 {
-  "generated_at": "2026-06-08T22:44:06.076327+08:00",
-  "total_titles_processed": 1338,
+  "generated_at": "2026-06-09T01:46:37.455909+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "游戏圈遭毒手,女仆变丫头",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354946&amp;topic_name=%E6%B8%B8%E6%88%8F%E5%9C%88%E9%81%AD%E6%AF%92%E6%89%8B%2C%E5%A5%B3%E4%BB%86%E5%8F%98%E4%B8%AB%E5%A4%B4",
-          "source": "贴吧",
-          "ranks": [
-            8,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时08分 ~ 18时21分]"
-        },
         {
           "title": "这款足球游戏让我重回童年",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%AC%BE%E8%B6%B3%E7%90%83%E6%B8%B8%E6%88%8F%E8%AE%A9%E6%88%91%E9%87%8D%E5%9B%9E%E7%AB%A5%E5%B9%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时25分 ~ 22时44分]"
-        },
-        {
-          "title": "UP主把高考做成游戏",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%8A%8A%E9%AB%98%E8%80%83%E5%81%9A%E6%88%90%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 22时44分]"
-        },
-        {
-          "title": "XBOX游戏展示会",
-          "url": "https://search.bilibili.com/all?keyword=XBOX%E6%B8%B8%E6%88%8F%E5%B1%95%E7%A4%BA%E4%BC%9A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时01分 ~ 02时02分]"
+          "appearance_count": 1,
+          "time_info": "01时46分"
         },
         {
           "title": "大作太多!新游挤爆夏日游戏节",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354981&amp;topic_name=%E5%A4%A7%E4%BD%9C%E5%A4%AA%E5%A4%9A%21%E6%96%B0%E6%B8%B8%E6%8C%A4%E7%88%86%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82",
           "source": "贴吧",
           "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时43分 ~ 22时44分]"
-        },
-        {
-          "title": "黄仁勋访韩第三日：首尔网吧会晤游戏巨头负责人，聚焦实体AI合作",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329627",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时21分"
+          "time_info": "01时46分"
         }
       ]
     }
