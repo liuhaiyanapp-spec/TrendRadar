@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T01:46:37.455909+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-09T04:04:36.156310+08:00",
+  "total_titles_processed": 406,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%AC%BE%E8%B6%B3%E7%90%83%E6%B8%B8%E6%88%8F%E8%AE%A9%E6%88%91%E9%87%8D%E5%9B%9E%E7%AB%A5%E5%B9%B4",
           "source": "bilibili 热搜",
           "ranks": [
-            7
+            7,
+            13
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时04分]"
         },
         {
           "title": "大作太多!新游挤爆夏日游戏节",
@@ -26,8 +27,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时46分"
+          "appearance_count": 2,
+          "time_info": "[01时46分 ~ 04时04分]"
         }
       ]
     }
