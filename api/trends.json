@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-06-09T07:59:52.670869+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-06-09T11:36:24.214337+08:00",
+  "total_titles_processed": 805,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 2,
       "titles": [
+        {
+          "title": "大作太多!新游挤爆夏日游戏节",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354981&amp;topic_name=%E5%A4%A7%E4%BD%9C%E5%A4%AA%E5%A4%9A%21%E6%96%B0%E6%B8%B8%E6%8C%A4%E7%88%86%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82",
+          "source": "贴吧",
+          "ranks": [
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时46分 ~ 11时36分]"
+        },
         {
           "title": "这款足球游戏让我重回童年",
           "url": "https://search.bilibili.com/all?keyword=%E8%BF%99%E6%AC%BE%E8%B6%B3%E7%90%83%E6%B8%B8%E6%88%8F%E8%AE%A9%E6%88%91%E9%87%8D%E5%9B%9E%E7%AB%A5%E5%B9%B4",
@@ -15,17 +27,6 @@
             7,
             13,
             8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时46分 ~ 07时59分]"
-        },
-        {
-          "title": "大作太多!新游挤爆夏日游戏节",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354981&amp;topic_name=%E5%A4%A7%E4%BD%9C%E5%A4%AA%E5%A4%9A%21%E6%96%B0%E6%B8%B8%E6%8C%A4%E7%88%86%E5%A4%8F%E6%97%A5%E6%B8%B8%E6%88%8F%E8%8A%82",
-          "source": "贴吧",
-          "ranks": [
-            21
           ],
           "is_new": false,
           "appearance_count": 5,
