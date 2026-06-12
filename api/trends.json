@@ -1,48 +1,7 @@
 {
-  "generated_at": "2026-06-12T22:40:14.735138+08:00",
-  "total_titles_processed": 1334,
+  "generated_at": "2026-06-13T01:34:07.497270+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "SpaceX上市背后在玩什么资本游戏",
-          "url": "https://search.bilibili.com/all?keyword=SpaceX%E4%B8%8A%E5%B8%82%E8%83%8C%E5%90%8E%E5%9C%A8%E7%8E%A9%E4%BB%80%E4%B9%88%E8%B5%84%E6%9C%AC%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时39分 ~ 22时40分]"
-        },
-        {
-          "title": "电子游戏史上有哪些全世界玩家一起共创的传奇事件？",
-          "url": "https://www.zhihu.com/question/2043732532701681460",
-          "source": "知乎",
-          "ranks": [
-            11,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时08分 ~ 05时15分]"
-        },
-        {
-          "title": "如果让你选三个最能代表中国游戏行业精神的人（不一定是最成功的），你会选谁？他们身上体现了什么特质？",
-          "url": "https://www.zhihu.com/question/2043732532865265937",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时38分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
