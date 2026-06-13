@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-13T10:39:44.503897+08:00",
-  "total_titles_processed": 698,
+  "generated_at": "2026-06-13T14:53:32.936523+08:00",
+  "total_titles_processed": 875,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "假如凡人是款开放世界游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E5%81%87%E5%A6%82%E5%87%A1%E4%BA%BA%E6%98%AF%E6%AC%BE%E5%BC%80%E6%94%BE%E4%B8%96%E7%95%8C%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时53分"
+        },
         {
           "title": "当年游戏主机大战最激烈的时候，玩家阵营之间真的会「互相看不起」吗？",
           "url": "https://www.zhihu.com/question/2043732533523763669",
@@ -14,7 +25,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         },
@@ -25,7 +36,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时39分"
         }
