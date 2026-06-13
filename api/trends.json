@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-13T19:50:03.120690+08:00",
-  "total_titles_processed": 1147,
+  "generated_at": "2026-06-13T21:31:57.687787+08:00",
+  "total_titles_processed": 1266,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             21,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时53分 ~ 19时50分]"
+          "appearance_count": 5,
+          "time_info": "[14时53分 ~ 21时31分]"
         },
         {
           "title": "当年游戏主机大战最激烈的时候，玩家阵营之间真的会「互相看不起」吗？",
