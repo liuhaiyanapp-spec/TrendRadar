@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-15T22:59:26.207154+08:00",
-  "total_titles_processed": 1196,
+  "generated_at": "2026-06-16T03:03:57.074862+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "土耳其一户外大屏误播足球游戏",
-          "url": "https://www.toutiao.com/trending/7650331297286012947/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时12分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
