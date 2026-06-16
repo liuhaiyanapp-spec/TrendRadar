@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T04:45:56.591756+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-06-17T06:50:25.781490+08:00",
+  "total_titles_processed": 509,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 04时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 06时50分]"
         },
         {
           "title": "26岁游戏代练被母亲骗进戒网瘾机构",
@@ -27,19 +28,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 04时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 06时50分]"
         },
         {
           "title": "炽夏全员玩游戏童心未泯",
           "url": "https://www.douyin.com/hot/2537067",
           "source": "抖音",
           "ranks": [
-            21
+            21,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时57分 ~ 04时45分]"
+          "appearance_count": 3,
+          "time_info": "[01时57分 ~ 06时50分]"
         },
         {
           "title": "SpaceX初步收涨4.9%。 标普500指数初步收跌0.5%，科技板块跌2.1%，能源板块跌0.4%，金融板块涨1.4%。 纳斯达克100指数初步收跌1.8%，成分股中，Lumentum初步收跌8.4%，MPWR跌8.2%，迈威尔科技跌8.1%，英特尔跌7.8%，科磊跌超7%，Strategy跌6.1%，闪迪跌5.8%，美光科技跌5.4%，核电股CEG涨2.1%，西部数据涨5.2%，游戏公司Take-Two Interactive Software Inc.涨6%。 道指初步收涨大约380点，成分股摩根大通涨3.6%，Visa、3MN、家得宝、美国运通、卡特彼勒、高盛至少涨1.4%，微软、Salesforce、英伟达则至多跌1.9%表现最差。 半导体指数跌5.3%。",
@@ -48,7 +50,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时45分"
         },
