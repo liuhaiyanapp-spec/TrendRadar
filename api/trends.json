@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-18T04:03:47.001998+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-06-18T06:41:53.749873+08:00",
+  "total_titles_processed": 524,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "26 岁成年人在家做游戏代练被送入戒网瘾机构遭非法拘禁，背后体现何问题？父母有权限制成年子女人身自由吗？",
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 04时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 06时41分]"
         },
         {
           "title": "老哥与游戏NPC同居被分手",
@@ -27,19 +27,31 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时47分 ~ 04时03分]"
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 06时41分]"
         },
         {
           "title": "电子游戏史上有哪些堪称「神迹」的故事？",
           "url": "https://www.zhihu.com/question/2043732533108528830",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            20
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时47分 ~ 06时41分]"
+        },
+        {
+          "title": "存储涨价的荒诞现实：一块游戏机硬盘已能抵三台完整主机",
+          "url": "https://www.cls.cn/detail/2402925",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时47分"
+          "time_info": "06时41分"
         }
       ]
     }
