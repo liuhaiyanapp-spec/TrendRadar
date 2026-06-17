@@ -1,12 +1,37 @@
 {
-  "generated_at": "2026-06-17T08:12:10.086148+08:00",
-  "total_titles_processed": 624,
+  "generated_at": "2026-06-17T14:04:04.766101+08:00",
+  "total_titles_processed": 871,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "炽夏全员玩游戏童心未泯",
+          "url": "https://www.douyin.com/hot/2537067",
+          "source": "抖音",
+          "ranks": [
+            21,
+            17,
+            24,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时57分 ~ 14时04分]"
+        },
+        {
+          "title": "白宫再次未经允许使用日本游戏素材",
+          "url": "https://www.toutiao.com/trending/7651498015303401518/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
+        },
         {
           "title": "消息称蚂蚁集团正秘密测试 AI 版支付宝，新版本颠覆原有用户交互，会给用户体验和金融行业带来哪些改变？",
           "url": "https://www.zhihu.com/question/2049548864626202351",
@@ -22,17 +47,15 @@
           "time_info": "[01时57分 ~ 08时12分]"
         },
         {
-          "title": "炽夏全员玩游戏童心未泯",
-          "url": "https://www.douyin.com/hot/2537067",
-          "source": "抖音",
+          "title": "老哥与游戏NPC同居被分手",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
+          "source": "贴吧",
           "ranks": [
-            21,
-            17,
-            24
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时57分 ~ 08时12分]"
+          "appearance_count": 2,
+          "time_info": "[14时03分 ~ 14时04分]"
         },
         {
           "title": "26岁游戏代练被母亲骗进戒网瘾机构",
