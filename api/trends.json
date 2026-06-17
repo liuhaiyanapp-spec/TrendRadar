@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-17T14:04:04.766101+08:00",
-  "total_titles_processed": 871,
+  "generated_at": "2026-06-17T19:31:47.071564+08:00",
+  "total_titles_processed": 1104,
   "failed_sources": [],
   "trends": [
     {
@@ -51,11 +51,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355219&amp;topic_name=%E8%80%81%E5%93%A5%E4%B8%8E%E6%B8%B8%E6%88%8FNPC%E5%90%8C%E5%B1%85%E8%A2%AB%E5%88%86%E6%89%8B",
           "source": "贴吧",
           "ranks": [
-            5
+            5,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时03分 ~ 14时04分]"
+          "appearance_count": 4,
+          "time_info": "[14时03分 ~ 19时31分]"
         },
         {
           "title": "26岁游戏代练被母亲骗进戒网瘾机构",
