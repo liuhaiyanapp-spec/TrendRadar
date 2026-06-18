@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T13:32:02.171704+08:00",
-  "total_titles_processed": 862,
+  "generated_at": "2026-06-18T18:09:11.080382+08:00",
+  "total_titles_processed": 1070,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,24 @@
             17,
             18,
             19,
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 13时32分]"
+          "appearance_count": 8,
+          "time_info": "[01时47分 ~ 18时09分]"
+        },
+        {
+          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
+          "url": "https://www.zhihu.com/question/2050522294171039185",
+          "source": "知乎",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 18时09分]"
         },
         {
           "title": "存储涨价的荒诞现实：一块游戏机硬盘已能抵三台完整主机",
@@ -46,15 +59,16 @@
           "time_info": "[01时47分 ~ 08时10分]"
         },
         {
-          "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
-          "url": "https://www.zhihu.com/question/2050522294171039185",
+          "title": "八年开发终于修成正果，如何评价游戏《太吾绘卷》1.0 完全版？",
+          "url": "https://www.zhihu.com/question/2050628077214852981",
           "source": "知乎",
           "ranks": [
-            7
+            16,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
+          "appearance_count": 4,
+          "time_info": "[13时31分 ~ 18时09分]"
         },
         {
           "title": "电子游戏史上有哪些堪称「神迹」的故事？",
@@ -67,17 +81,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时47分 ~ 06时41分]"
-        },
-        {
-          "title": "八年开发终于修成正果，如何评价游戏《太吾绘卷》1.0 完全版？",
-          "url": "https://www.zhihu.com/question/2050628077214852981",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 13时32分]"
         }
       ]
     }
