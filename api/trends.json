@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T06:41:53.749873+08:00",
-  "total_titles_processed": 524,
+  "generated_at": "2026-06-18T08:10:36.795662+08:00",
+  "total_titles_processed": 641,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 08时10分]"
         },
         {
           "title": "老哥与游戏NPC同居被分手",
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             17,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 06时41分]"
+          "appearance_count": 4,
+          "time_info": "[01时47分 ~ 08时10分]"
         },
         {
           "title": "电子游戏史上有哪些堪称「神迹」的故事？",
@@ -47,11 +48,12 @@
           "url": "https://www.cls.cn/detail/2402925",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时41分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时41分 ~ 08时10分]"
         }
       ]
     }
