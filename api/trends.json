@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-19T20:51:25.906707+08:00",
-  "total_titles_processed": 1190,
+  "generated_at": "2026-06-19T23:57:53.745935+08:00",
+  "total_titles_processed": 1366,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "整活?小钰把Bin塞进游戏界面",
@@ -14,9 +14,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时51分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时51分 ~ 23时57分]"
         },
         {
           "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
@@ -58,13 +58,24 @@
           "time_info": "[01时05分 ~ 07时48分]"
         },
         {
+          "title": "丁彦雨航玩CBA选球员游戏",
+          "url": "https://www.douyin.com/hot/2540492",
+          "source": "抖音",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "如何看待南方都市报报道 26 岁男子因在家做游戏代练被母亲送进网瘾特训基地？",
           "url": "https://www.zhihu.com/question/2050949678271656137",
           "source": "知乎",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时51分"
         }
