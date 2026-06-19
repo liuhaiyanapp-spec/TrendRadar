@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-06-19T17:02:24.465532+08:00",
-  "total_titles_processed": 1006,
+  "generated_at": "2026-06-19T20:51:25.906707+08:00",
+  "total_titles_processed": 1190,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "整活?小钰把Bin塞进游戏界面",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
+          "source": "贴吧",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
+        },
         {
           "title": "母亲欲继承离世儿子 87 个游戏账号遭平台拒绝，法院以格式条款无效为由支持母亲诉讼，如何看待这一判决？",
           "url": "https://www.zhihu.com/question/2050522294171039185",
@@ -45,6 +56,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时05分 ~ 07时48分]"
+        },
+        {
+          "title": "如何看待南方都市报报道 26 岁男子因在家做游戏代练被母亲送进网瘾特训基地？",
+          "url": "https://www.zhihu.com/question/2050949678271656137",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时51分"
         }
       ]
     }
