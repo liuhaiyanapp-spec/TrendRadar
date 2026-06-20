@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-20T16:44:07.774007+08:00",
-  "total_titles_processed": 891,
+  "generated_at": "2026-06-20T19:10:47.588256+08:00",
+  "total_titles_processed": 1000,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             4,
             10,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时52分 ~ 16时44分]"
+          "appearance_count": 13,
+          "time_info": "[01时52分 ~ 19时10分]"
         },
         {
           "title": "丁彦雨航玩CBA选球员游戏",
@@ -34,6 +35,19 @@
           "time_info": "[01时52分 ~ 06时46分]"
         },
         {
+          "title": "G7峰会背后的权力游戏",
+          "url": "https://search.bilibili.com/all?keyword=G7%E5%B3%B0%E4%BC%9A%E8%83%8C%E5%90%8E%E7%9A%84%E6%9D%83%E5%8A%9B%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            19,
+            24,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时06分 ~ 19时10分]"
+        },
+        {
           "title": "为什么早期 2D 游戏的像素风格至今看来仍不过时，但早期 3D 游戏画质却难以接受?",
           "url": "https://www.zhihu.com/question/390563281",
           "source": "知乎",
@@ -45,18 +59,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时46分 ~ 13时07分]"
-        },
-        {
-          "title": "G7峰会背后的权力游戏",
-          "url": "https://search.bilibili.com/all?keyword=G7%E5%B3%B0%E4%BC%9A%E8%83%8C%E5%90%8E%E7%9A%84%E6%9D%83%E5%8A%9B%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            19,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时06分 ~ 16时44分]"
         },
         {
           "title": "如何看待南方都市报报道 26 岁男子因在家做游戏代练被母亲送进网瘾特训基地？",
