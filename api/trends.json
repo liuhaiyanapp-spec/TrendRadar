@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-06-24T00:23:52.040166+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-24T03:06:05.192256+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "有没有哪家游戏公司，当年你觉得它迟早能统治游戏世界，结果作大死把自己作没了？",
-          "url": "https://www.zhihu.com/question/2050625433683620276",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
         {
           "title": "整活?小钰把Bin塞进游戏界面",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
@@ -26,8 +15,31 @@
             25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 03时06分]"
+        },
+        {
+          "title": "有没有哪家游戏公司，当年你觉得它迟早能统治游戏世界，结果作大死把自己作没了？",
+          "url": "https://www.zhihu.com/question/2050625433683620276",
+          "source": "知乎",
+          "ranks": [
+            20,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时23分 ~ 03时06分]"
+        },
+        {
+          "title": "印度摸头闪避游戏新预告",
+          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E6%91%B8%E5%A4%B4%E9%97%AA%E9%81%BF%E6%B8%B8%E6%88%8F%E6%96%B0%E9%A2%84%E5%91%8A",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 03时06分]"
         }
       ]
     }
