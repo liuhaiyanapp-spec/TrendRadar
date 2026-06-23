@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-23T18:31:59.461306+08:00",
-  "total_titles_processed": 1135,
+  "generated_at": "2026-06-23T21:39:12.496391+08:00",
+  "total_titles_processed": 1298,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "贴吧",
           "ranks": [
             18,
-            22
+            22,
+            21
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时14分 ~ 10时33分]"
+          "appearance_count": 5,
+          "time_info": "[07时14分 ~ 21时39分]"
         },
         {
           "title": "万代防BOT,猫鼠游戏玩麻了",
