@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T00:17:55.188232+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-25T02:29:33.455434+08:00",
+  "total_titles_processed": 416,
   "failed_sources": [],
   "trends": [
     {
@@ -12,11 +12,12 @@
           "url": "https://www.zhihu.com/question/2050162370757055174",
           "source": "知乎",
           "ranks": [
-            10
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时17分"
+          "appearance_count": 2,
+          "time_info": "[00时17分 ~ 02时29分]"
         },
         {
           "title": "如果把「中国玩家共同经历过的游戏时代」做成一条时间轴，你觉得哪些瞬间最值得被永久保存？",
