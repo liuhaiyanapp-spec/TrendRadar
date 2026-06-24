@@ -1,105 +1,33 @@
 {
-  "generated_at": "2026-06-24T21:14:11.413493+08:00",
-  "total_titles_processed": 1360,
+  "generated_at": "2026-06-25T00:17:55.188232+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
-        {
-          "title": "整活?小钰把Bin塞进游戏界面",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28355287&amp;topic_name=%E6%95%B4%E6%B4%BB%3F%E5%B0%8F%E9%92%B0%E6%8A%8ABin%E5%A1%9E%E8%BF%9B%E6%B8%B8%E6%88%8F%E7%95%8C%E9%9D%A2",
-          "source": "贴吧",
-          "ranks": [
-            25,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时23分 ~ 07时02分]"
-        },
-        {
-          "title": "有没有哪家游戏公司，当年你觉得它迟早能统治游戏世界，结果作大死把自己作没了？",
-          "url": "https://www.zhihu.com/question/2050625433683620276",
-          "source": "知乎",
-          "ranks": [
-            20,
-            17,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 07时02分]"
-        },
         {
           "title": "游戏里的「暴击率 +5%」和「暴击伤害 +10%」，哪个更好？",
           "url": "https://www.zhihu.com/question/2050162370757055174",
           "source": "知乎",
           "ranks": [
-            11,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时15分 ~ 21时14分]"
-        },
-        {
-          "title": "为什么很多盗版游戏的民间翻译，反而比官方译名更深入人心？你还记得哪些深入人心的民间翻译？",
-          "url": "https://www.zhihu.com/question/2043732532957557193",
-          "source": "知乎",
-          "ranks": [
-            15,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时02分 ~ 10时34分]"
-        },
-        {
-          "title": "“存储浩劫”最新案例：游戏主机厂商直言“能上市已是奇迹”",
-          "url": "https://www.cls.cn/detail/2407327",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时33分 ~ 10时34分]"
-        },
-        {
-          "title": "印度摸头闪避游戏新预告",
-          "url": "https://search.bilibili.com/all?keyword=%E5%8D%B0%E5%BA%A6%E6%91%B8%E5%A4%B4%E9%97%AA%E9%81%BF%E6%B8%B8%E6%88%8F%E6%96%B0%E9%A2%84%E5%91%8A",
-          "source": "bilibili 热搜",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时05分 ~ 03时06分]"
-        },
-        {
-          "title": "国产狩猎游戏预告片",
-          "url": "https://search.bilibili.com/all?keyword=%E5%9B%BD%E4%BA%A7%E7%8B%A9%E7%8C%8E%E6%B8%B8%E6%88%8F%E9%A2%84%E5%91%8A%E7%89%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时13分 ~ 21时14分]"
-        },
-        {
-          "title": "你有没有因为一个游戏，去学一项现在基本没用的技能或者知识点？",
-          "url": "https://www.zhihu.com/question/2050514484591063625",
-          "source": "知乎",
-          "ranks": [
-            19
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "00时17分"
+        },
+        {
+          "title": "如果把「中国玩家共同经历过的游戏时代」做成一条时间轴，你觉得哪些瞬间最值得被永久保存？",
+          "url": "https://www.zhihu.com/question/2043732533016253106",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时17分"
         }
       ]
     }
