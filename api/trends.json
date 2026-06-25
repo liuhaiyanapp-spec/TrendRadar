@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T12:59:00.244648+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-06-25T16:22:19.253972+08:00",
+  "total_titles_processed": 1126,
   "failed_sources": [],
   "trends": [
     {
@@ -28,19 +28,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 16时22分]"
         },
         {
           "title": "曝阿里巴巴 70~90 亿出售游戏业务灵犀互娱，阿里出售游戏业务有哪些考量？可能影响旗下游戏运行吗？",
           "url": "https://www.zhihu.com/question/2052816972077692028",
           "source": "知乎",
           "ranks": [
-            16
+            16,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时58分 ~ 12时59分]"
+          "appearance_count": 3,
+          "time_info": "[12时58分 ~ 16时22分]"
         },
         {
           "title": "如果把「中国玩家共同经历过的游戏时代」做成一条时间轴，你觉得哪些瞬间最值得被永久保存？",
