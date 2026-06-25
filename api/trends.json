@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-26T03:48:46.356568+08:00",
-  "total_titles_processed": 412,
+  "generated_at": "2026-06-26T05:25:07.758419+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "Steam夏促史低游戏盘点",
@@ -13,11 +13,23 @@
           "source": "bilibili 热搜",
           "ranks": [
             26,
-            4
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 05时25分]"
+        },
+        {
+          "title": "UP主手搓AI实时生成游戏",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时06分 ~ 03时48分]"
+          "time_info": "[05时24分 ~ 05时25分]"
         },
         {
           "title": "诡秘之主游戏实机PV",
