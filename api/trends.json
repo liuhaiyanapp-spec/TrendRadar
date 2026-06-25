@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-26T05:25:07.758419+08:00",
-  "total_titles_processed": 482,
+  "generated_at": "2026-06-26T07:10:49.675650+08:00",
+  "total_titles_processed": 547,
   "failed_sources": [],
   "trends": [
     {
@@ -17,30 +17,32 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时06分 ~ 05时25分]"
+          "appearance_count": 5,
+          "time_info": "[01时06分 ~ 07时10分]"
         },
         {
           "title": "UP主手搓AI实时生成游戏",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93AI%E5%AE%9E%E6%97%B6%E7%94%9F%E6%88%90%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            30
+            30,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时24分 ~ 05时25分]"
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时10分]"
         },
         {
           "title": "诡秘之主游戏实机PV",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB%E6%B8%B8%E6%88%8F%E5%AE%9E%E6%9C%BAPV",
           "source": "bilibili 热搜",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
+          "appearance_count": 2,
+          "time_info": "[01时06分 ~ 07时10分]"
         }
       ]
     }
