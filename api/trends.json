@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-25T19:34:27.161533+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-06-25T22:08:35.966897+08:00",
+  "total_titles_processed": 1479,
   "failed_sources": [],
   "trends": [
     {
@@ -16,8 +16,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 19时34分]"
+          "appearance_count": 5,
+          "time_info": "[12时58分 ~ 22时08分]"
         },
         {
           "title": "游戏里的「暴击率 +5%」和「暴击伤害 +10%」，哪个更好？",
@@ -62,7 +62,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时34分"
         }
