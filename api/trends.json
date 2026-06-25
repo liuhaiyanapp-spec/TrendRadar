@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T08:02:19.282699+08:00",
-  "total_titles_processed": 706,
+  "generated_at": "2026-06-25T12:59:00.244648+08:00",
+  "total_titles_processed": 947,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "游戏里的「暴击率 +5%」和「暴击伤害 +10%」，哪个更好？",
@@ -19,6 +19,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时17分 ~ 08时02分]"
+        },
+        {
+          "title": "诡秘之主游戏实机PV",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%A1%E7%A7%98%E4%B9%8B%E4%B8%BB%E6%B8%B8%E6%88%8F%E5%AE%9E%E6%9C%BAPV",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
+        },
+        {
+          "title": "曝阿里巴巴 70~90 亿出售游戏业务灵犀互娱，阿里出售游戏业务有哪些考量？可能影响旗下游戏运行吗？",
+          "url": "https://www.zhihu.com/question/2052816972077692028",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时58分 ~ 12时59分]"
         },
         {
           "title": "如果把「中国玩家共同经历过的游戏时代」做成一条时间轴，你觉得哪些瞬间最值得被永久保存？",
