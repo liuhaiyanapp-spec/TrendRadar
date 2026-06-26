@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T06:06:08.102288+08:00",
-  "total_titles_processed": 577,
+  "generated_at": "2026-06-27T07:58:20.299950+08:00",
+  "total_titles_processed": 654,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             4,
             25,
-            23
+            23,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时09分 ~ 06时06分]"
+          "appearance_count": 7,
+          "time_info": "[00时09分 ~ 07时58分]"
         },
         {
           "title": "男生高考662分 爸爸从小陪着打游戏",
