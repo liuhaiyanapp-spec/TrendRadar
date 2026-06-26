@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T00:10:03.314669+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-06-27T02:25:24.166436+08:00",
+  "total_titles_processed": 427,
   "failed_sources": [],
   "trends": [
     {
@@ -8,22 +8,23 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "steam夏促史低游戏推荐",
+          "url": "https://search.bilibili.com/all?keyword=steam%E5%A4%8F%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时09分 ~ 02时25分]"
+        },
+        {
           "title": "男生高考662分 爸爸从小陪着打游戏",
           "url": "https://www.toutiao.com/trending/7655533127741538310/",
           "source": "今日头条",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
-        },
-        {
-          "title": "steam夏促史低游戏推荐",
-          "url": "https://search.bilibili.com/all?keyword=steam%E5%A4%8F%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
