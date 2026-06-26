@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-27T02:25:24.166436+08:00",
-  "total_titles_processed": 427,
+  "generated_at": "2026-06-27T04:29:29.819312+08:00",
+  "total_titles_processed": 514,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             10,
-            4
+            4,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时09分 ~ 02时25分]"
+          "appearance_count": 4,
+          "time_info": "[00时09分 ~ 04时29分]"
         },
         {
           "title": "男生高考662分 爸爸从小陪着打游戏",
