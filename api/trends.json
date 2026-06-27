@@ -1,74 +1,7 @@
 {
-  "generated_at": "2026-06-27T23:10:34.618501+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-06-28T01:02:37.200634+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "steam夏促史低游戏推荐",
-          "url": "https://search.bilibili.com/all?keyword=steam%E5%A4%8F%E4%BF%83%E5%8F%B2%E4%BD%8E%E6%B8%B8%E6%88%8F%E6%8E%A8%E8%8D%90",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            4,
-            25,
-            23,
-            12,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时09分 ~ 10时50分]"
-        },
-        {
-          "title": "男生高考662分 爸爸从小陪着打游戏",
-          "url": "https://www.toutiao.com/trending/7655533127741538310/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时09分 ~ 00时10分]"
-        },
-        {
-          "title": "传腾讯拟退出对多家日本游戏工作室投资，腾讯：保持对日本游戏市场的长期关注",
-          "url": "https://wallstreetcn.com/livenews/3125542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时25分"
-        },
-        {
-          "title": "GTA6 的一些地点和功能仅对终极版开放，在国外游戏社区引发激烈争议，你怎么看？",
-          "url": "https://www.zhihu.com/question/2053490399906379056",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        },
-        {
-          "title": "你如何评价二次元游戏《雪松》的公测表现？",
-          "url": "https://www.zhihu.com/question/2053073205112452878",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时16分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
