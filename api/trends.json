@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-27T19:23:04.342914+08:00",
-  "total_titles_processed": 1246,
+  "generated_at": "2026-06-27T21:16:45.944546+08:00",
+  "total_titles_processed": 1341,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "steam夏促史低游戏推荐",
@@ -44,6 +44,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时25分"
+        },
+        {
+          "title": "GTA6 的一些地点和功能仅对终极版开放，在国外游戏社区引发激烈争议，你怎么看？",
+          "url": "https://www.zhihu.com/question/2053490399906379056",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "你如何评价二次元游戏《雪松》的公测表现？",
+          "url": "https://www.zhihu.com/question/2053073205112452878",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     }
