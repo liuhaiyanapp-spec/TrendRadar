@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-29T22:43:51.746686+08:00",
-  "total_titles_processed": 1281,
+  "generated_at": "2026-06-30T01:32:30.218903+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "六年级的「小孩姐」能用 codex 做出一款游戏吗？我的娃仅用几小时就给出答案",
-          "url": "https://www.zhihu.com/pin/2054709585479460092",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时27分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
