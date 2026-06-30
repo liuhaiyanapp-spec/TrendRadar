@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-06-30T21:06:21.153676+08:00",
-  "total_titles_processed": 1370,
+  "generated_at": "2026-07-01T00:18:37.491817+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "消息人士：NBC环球可能会在康卡斯特分拆后进军电子游戏行业。",
-          "url": "https://flash.jin10.com/detail/20260630042522233800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时19分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
