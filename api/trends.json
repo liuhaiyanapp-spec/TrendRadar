@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T03:13:11.223677+08:00",
-  "total_titles_processed": 375,
+  "generated_at": "2026-07-03T04:57:39.211476+08:00",
+  "total_titles_processed": 452,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%97%E6%97%B6%E4%BB%A3%E8%BF%98%E8%83%BD%E7%9C%9F%E6%AD%A3%E6%8B%A5%E6%9C%89%E6%B8%B8%E6%88%8F%E5%90%97",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时12分 ~ 03时13分]"
+          "appearance_count": 3,
+          "time_info": "[03时12分 ~ 04时57分]"
         },
         {
           "title": "据Business Insider：Meta Platforms(META.O)推出了带有氛围编码游戏信息流的Pocket应用程序。",
