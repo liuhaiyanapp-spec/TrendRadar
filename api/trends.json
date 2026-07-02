@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-03T06:04:30.716579+08:00",
-  "total_titles_processed": 527,
+  "generated_at": "2026-07-03T07:58:27.651253+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             13,
-            30
+            30,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时32分 ~ 03时13分]"
+          "appearance_count": 5,
+          "time_info": "[01时32分 ~ 07时58分]"
         },
         {
           "title": "数字时代还能真正拥有游戏吗",
