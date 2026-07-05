@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T21:14:34.289622+08:00",
-  "total_titles_processed": 1182,
+  "generated_at": "2026-07-05T23:07:52.754883+08:00",
+  "total_titles_processed": 1277,
   "failed_sources": [],
   "trends": [
     {
@@ -14,9 +14,23 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时14分"
+        },
+        {
+          "title": "Tim 称有时会送面试者 Switch，用《星露谷物语》筛选人才，如何评价他的方式？这个游戏能看出什么？",
+          "url": "https://www.zhihu.com/question/2056022201455697979",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20,
+            19,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时36分 ~ 23时07分]"
         },
         {
           "title": "罗永浩称「没必要对电影人阴阳怪气，市场不行是因为流媒体长短视频、游戏等分流 」，如何看待这一说法？",
@@ -28,19 +42,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[14时33分 ~ 19时25分]"
-        },
-        {
-          "title": "Tim 称有时会送面试者 Switch，用《星露谷物语》筛选人才，如何评价他的方式？这个游戏能看出什么？",
-          "url": "https://www.zhihu.com/question/2056022201455697979",
-          "source": "知乎",
-          "ranks": [
-            17,
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时36分 ~ 21时14分]"
         }
       ]
     }
