@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T17:37:04.068371+08:00",
-  "total_titles_processed": 1004,
+  "generated_at": "2026-07-05T19:25:55.728342+08:00",
+  "total_titles_processed": 1099,
   "failed_sources": [],
   "trends": [
     {
@@ -15,19 +15,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 17时37分]"
+          "appearance_count": 4,
+          "time_info": "[14时33分 ~ 19时25分]"
         },
         {
           "title": "Tim 称有时会送面试者 Switch，用《星露谷物语》筛选人才，如何评价他的方式？这个游戏能看出什么？",
           "url": "https://www.zhihu.com/question/2056022201455697979",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时36分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[17时36分 ~ 19时25分]"
         }
       ]
     }
