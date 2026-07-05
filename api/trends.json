@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T05:55:05.183758+08:00",
-  "total_titles_processed": 435,
+  "generated_at": "2026-07-06T06:56:09.176689+08:00",
+  "total_titles_processed": 489,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "知乎",
           "ranks": [
             16,
-            19
+            19,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时59分 ~ 05时55分]"
+          "appearance_count": 7,
+          "time_info": "[00时59分 ~ 06时56分]"
         }
       ]
     }
