@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-06T11:47:21.362574+08:00",
-  "total_titles_processed": 791,
+  "generated_at": "2026-07-06T16:13:14.363908+08:00",
+  "total_titles_processed": 991,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Tim 称有时会送面试者 Switch，用《星露谷物语》筛选人才，如何评价他的方式？这个游戏能看出什么？",
@@ -19,6 +19,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时59分 ~ 08时01分]"
+        },
+        {
+          "title": "为什么直到现在，游戏里的角色建模依然以裤子和短裙为主，却很少做得出现实中长裙那种飘逸的效果呢？",
+          "url": "https://www.zhihu.com/question/2036416062737101529",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时12分 ~ 16时13分]"
         }
       ]
     }
