@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-07T04:49:14.708551+08:00",
-  "total_titles_processed": 509,
+  "generated_at": "2026-07-07T06:09:27.298425+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             16,
             15,
-            14
+            14,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时13分 ~ 04时49分]"
+          "appearance_count": 6,
+          "time_info": "[00时13分 ~ 06时09分]"
         },
         {
           "title": "为什么 PC 取消光驱转向数字化很自然，游戏机取消光驱却被玩家强烈抵触？",
