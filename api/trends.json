@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T20:40:17.374215+08:00",
-  "total_titles_processed": 1194,
+  "generated_at": "2026-07-07T00:14:15.501196+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
@@ -8,29 +8,26 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "Tim 称有时会送面试者 Switch，用《星露谷物语》筛选人才，如何评价他的方式？这个游戏能看出什么？",
-          "url": "https://www.zhihu.com/question/2056022201455697979",
+          "title": "为什么 PC 取消光驱转向数字化很自然，游戏机取消光驱却被玩家强烈抵触？",
+          "url": "https://www.zhihu.com/question/2056063684812846834",
           "source": "知乎",
           "ranks": [
-            16,
-            19,
-            18
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时59分 ~ 08时01分]"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         },
         {
-          "title": "为什么直到现在，游戏里的角色建模依然以裤子和短裙为主，却很少做得出现实中长裙那种飘逸的效果呢？",
-          "url": "https://www.zhihu.com/question/2036416062737101529",
+          "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
+          "url": "https://www.zhihu.com/question/2057405995244938393",
           "source": "知乎",
           "ranks": [
-            14,
-            20
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时12分 ~ 20时40分]"
+          "appearance_count": 2,
+          "time_info": "[00时13分 ~ 00时14分]"
         }
       ]
     }
