@@ -1,49 +1,22 @@
 {
-  "generated_at": "2026-07-07T21:14:07.222676+08:00",
-  "total_titles_processed": 1422,
+  "generated_at": "2026-07-08T00:22:29.616258+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "99 万机器人伴侣续航仅 2-4 小时，为啥续航这么差​？技术核心卡点在哪？可能对用户体验有哪些影响？",
-          "url": "https://www.zhihu.com/question/2057405995244938393",
-          "source": "知乎",
+          "title": "“印太司令部”改名，并非一个无关紧要的文字游戏",
+          "url": "https://news.ifeng.com/c/8uZX9OuWr3C",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            15,
-            14,
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时13分 ~ 08时02分]"
-        },
-        {
-          "title": "为什么 PC 取消光驱转向数字化很自然，游戏机取消光驱却被玩家强烈抵触？",
-          "url": "https://www.zhihu.com/question/2056063684812846834",
-          "source": "知乎",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 02时52分]"
-        },
-        {
-          "title": "有没有什么游戏在死亡机制上别出心裁？让你觉得在游戏里死亡也是这部作品的魅力点？",
-          "url": "https://www.zhihu.com/question/2010847275946091590",
-          "source": "知乎",
-          "ranks": [
-            20
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "00时22分"
         }
       ]
     }
