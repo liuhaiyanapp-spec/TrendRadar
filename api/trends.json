@@ -1,59 +1,7 @@
 {
-  "generated_at": "2026-07-08T23:13:36.767006+08:00",
-  "total_titles_processed": 1639,
+  "generated_at": "2026-07-09T01:22:35.585416+08:00",
+  "total_titles_processed": 306,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "“印太司令部”改名，并非一个无关紧要的文字游戏",
-          "url": "https://news.ifeng.com/c/8uZX9OuWr3C",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 07时52分]"
-        },
-        {
-          "title": "为什么在日本游戏里「忍者」多半都是正义一方，而国产武侠游戏里「杀手」都是邪恶一方呢？",
-          "url": "https://www.zhihu.com/question/1999603273607451591",
-          "source": "知乎",
-          "ranks": [
-            14,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时15分 ~ 16时13分]"
-        },
-        {
-          "title": "伊总统：伊朗拒绝美方“游戏” 坚定维护自身权利",
-          "url": "https://wallstreetcn.com/livenews/3130577",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时56分"
-        },
-        {
-          "title": "微软 Xbox 部门拟裁员 3200 人并剥离多家游戏工作室，背后的原因是什么？",
-          "url": "https://www.zhihu.com/question/2057593373293294189",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
