@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-08T09:56:26.726194+08:00",
-  "total_titles_processed": 836,
+  "generated_at": "2026-07-08T13:15:56.912906+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "“印太司令部”改名，并非一个无关紧要的文字游戏",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时22分 ~ 07时52分]"
+        },
+        {
+          "title": "为什么在日本游戏里「忍者」多半都是正义一方，而国产武侠游戏里「杀手」都是邪恶一方呢？",
+          "url": "https://www.zhihu.com/question/1999603273607451591",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时15分"
         },
         {
           "title": "微软 Xbox 部门拟裁员 3200 人并剥离多家游戏工作室，背后的原因是什么？",
