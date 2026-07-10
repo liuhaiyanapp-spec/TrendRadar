@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-10T21:06:37.420162+08:00",
-  "total_titles_processed": 1333,
+  "generated_at": "2026-07-11T00:18:34.338920+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "绝区零相比其他游戏的核心优势是什么？",
-          "url": "https://www.zhihu.com/question/2058098027085181756",
-          "source": "知乎",
+          "title": "BW游戏展台抢先看",
+          "url": "https://search.bilibili.com/all?keyword=BW%E6%B8%B8%E6%88%8F%E5%B1%95%E5%8F%B0%E6%8A%A2%E5%85%88%E7%9C%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            13
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时36分"
+          "time_info": "00时18分"
         }
       ]
     }
