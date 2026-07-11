@@ -1,63 +1,7 @@
 {
-  "generated_at": "2026-07-11T23:47:14.738016+08:00",
-  "total_titles_processed": 1539,
+  "generated_at": "2026-07-12T00:46:09.765659+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "BW游戏展台抢先看",
-          "url": "https://search.bilibili.com/all?keyword=BW%E6%B8%B8%E6%88%8F%E5%B1%95%E5%8F%B0%E6%8A%A2%E5%85%88%E7%9C%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7,
-            13,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时18分 ~ 09时54分]"
-        },
-        {
-          "title": "BW2026游戏舞台",
-          "url": "https://search.bilibili.com/all?keyword=BW2026%E6%B8%B8%E6%88%8F%E8%88%9E%E5%8F%B0",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            7,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时58分 ~ 17时20分]"
-        },
-        {
-          "title": "孩子发烧邹市明在房间里打游戏",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%AD%A9%E5%AD%90%E5%8F%91%E7%83%A7%E9%82%B9%E5%B8%82%E6%98%8E%E5%9C%A8%E6%88%BF%E9%97%B4%E9%87%8C%E6%89%93%E6%B8%B8%E6%88%8F%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时50分 ~ 21时02分]"
-        },
-        {
-          "title": "如何看待二次元 3D 动作游戏《深空之眼》官方宣布将停止更新？",
-          "url": "https://www.zhihu.com/question/2058510306708566635",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时24分 ~ 23时47分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
