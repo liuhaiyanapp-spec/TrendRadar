@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-07-14T23:18:51.918952+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-07-15T01:06:17.041231+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "A股三大指数均跌超1%，创业板指此前一度涨近2%，军工、半导体、游戏、算力租赁等方向跌幅居前，沪深京三市下跌个股近3500只。",
-          "url": "https://wallstreetcn.com/livenews/3133283",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时44分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
