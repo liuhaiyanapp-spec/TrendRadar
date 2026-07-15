@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T06:52:39.260912+08:00",
-  "total_titles_processed": 650,
+  "generated_at": "2026-07-16T07:53:17.345057+08:00",
+  "total_titles_processed": 730,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "贴吧",
           "ranks": [
             10,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时08分 ~ 06时52分]"
+          "appearance_count": 7,
+          "time_info": "[01时08分 ~ 07时53分]"
         },
         {
           "title": "你见过最疯最像赌徒的游戏制作人是谁？",
           "url": "https://www.zhihu.com/question/2050625433629102926",
           "source": "知乎",
           "ranks": [
-            17
+            17,
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 07时53分]"
         },
         {
           "title": "在游戏挑战的过程中，你会舍不得用药水（消耗品）吗？有没有除了让玩家囤积更好的游戏设计方法？",
@@ -38,8 +40,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时52分"
+          "appearance_count": 2,
+          "time_info": "[05时52分 ~ 07时53分]"
         }
       ]
     }
