@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-16T12:54:39.977513+08:00",
-  "total_titles_processed": 1059,
+  "generated_at": "2026-07-16T15:18:43.926133+08:00",
+  "total_titles_processed": 1203,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             10,
             11,
             12,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时08分 ~ 12时54分]"
+          "appearance_count": 10,
+          "time_info": "[01时08分 ~ 15时18分]"
         },
         {
           "title": "你见过最疯最像赌徒的游戏制作人是谁？",
