@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-16T15:18:43.926133+08:00",
-  "total_titles_processed": 1203,
+  "generated_at": "2026-07-16T18:02:43.897043+08:00",
+  "total_titles_processed": 1382,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "xQc吐槽拳头游戏纯抄无原创",
@@ -16,11 +16,12 @@
             11,
             12,
             19,
-            23
+            23,
+            28
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时08分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[01时08分 ~ 18时02分]"
         },
         {
           "title": "你见过最疯最像赌徒的游戏制作人是谁？",
@@ -44,6 +45,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时52分 ~ 07时53分]"
+        },
+        {
+          "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33590679",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时02分"
         }
       ]
     }
