@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T19:16:57.213349+08:00",
-  "total_titles_processed": 1418,
+  "generated_at": "2026-07-17T21:10:38.042190+08:00",
+  "total_titles_processed": 1562,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -41,6 +41,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时58分"
+        },
+        {
+          "title": "伊朗前外长萨利希：地区国家是时候停止“相互指责的游戏”，回到对话桌前了。",
+          "url": "https://flash.jin10.com/detail/20260717203548286800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时10分"
         },
         {
           "title": "NBA总裁萧华：联盟的本质是零和游戏",
