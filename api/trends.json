@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T07:53:46.168413+08:00",
-  "total_titles_processed": 637,
+  "generated_at": "2026-07-17T09:56:34.801727+08:00",
+  "total_titles_processed": 775,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "WAIC前夕看全球AI治理变局：拒绝“富国游戏”，规则之争加快",
@@ -30,6 +30,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时59分 ~ 04时03分]"
+        },
+        {
+          "title": "NBA总裁萧华：联盟的本质是零和游戏",
+          "url": "https://www.toutiao.com/trending/7662587152982851630/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时56分"
         }
       ]
     }
