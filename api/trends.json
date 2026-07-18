@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-18T09:46:45.728359+08:00",
-  "total_titles_processed": 723,
+  "generated_at": "2026-07-18T12:43:01.495889+08:00",
+  "total_titles_processed": 889,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "游戏 用户体验 交互设计",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "韩国散户“勇敢者游戏”终结",
+          "url": "https://www.toutiao.com/trending/7662653428757921811/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时42分 ~ 12时43分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
