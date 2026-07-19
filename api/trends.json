@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-19T22:24:35.456498+08:00",
-  "total_titles_processed": 1514,
+  "generated_at": "2026-07-19T23:51:05.801695+08:00",
+  "total_titles_processed": 1608,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何评价 EWC 八强赛 BLG 1:2 DK 的比赛中，上单选手 Bin 在三局游戏中的整体表现？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时20分 ~ 18时21分]"
+        },
+        {
+          "title": "用Deepseek生成战地游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8Deepseek%E7%94%9F%E6%88%90%E6%88%98%E5%9C%B0%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时50分 ~ 23时51分]"
         }
       ]
     }
