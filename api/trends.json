@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-20T07:51:17.283821+08:00",
-  "total_titles_processed": 663,
+  "generated_at": "2026-07-20T10:14:12.146671+08:00",
+  "total_titles_processed": 827,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "游戏 用户体验 交互设计",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
+          "url": "https://www.zhihu.com/question/2062096553184120966",
+          "source": "知乎",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时13分 ~ 10时14分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
