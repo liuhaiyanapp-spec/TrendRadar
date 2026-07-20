@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-20T20:11:44.975199+08:00",
-  "total_titles_processed": 1379,
+  "generated_at": "2026-07-20T23:04:47.847822+08:00",
+  "total_titles_processed": 1541,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
@@ -14,11 +14,23 @@
           "ranks": [
             3,
             1,
-            2
+            2,
+            18
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时13分 ~ 20时11分]"
+          "appearance_count": 6,
+          "time_info": "[10时13分 ~ 23时04分]"
+        },
+        {
+          "title": "游戏《古剑》形容第一轮公开试玩为一次大考，你觉得这场考试他们及格了吗？目前游戏能拿几分？",
+          "url": "https://www.zhihu.com/question/2061787385566859898",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时04分"
         }
       ]
     }
