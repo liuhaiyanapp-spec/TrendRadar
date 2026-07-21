@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-22T02:12:56.666642+08:00",
-  "total_titles_processed": 398,
+  "generated_at": "2026-07-22T04:16:02.320107+08:00",
+  "total_titles_processed": 475,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "游戏 用户体验 交互设计",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
+          "url": "https://www.zhihu.com/question/2061595522134282638",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时15分 ~ 04时16分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
