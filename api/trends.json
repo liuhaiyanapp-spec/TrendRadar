@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-21T13:15:12.555371+08:00",
-  "total_titles_processed": 947,
+  "generated_at": "2026-07-21T16:12:18.611996+08:00",
+  "total_titles_processed": 1111,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "如何看待游戏主播旭旭宝宝因发表「不看周星驰新片」观点遭网暴，发视频怒怼网友且拒绝道歉，后又将视频删除？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[03时28分 ~ 06时51分]"
+        },
+        {
+          "title": "乙女游戏有角色半裸含性暗示内容",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B9%99%E5%A5%B3%E6%B8%B8%E6%88%8F%E6%9C%89%E8%A7%92%E8%89%B2%E5%8D%8A%E8%A3%B8%E5%90%AB%E6%80%A7%E6%9A%97%E7%A4%BA%E5%86%85%E5%AE%B9%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时12分"
         },
         {
           "title": "创业板指涨超1%，存储芯片、半导体、游戏板块涨幅居前。",
