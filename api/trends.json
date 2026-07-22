@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T19:02:14.559833+08:00",
-  "total_titles_processed": 1365,
+  "generated_at": "2026-07-22T20:29:28.662723+08:00",
+  "total_titles_processed": 1480,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             17,
-            24
+            24,
+            23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时53分 ~ 19时02分]"
+          "appearance_count": 9,
+          "time_info": "[09时53分 ~ 20时29分]"
         },
         {
           "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
