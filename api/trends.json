@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-07-22T09:54:14.206136+08:00",
-  "total_titles_processed": 816,
+  "generated_at": "2026-07-22T13:14:13.796643+08:00",
+  "total_titles_processed": 1001,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 4,
       "titles": [
+        {
+          "title": "游戏树恨你太抽象了",
+          "url": "https://www.douyin.com/hot/2580256",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时53分 ~ 13时14分]"
+        },
         {
           "title": "如何评价《绝区零》在游戏活动界面里，把 3.1 版本 PV 的内置跳转链接从 B 站改成了抖音精选？",
           "url": "https://www.zhihu.com/question/2061595522134282638",
@@ -25,17 +37,6 @@
           "source": "百度热搜",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时53分 ~ 09时54分]"
-        },
-        {
-          "title": "游戏树恨你太抽象了",
-          "url": "https://www.douyin.com/hot/2580256",
-          "source": "抖音",
-          "ranks": [
-            18
           ],
           "is_new": false,
           "appearance_count": 2,
