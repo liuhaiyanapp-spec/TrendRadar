@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T04:14:19.508437+08:00",
-  "total_titles_processed": 464,
+  "generated_at": "2026-07-23T06:00:39.770740+08:00",
+  "total_titles_processed": 535,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "用AI通关高难度跑步游戏",
@@ -16,8 +16,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时21分 ~ 04时14分]"
+          "appearance_count": 5,
+          "time_info": "[00时21分 ~ 06时00分]"
+        },
+        {
+          "title": "游戏树恨你太抽象了",
+          "url": "https://www.douyin.com/hot/2580256",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时59分 ~ 06时00分]"
         }
       ]
     }
