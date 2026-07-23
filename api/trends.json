@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-23T10:02:03.721036+08:00",
-  "total_titles_processed": 774,
+  "generated_at": "2026-07-23T13:31:53.230747+08:00",
+  "total_titles_processed": 974,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "用AI通关高难度跑步游戏",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            23
+            23,
+            15
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时21分 ~ 10时02分]"
+          "appearance_count": 10,
+          "time_info": "[00时21分 ~ 13时31分]"
         },
         {
           "title": "游戏树恨你太抽象了",
@@ -42,6 +43,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时01分 ~ 10时02分]"
+        },
+        {
+          "title": "王楚然美得像游戏CG",
+          "url": "https://s.weibo.com/weibo?q=%E7%8E%8B%E6%A5%9A%E7%84%B6%E7%BE%8E%E5%BE%97%E5%83%8F%E6%B8%B8%E6%88%8FCG&t=31&band_rank=10&Refer=top",
+          "source": "微博",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     }
