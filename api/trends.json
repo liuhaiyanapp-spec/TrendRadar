@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-24T06:58:26.595512+08:00",
-  "total_titles_processed": 617,
+  "generated_at": "2026-07-24T07:56:32.134898+08:00",
+  "total_titles_processed": 689,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "伊朗最高领袖顾问雷扎伊：美国总统已从“疯子游戏”转向“绝望者游戏”，若伊朗基础设施遭攻击，伊朗将采取更强烈回应。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时12分"
+        },
+        {
+          "title": "花旗：腾讯大跌是“对游戏收入放缓的恐惧和误读”所致",
+          "url": "https://wallstreetcn.com/articles/3777735",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     }
