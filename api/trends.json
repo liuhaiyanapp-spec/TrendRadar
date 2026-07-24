@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-24T18:56:53.224531+08:00",
-  "total_titles_processed": 1358,
+  "generated_at": "2026-07-24T20:15:10.138625+08:00",
+  "total_titles_processed": 1475,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "某种程度上，Steam 市场是不是救活了国产单机游戏？",
+          "url": "https://www.zhihu.com/question/1959538298000221939",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时14分 ~ 20时15分]"
+        },
         {
           "title": "伊朗最高领袖顾问雷扎伊：美国总统已从“疯子游戏”转向“绝望者游戏”，若伊朗基础设施遭攻击，伊朗将采取更强烈回应。",
           "url": "https://flash.jin10.com/detail/20260724003816659800",
