@@ -1,44 +1,22 @@
 {
-  "generated_at": "2026-07-24T22:47:48.198513+08:00",
-  "total_titles_processed": 1633,
+  "generated_at": "2026-07-25T02:13:34.466129+08:00",
+  "total_titles_processed": 309,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "某种程度上，Steam 市场是不是救活了国产单机游戏？",
-          "url": "https://www.zhihu.com/question/1959538298000221939",
-          "source": "知乎",
+          "title": "靠出轨剧情出海小游戏日入338万",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%9D%A0%E5%87%BA%E8%BD%A8%E5%89%A7%E6%83%85%E5%87%BA%E6%B5%B7%E5%B0%8F%E6%B8%B8%E6%88%8F%E6%97%A5%E5%85%A5338%E4%B8%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时14分 ~ 20时15分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问雷扎伊：美国总统已从“疯子游戏”转向“绝望者游戏”，若伊朗基础设施遭攻击，伊朗将采取更强烈回应。",
-          "url": "https://flash.jin10.com/detail/20260724003816659800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时12分"
-        },
-        {
-          "title": "花旗：腾讯大跌是“对游戏收入放缓的恐惧和误读”所致",
-          "url": "https://wallstreetcn.com/articles/3777735",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时56分"
+          "time_info": "02时13分"
         }
       ]
     }
