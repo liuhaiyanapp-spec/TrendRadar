@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-25T21:23:16.002434+08:00",
-  "total_titles_processed": 1202,
+  "generated_at": "2026-07-25T22:57:38.110649+08:00",
+  "total_titles_processed": 1322,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             4,
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时57分]"
         },
         {
           "title": "儿子游戏成瘾 父亲起诉4家游戏公司",
@@ -26,11 +27,12 @@
           "source": "百度热搜",
           "ranks": [
             22,
-            16
+            16,
+            24
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[18时22分 ~ 21时23分]"
+          "appearance_count": 6,
+          "time_info": "[18时22分 ~ 22时57分]"
         },
         {
           "title": "靠出轨剧情出海小游戏日入338万",
