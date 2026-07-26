@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T21:06:30.500484+08:00",
-  "total_titles_processed": 1170,
+  "generated_at": "2026-07-26T22:58:40.302026+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             8,
             9,
             15,
-            17
+            17,
+            20
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时00分 ~ 21时06分]"
+          "appearance_count": 18,
+          "time_info": "[00时00分 ~ 22时58分]"
         },
         {
           "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
@@ -31,8 +32,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时38分 ~ 21时06分]"
+          "appearance_count": 5,
+          "time_info": "[18时38分 ~ 22时58分]"
         },
         {
           "title": "Mrbeast野兽游戏首入驻B站",
@@ -43,8 +44,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时56分 ~ 21时06分]"
+          "appearance_count": 4,
+          "time_info": "[19时56分 ~ 22时58分]"
         },
         {
           "title": "儿子游戏成瘾 父亲起诉4家游戏公司",
