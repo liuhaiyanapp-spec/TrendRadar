@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-26T10:01:48.260561+08:00",
-  "total_titles_processed": 648,
+  "generated_at": "2026-07-26T13:37:09.295587+08:00",
+  "total_titles_processed": 814,
   "failed_sources": [],
   "trends": [
     {
@@ -13,11 +13,12 @@
           "source": "贴吧",
           "ranks": [
             8,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时00分 ~ 10时01分]"
+          "appearance_count": 13,
+          "time_info": "[00时00分 ~ 13时37分]"
         },
         {
           "title": "儿子游戏成瘾 父亲起诉4家游戏公司",
