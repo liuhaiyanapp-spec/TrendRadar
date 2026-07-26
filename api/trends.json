@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T05:52:52.354582+08:00",
-  "total_titles_processed": 451,
+  "generated_at": "2026-07-27T06:53:42.197452+08:00",
+  "total_titles_processed": 503,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             1,
             2,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时53分]"
         },
         {
           "title": "爽玩!Bin哥躲酒店天天打游戏",
@@ -30,8 +31,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时01分 ~ 05时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时01分 ~ 06时53分]"
         },
         {
           "title": "Mrbeast野兽游戏首入驻B站",
@@ -41,11 +42,12 @@
             13,
             16,
             23,
-            27
+            27,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时01分 ~ 05时52分]"
+          "appearance_count": 7,
+          "time_info": "[00时01分 ~ 06时53分]"
         }
       ]
     }
