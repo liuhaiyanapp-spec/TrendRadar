@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T14:20:28.893886+08:00",
-  "total_titles_processed": 935,
+  "generated_at": "2026-07-27T18:34:51.616052+08:00",
+  "total_titles_processed": 1152,
   "failed_sources": [],
   "trends": [
     {
@@ -23,6 +23,23 @@
           "time_info": "[00时01分 ~ 07时54分]"
         },
         {
+          "title": "Mrbeast野兽游戏首入驻B站",
+          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16,
+            23,
+            27,
+            21,
+            22,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时01分 ~ 18时34分]"
+        },
+        {
           "title": "爽玩!Bin哥躲酒店天天打游戏",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356502&amp;topic_name=%E7%88%BD%E7%8E%A9%21Bin%E5%93%A5%E8%BA%B2%E9%85%92%E5%BA%97%E5%A4%A9%E5%A4%A9%E6%89%93%E6%B8%B8%E6%88%8F",
           "source": "贴吧",
@@ -37,30 +54,13 @@
           "time_info": "[00时01分 ~ 14时20分]"
         },
         {
-          "title": "Mrbeast野兽游戏首入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13,
-            16,
-            23,
-            27,
-            21,
-            22,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时01分 ~ 14时20分]"
-        },
-        {
           "title": "报告：阿里云游戏云模型服务市场份额37%，位列第一",
           "url": "https://wallstreetcn.com/livenews/3140018",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时20分"
         }
