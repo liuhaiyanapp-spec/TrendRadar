@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-27T18:34:51.616052+08:00",
-  "total_titles_processed": 1152,
+  "generated_at": "2026-07-27T21:34:30.547463+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
@@ -33,11 +33,12 @@
             27,
             21,
             22,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 18时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 21时34分]"
         },
         {
           "title": "爽玩!Bin哥躲酒店天天打游戏",
