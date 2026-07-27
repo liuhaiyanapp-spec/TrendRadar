@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-28T05:59:26.491918+08:00",
-  "total_titles_processed": 566,
+  "generated_at": "2026-07-28T07:01:45.394102+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             14,
             11,
             4,
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 07时01分]"
         },
         {
           "title": "Mrbeast野兽游戏首入驻B站",
@@ -29,11 +30,12 @@
             17,
             12,
             15,
-            19
+            19,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时10分 ~ 05时59分]"
+          "appearance_count": 5,
+          "time_info": "[00时10分 ~ 07时01分]"
         }
       ]
     }
