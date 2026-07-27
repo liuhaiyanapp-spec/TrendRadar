@@ -1,69 +1,33 @@
 {
-  "generated_at": "2026-07-27T21:34:30.547463+08:00",
-  "total_titles_processed": 1320,
+  "generated_at": "2026-07-28T00:10:16.378464+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 2,
       "titles": [
         {
-          "title": "如何看待儿子沉迷游戏吞药入院，父亲因此起诉腾讯、网易、米哈游和三七互娱，并且索赔 10 元？",
-          "url": "https://www.zhihu.com/question/2064331256884622163",
+          "title": "如何看待某博主称「客厅游戏 PC 只需插两根线」，被网友吐槽「过度吹捧，所有主机不都这样」？",
+          "url": "https://www.zhihu.com/question/2064715385044199014",
           "source": "知乎",
           "ranks": [
-            1,
-            2,
-            7,
-            8,
-            20
+            14
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时54分]"
+          "appearance_count": 1,
+          "time_info": "00时10分"
         },
         {
           "title": "Mrbeast野兽游戏首入驻B站",
           "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
           "source": "bilibili 热搜",
           "ranks": [
-            13,
-            16,
-            23,
-            27,
-            21,
-            22,
-            14,
             17
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时01分 ~ 21时34分]"
-        },
-        {
-          "title": "爽玩!Bin哥躲酒店天天打游戏",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356502&amp;topic_name=%E7%88%BD%E7%8E%A9%21Bin%E5%93%A5%E8%BA%B2%E9%85%92%E5%BA%97%E5%A4%A9%E5%A4%A9%E6%89%93%E6%B8%B8%E6%88%8F",
-          "source": "贴吧",
-          "ranks": [
-            21,
-            22,
-            23,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时01分 ~ 14时20分]"
-        },
-        {
-          "title": "报告：阿里云游戏云模型服务市场份额37%，位列第一",
-          "url": "https://wallstreetcn.com/livenews/3140018",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时20分"
+          "time_info": "00时10分"
         }
       ]
     }
