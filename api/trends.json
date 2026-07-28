@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-07-29T06:11:38.950739+08:00",
-  "total_titles_processed": 565,
+  "generated_at": "2026-07-29T07:54:10.718135+08:00",
+  "total_titles_processed": 690,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "游戏 用户体验 交互设计",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "假如一个二次元游戏号称「数值不膨胀」是否也就意味着存在大量的「废卡」？",
+          "url": "https://www.zhihu.com/question/2065054427099160720",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时53分 ~ 07时54分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
