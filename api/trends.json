@@ -1,68 +1,7 @@
 {
-  "generated_at": "2026-07-28T21:45:51.438666+08:00",
-  "total_titles_processed": 1536,
+  "generated_at": "2026-07-29T00:02:27.738658+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "Mrbeast野兽游戏首入驻B站",
-          "url": "https://search.bilibili.com/all?keyword=Mrbeast%E9%87%8E%E5%85%BD%E6%B8%B8%E6%88%8F%E9%A6%96%E5%85%A5%E9%A9%BBB%E7%AB%99",
-          "source": "bilibili 热搜",
-          "ranks": [
-            17,
-            12,
-            15,
-            19,
-            14,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时10分 ~ 14时20分]"
-        },
-        {
-          "title": "如何看待某博主称「客厅游戏 PC 只需插两根线」，被网友吐槽「过度吹捧，所有主机不都这样」？",
-          "url": "https://www.zhihu.com/question/2064715385044199014",
-          "source": "知乎",
-          "ranks": [
-            14,
-            11,
-            4,
-            13,
-            12,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时10分 ~ 08时06分]"
-        },
-        {
-          "title": "仙侠游戏里加入「科技感」，到底是在拓宽「东方」的边界，还是在稀释「侠」的味道？",
-          "url": "https://www.zhihu.com/question/2063967681024468390",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时52分 ~ 19时53分]"
-        },
-        {
-          "title": "斯普拉遁涂击队游戏评测",
-          "url": "https://search.bilibili.com/all?keyword=%E6%96%AF%E6%99%AE%E6%8B%89%E9%81%81%E6%B6%82%E5%87%BB%E9%98%9F%E6%B8%B8%E6%88%8F%E8%AF%84%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时33分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
