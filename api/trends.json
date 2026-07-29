@@ -1,34 +1,22 @@
 {
-  "generated_at": "2026-07-29T23:46:22.884648+08:00",
-  "total_titles_processed": 1657,
+  "generated_at": "2026-07-30T01:07:14.702595+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
           "url": "https://www.cls.cn/detail/2440260",
           "source": "财联社热门",
           "ranks": [
-            11,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时16分 ~ 23时46分]"
-        },
-        {
-          "title": "假如一个二次元游戏号称「数值不膨胀」是否也就意味着存在大量的「废卡」？",
-          "url": "https://www.zhihu.com/question/2065054427099160720",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "time_info": "[01时06分 ~ 01时07分]"
         }
       ]
     }
