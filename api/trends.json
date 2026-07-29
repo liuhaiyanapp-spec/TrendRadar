@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T16:25:54.305497+08:00",
-  "total_titles_processed": 1201,
+  "generated_at": "2026-07-29T19:16:42.328500+08:00",
+  "total_titles_processed": 1377,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "假如一个二次元游戏号称「数值不膨胀」是否也就意味着存在大量的「废卡」？",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 07时54分]"
+        },
+        {
+          "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
+          "url": "https://www.cls.cn/detail/2440260",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时16分"
         }
       ]
     }
