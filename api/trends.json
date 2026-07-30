@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-07-30T20:26:12.561141+08:00",
-  "total_titles_processed": 1225,
+  "generated_at": "2026-07-30T23:05:34.692625+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "神人自爆,游戏退款还想白嫖",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356655&amp;topic_name=%E7%A5%9E%E4%BA%BA%E8%87%AA%E7%88%86%2C%E6%B8%B8%E6%88%8F%E9%80%80%E6%AC%BE%E8%BF%98%E6%83%B3%E7%99%BD%E5%AB%96",
+          "source": "贴吧",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
+        },
         {
           "title": "【焦点复盘】双创指数现放量“深V”，游戏等AI应用端持续回暖，长鑫科技午后一度涨近15%",
           "url": "https://www.cls.cn/detail/2440260",
@@ -18,6 +29,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时06分 ~ 06时54分]"
+        },
+        {
+          "title": "抗日游戏抵抗者发布实机演示",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356653&amp;topic_name=%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%E6%8A%B5%E6%8A%97%E8%80%85%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
+          "source": "贴吧",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时05分"
         },
         {
           "title": "A股游戏板块盘初拉升，冰川网络涨超12%，凯撒文化触及涨停，巨人网络涨超9%，恺英网络、完美世界等跟涨。",
