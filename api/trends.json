@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T06:05:21.527568+08:00",
-  "total_titles_processed": 518,
+  "generated_at": "2026-07-31T07:56:18.360346+08:00",
+  "total_titles_processed": 635,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "神人自爆,游戏退款还想白嫖",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时56分]"
         },
         {
           "title": "苹果(AAPL.O)首席财务官：App Store的移动游戏收入出现“疲软”迹象。",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时05分"
         },
@@ -37,8 +37,19 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时18分 ~ 06时05分]"
+          "appearance_count": 5,
+          "time_info": "[01时18分 ~ 07时56分]"
+        },
+        {
+          "title": "黑鲨官宣全面停止手机官方售后，其巅峰时期占据游戏手机 47% 市场份额，游戏手机是不是阶段性伪需求？",
+          "url": "https://www.zhihu.com/question/2066184696107643598",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时56分"
         }
       ]
     }
