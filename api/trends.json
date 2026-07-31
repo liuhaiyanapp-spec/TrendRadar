@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T19:24:16.288549+08:00",
-  "total_titles_processed": 1348,
+  "generated_at": "2026-07-31T21:46:25.055290+08:00",
+  "total_titles_processed": 1515,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             2,
             10,
             17,
-            21
+            21,
+            24
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时18分 ~ 19时24分]"
+          "appearance_count": 11,
+          "time_info": "[01时18分 ~ 21时46分]"
         },
         {
           "title": "抗日游戏抵抗者发布实机演示",
