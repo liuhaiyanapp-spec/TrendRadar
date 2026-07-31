@@ -1,84 +1,22 @@
 {
-  "generated_at": "2026-07-31T21:46:25.055290+08:00",
-  "total_titles_processed": 1515,
+  "generated_at": "2026-08-01T01:23:06.307564+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 6,
+      "match_count": 1,
       "titles": [
         {
           "title": "神人自爆,游戏退款还想白嫖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356655&amp;topic_name=%E7%A5%9E%E4%BA%BA%E8%87%AA%E7%88%86%2C%E6%B8%B8%E6%88%8F%E9%80%80%E6%AC%BE%E8%BF%98%E6%83%B3%E7%99%BD%E5%AB%96",
           "source": "贴吧",
           "ranks": [
-            3,
-            2,
-            10,
-            17,
-            21,
-            24
+            27
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时18分 ~ 21时46分]"
-        },
-        {
-          "title": "抗日游戏抵抗者发布实机演示",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356653&amp;topic_name=%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%E6%8A%B5%E6%8A%97%E8%80%85%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
-          "source": "贴吧",
-          "ranks": [
-            19,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 13时58分]"
-        },
-        {
-          "title": "苹果(AAPL.O)首席财务官：App Store的移动游戏收入出现“疲软”迹象。",
-          "url": "https://flash.jin10.com/detail/20260731055153844800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时05分"
-        },
-        {
-          "title": "黑鲨官宣全面停止手机官方售后，其巅峰时期占据游戏手机 47% 市场份额，游戏手机是不是阶段性伪需求？",
-          "url": "https://www.zhihu.com/question/2066184696107643598",
-          "source": "知乎",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时56分 ~ 13时58分]"
-        },
-        {
-          "title": "股市“游戏化”波动，KOSPI史诗级暴涨18%",
-          "url": "https://flash.jin10.com/detail/20260731162157769800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
-        },
-        {
-          "title": "盘点Steam史诗级折扣游戏",
-          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9Steam%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%8A%98%E6%89%A3%E6%B8%B8%E6%88%8F",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时46分"
+          "appearance_count": 2,
+          "time_info": "[01时22分 ~ 01时23分]"
         }
       ]
     }
