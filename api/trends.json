@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-31T13:58:42.293213+08:00",
-  "total_titles_processed": 985,
+  "generated_at": "2026-07-31T16:46:32.997317+08:00",
+  "total_titles_processed": 1175,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "神人自爆,游戏退款还想白嫖",
@@ -14,11 +14,12 @@
           "ranks": [
             3,
             2,
-            10
+            10,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时18分 ~ 13时58分]"
+          "appearance_count": 8,
+          "time_info": "[01时18分 ~ 16时46分]"
         },
         {
           "title": "抗日游戏抵抗者发布实机演示",
@@ -54,6 +55,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时56分 ~ 13时58分]"
+        },
+        {
+          "title": "股市“游戏化”波动，KOSPI史诗级暴涨18%",
+          "url": "https://flash.jin10.com/detail/20260731162157769800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
+        },
+        {
+          "title": "盘点Steam史诗级折扣游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E7%9B%98%E7%82%B9Steam%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%8A%98%E6%89%A3%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时46分"
         }
       ]
     }
