@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-01T04:57:10.590499+08:00",
-  "total_titles_processed": 449,
+  "generated_at": "2026-08-01T05:59:49.258024+08:00",
+  "total_titles_processed": 497,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "神人自爆,游戏退款还想白嫖",
@@ -15,8 +15,19 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时22分 ~ 04时57分]"
+          "appearance_count": 6,
+          "time_info": "[01时22分 ~ 05时59分]"
+        },
+        {
+          "title": "为何武侠游戏中提升武学实力往往是靠打坐，闭关，冥想，而非交流与不断的切磋？",
+          "url": "https://www.zhihu.com/question/2065098289704335188",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时59分"
         }
       ]
     }
