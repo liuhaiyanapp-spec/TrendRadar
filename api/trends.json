@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-01T05:59:49.258024+08:00",
-  "total_titles_processed": 497,
+  "generated_at": "2026-08-01T07:01:29.885324+08:00",
+  "total_titles_processed": 536,
   "failed_sources": [],
   "trends": [
     {
@@ -15,8 +15,8 @@
             27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时22分 ~ 05时59分]"
+          "appearance_count": 7,
+          "time_info": "[01时22分 ~ 07时01分]"
         },
         {
           "title": "为何武侠游戏中提升武学实力往往是靠打坐，闭关，冥想，而非交流与不断的切磋？",
@@ -25,7 +25,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时59分"
         }
