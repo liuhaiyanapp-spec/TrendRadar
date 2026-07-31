@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T16:46:32.997317+08:00",
-  "total_titles_processed": 1175,
+  "generated_at": "2026-07-31T19:24:16.288549+08:00",
+  "total_titles_processed": 1348,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             3,
             2,
             10,
-            17
+            17,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时18分 ~ 16时46分]"
+          "appearance_count": 10,
+          "time_info": "[01时18分 ~ 19时24分]"
         },
         {
           "title": "抗日游戏抵抗者发布实机演示",
@@ -63,7 +64,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         },
@@ -74,7 +75,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时46分"
         }
