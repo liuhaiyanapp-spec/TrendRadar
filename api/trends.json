@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-31T10:02:26.111697+08:00",
-  "total_titles_processed": 787,
+  "generated_at": "2026-07-31T13:58:42.293213+08:00",
+  "total_titles_processed": 985,
   "failed_sources": [],
   "trends": [
     {
@@ -13,22 +13,24 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            10
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 10时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 13时58分]"
         },
         {
           "title": "抗日游戏抵抗者发布实机演示",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356653&amp;topic_name=%E6%8A%97%E6%97%A5%E6%B8%B8%E6%88%8F%E6%8A%B5%E6%8A%97%E8%80%85%E5%8F%91%E5%B8%83%E5%AE%9E%E6%9C%BA%E6%BC%94%E7%A4%BA",
           "source": "贴吧",
           "ranks": [
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时18分 ~ 10时02分]"
+          "appearance_count": 7,
+          "time_info": "[01时18分 ~ 13时58分]"
         },
         {
           "title": "苹果(AAPL.O)首席财务官：App Store的移动游戏收入出现“疲软”迹象。",
@@ -50,8 +52,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时56分 ~ 10时02分]"
+          "appearance_count": 3,
+          "time_info": "[07时56分 ~ 13时58分]"
         }
       ]
     }
