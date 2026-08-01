@@ -1,37 +1,7 @@
 {
-  "generated_at": "2026-08-01T23:56:05.146051+08:00",
-  "total_titles_processed": 1464,
+  "generated_at": "2026-08-02T00:53:20.545717+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "神人自爆,游戏退款还想白嫖",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356655&amp;topic_name=%E7%A5%9E%E4%BA%BA%E8%87%AA%E7%88%86%2C%E6%B8%B8%E6%88%8F%E9%80%80%E6%AC%BE%E8%BF%98%E6%83%B3%E7%99%BD%E5%AB%96",
-          "source": "贴吧",
-          "ranks": [
-            27,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时22分 ~ 12时17分]"
-        },
-        {
-          "title": "为何武侠游戏中提升武学实力往往是靠打坐，闭关，冥想，而非交流与不断的切磋？",
-          "url": "https://www.zhihu.com/question/2065098289704335188",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时59分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
