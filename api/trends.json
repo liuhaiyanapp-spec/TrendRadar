@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T05:47:23.496566+08:00",
-  "total_titles_processed": 461,
+  "generated_at": "2026-08-03T06:48:11.673832+08:00",
+  "total_titles_processed": 502,
   "failed_sources": [],
   "trends": [
     {
@@ -16,11 +16,12 @@
             21,
             26,
             30,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时52分 ~ 05时47分]"
+          "appearance_count": 8,
+          "time_info": "[00时52分 ~ 06时48分]"
         },
         {
           "title": "小伙立遗嘱把氪金10万账号给游戏搭子",
@@ -29,11 +30,12 @@
           "ranks": [
             23,
             18,
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时56分 ~ 05时47分]"
+          "appearance_count": 7,
+          "time_info": "[01时56分 ~ 06时48分]"
         },
         {
           "title": "武侠小说里说高手「摘叶飞花均可伤人」，可为何武侠游戏里的主角却还要依仗神兵利器呢？",
@@ -42,7 +44,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
         }
