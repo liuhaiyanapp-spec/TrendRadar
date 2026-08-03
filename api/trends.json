@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T14:12:46.378582+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2026-08-03T18:34:42.419548+08:00",
+  "total_titles_processed": 1186,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "小伙立遗嘱把氪金10万账号给游戏搭子",
@@ -50,6 +50,28 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "游戏驿站(GME.N)盘前交易跌3.1%，此前公司宣布将以14亿美元的可转换票据进行私募换股。",
+          "url": "https://flash.jin10.com/detail/20260803180849492800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "米哈游终止与云南昊曦文化传媒合作并将其列入黑名单，游戏厂商和内容创作者之间的合作还有哪些坑需要注意？",
+          "url": "https://www.zhihu.com/question/2067558770406683905",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "武侠小说里说高手「摘叶飞花均可伤人」，可为何武侠游戏里的主角却还要依仗神兵利器呢？",
           "url": "https://www.zhihu.com/question/2065524137737695948",
           "source": "知乎",
@@ -59,6 +81,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时47分"
+        },
+        {
+          "title": "游戏驿站(GME.N)宣布以14亿美元可转换优先票据进行私募股权交换。",
+          "url": "https://flash.jin10.com/detail/20260803180134240800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     }
