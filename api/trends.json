@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-03T07:53:00.425683+08:00",
-  "total_titles_processed": 578,
+  "generated_at": "2026-08-03T10:02:12.681880+08:00",
+  "total_titles_processed": 754,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "小伙立遗嘱把氪金10万账号给游戏搭子",
@@ -37,6 +37,17 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时52分 ~ 06时48分]"
+        },
+        {
+          "title": "游戏设计中的「门不能从另一侧打开」是否已经被过度使用，泛滥成灾了？有没有更高明一点的设计？",
+          "url": "https://www.zhihu.com/question/2060383043613880707",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时01分 ~ 10时02分]"
         },
         {
           "title": "武侠小说里说高手「摘叶飞花均可伤人」，可为何武侠游戏里的主角却还要依仗神兵利器呢？",
