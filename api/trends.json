@@ -1,55 +1,22 @@
 {
-  "generated_at": "2026-08-05T23:57:19.616554+08:00",
-  "total_titles_processed": 1597,
+  "generated_at": "2026-08-06T01:23:22.412379+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
+      "match_count": 1,
       "titles": [
         {
           "title": "网友吐槽现在的交响乐团只能靠游戏演奏会维持生计，对此你怎么看？",
           "url": "https://www.zhihu.com/question/2067670987710189967",
           "source": "知乎",
           "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时49分 ~ 23时57分]"
-        },
-        {
-          "title": "米哈游法务部：未经授权发布游戏泄密视频，泄密人员被判刑。",
-          "url": "https://wallstreetcn.com/livenews/3145419",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时49分"
-        },
-        {
-          "title": "DeepSeek干完活自己写了个游戏",
-          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%B9%B2%E5%AE%8C%E6%B4%BB%E8%87%AA%E5%B7%B1%E5%86%99%E4%BA%86%E4%B8%AA%E6%B8%B8%E6%88%8F&t=31&band_rank=10&Refer=top",
-          "source": "微博",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "19时14分"
-        },
-        {
-          "title": "前《原神》市场负责人宣布加入芥子游戏，新项目为「阴阳师」UE5 新作，如何看待此事？",
-          "url": "https://www.zhihu.com/question/2068259530019025661",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时22分"
+          "time_info": "01时23分"
         }
       ]
     }
