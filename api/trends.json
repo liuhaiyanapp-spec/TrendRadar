@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-06T06:14:15.209477+08:00",
-  "total_titles_processed": 519,
+  "generated_at": "2026-08-06T07:53:27.039815+08:00",
+  "total_titles_processed": 602,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             18,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时23分 ~ 06时14分]"
+          "appearance_count": 7,
+          "time_info": "[01时23分 ~ 07时53分]"
         },
         {
           "title": "试玩5个高中生做的高中生活游戏",
@@ -27,11 +28,12 @@
           "ranks": [
             15,
             19,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时18分 ~ 05时01分]"
+          "appearance_count": 4,
+          "time_info": "[03时18分 ~ 07时53分]"
         }
       ]
     }
