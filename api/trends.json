@@ -1,9 +1,7 @@
 {
-  "generated_at": "2026-08-06T05:01:21.527199+08:00",
-  "total_titles_processed": 465,
-  "failed_sources": [
-    "toutiao"
-  ],
+  "generated_at": "2026-08-06T06:14:15.209477+08:00",
+  "total_titles_processed": 519,
+  "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
@@ -19,8 +17,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时23分 ~ 05时01分]"
+          "appearance_count": 6,
+          "time_info": "[01时23分 ~ 06时14分]"
         },
         {
           "title": "试玩5个高中生做的高中生活游戏",
