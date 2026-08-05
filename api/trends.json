@@ -1,7 +1,9 @@
 {
-  "generated_at": "2026-08-06T03:18:35.321572+08:00",
-  "total_titles_processed": 388,
-  "failed_sources": [],
+  "generated_at": "2026-08-06T05:01:21.527199+08:00",
+  "total_titles_processed": 465,
+  "failed_sources": [
+    "toutiao"
+  ],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
@@ -13,22 +15,25 @@
           "source": "知乎",
           "ranks": [
             18,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时23分 ~ 03时18分]"
+          "appearance_count": 4,
+          "time_info": "[01时23分 ~ 05时01分]"
         },
         {
           "title": "试玩5个高中生做的高中生活游戏",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
           "ranks": [
-            15
+            15,
+            19,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时18分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时18分 ~ 05时01分]"
         }
       ]
     }
