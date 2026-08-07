@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-07T10:13:32.422128+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-08-07T12:50:06.996572+08:00",
+  "total_titles_processed": 686,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "A股三大指数集体翻绿，微盘股指数跌超2%，数字货币、软件开发、游戏、影视等方向跌幅居前，沪深京三市下跌个股超4700只。",
@@ -14,9 +14,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
+        },
+        {
+          "title": "试玩5个高中生做的高中生活游戏",
+          "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 12时50分]"
+        },
+        {
+          "title": "阿哲综艺运气游戏太费老弟了",
+          "url": "https://www.douyin.com/hot/2600539",
+          "source": "抖音",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时49分 ~ 12时50分]"
         },
         {
           "title": "A股游戏板块短线跳水，大晟文化跌停，凯撒文化、盛天网络、中青宝、电魂网络跟跌。",
@@ -25,7 +47,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时13分"
         }
