@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T17:54:29.337928+08:00",
-  "total_titles_processed": 1035,
+  "generated_at": "2026-08-07T18:45:03.673277+08:00",
+  "total_titles_processed": 1138,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,19 @@
           "time_info": "10时13分"
         },
         {
+          "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
+          "url": "https://www.zhihu.com/question/2068266245296744222",
+          "source": "知乎",
+          "ranks": [
+            12,
+            17,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时09分 ~ 18时45分]"
+        },
+        {
           "title": "试玩5个高中生做的高中生活游戏",
           "url": "https://search.bilibili.com/all?keyword=%E8%AF%95%E7%8E%A95%E4%B8%AA%E9%AB%98%E4%B8%AD%E7%94%9F%E5%81%9A%E7%9A%84%E9%AB%98%E4%B8%AD%E7%94%9F%E6%B4%BB%E6%B8%B8%E6%88%8F",
           "source": "bilibili 热搜",
@@ -30,18 +43,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时49分 ~ 17时54分]"
-        },
-        {
-          "title": "比武招亲摆明是给采花大盗递刀, 武侠游戏为什么还乐此不疲地设计这种擂台?",
-          "url": "https://www.zhihu.com/question/2068266245296744222",
-          "source": "知乎",
-          "ranks": [
-            12,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时09分 ~ 17时54分]"
         },
         {
           "title": "阿哲综艺运气游戏太费老弟了",
