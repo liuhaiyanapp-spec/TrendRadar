@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T19:22:10.511039+08:00",
-  "total_titles_processed": 1325,
+  "generated_at": "2026-08-08T20:31:39.772614+08:00",
+  "total_titles_processed": 1426,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             7,
             5,
             4,
-            3
+            3,
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时01分 ~ 19时22分]"
+          "appearance_count": 15,
+          "time_info": "[09时01分 ~ 20时31分]"
         },
         {
           "title": "适合夏季玩的游戏盘点",
