@@ -1,65 +1,7 @@
 {
-  "generated_at": "2026-08-08T23:22:42.604156+08:00",
-  "total_titles_processed": 1623,
+  "generated_at": "2026-08-09T00:23:30.945338+08:00",
+  "total_titles_processed": 311,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
-          "url": "https://www.zhihu.com/question/2068108635620774765",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            4,
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时01分 ~ 20时31分]"
-        },
-        {
-          "title": "适合夏季玩的游戏盘点",
-          "url": "https://search.bilibili.com/all?keyword=%E9%80%82%E5%90%88%E5%A4%8F%E5%AD%A3%E7%8E%A9%E7%9A%84%E6%B8%B8%E6%88%8F%E7%9B%98%E7%82%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            4,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时37分 ~ 14时38分]"
-        },
-        {
-          "title": "为什么如今很少再听见有「性能杀手」「显卡杀手」这样称呼的游戏？",
-          "url": "https://www.zhihu.com/question/2027502309337252612",
-          "source": "知乎",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时46分 ~ 06时27分]"
-        },
-        {
-          "title": "很多游戏小白又想看后续剧情又打不过那些受苦游戏，为什么不设计一个「投降」按钮，按了能直接过关的那种？",
-          "url": "https://www.zhihu.com/question/2015730909593223417",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时27分"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
