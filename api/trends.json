@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-08T09:01:37.405247+08:00",
-  "total_titles_processed": 718,
+  "generated_at": "2026-08-08T10:56:47.592249+08:00",
+  "total_titles_processed": 809,
   "failed_sources": [],
   "trends": [
     {
@@ -27,9 +27,9 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时01分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 10时56分]"
         },
         {
           "title": "很多游戏小白又想看后续剧情又打不过那些受苦游戏，为什么不设计一个「投降」按钮，按了能直接过关的那种？",
