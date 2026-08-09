@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T18:25:39.993159+08:00",
-  "total_titles_processed": 1123,
+  "generated_at": "2026-08-09T19:22:57.333718+08:00",
+  "total_titles_processed": 1189,
   "failed_sources": [],
   "trends": [
     {
@@ -32,8 +32,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时41分 ~ 18时25分]"
+          "appearance_count": 6,
+          "time_info": "[14时41分 ~ 19时22分]"
         },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
