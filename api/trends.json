@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-08-09T09:05:45.155799+08:00",
-  "total_titles_processed": 567,
+  "generated_at": "2026-08-09T11:26:31.872710+08:00",
+  "total_titles_processed": 698,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "游戏 用户体验 交互设计",
       "match_count": 2,
       "titles": [
+        {
+          "title": "你心目中最好的十款单机游戏是什么？",
+          "url": "https://www.zhihu.com/question/479719590",
+          "source": "知乎",
+          "ranks": [
+            14,
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 11时26分]"
+        },
         {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
@@ -18,18 +31,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 07时21分]"
-        },
-        {
-          "title": "你心目中最好的十款单机游戏是什么？",
-          "url": "https://www.zhihu.com/question/479719590",
-          "source": "知乎",
-          "ranks": [
-            14,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时20分 ~ 09时05分]"
         }
       ]
     }
