@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T16:33:40.082067+08:00",
-  "total_titles_processed": 996,
+  "generated_at": "2026-08-09T17:31:55.368244+08:00",
+  "total_titles_processed": 1054,
   "failed_sources": [],
   "trends": [
     {
@@ -25,6 +25,17 @@
           "time_info": "[07时20分 ~ 15时47分]"
         },
         {
+          "title": "如何评价今年被称为「最贵开学季」？游戏本涨至上万元「劝退」准大学生，有哪些平替方案？",
+          "url": "https://www.zhihu.com/question/2058246439600498015",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时41分 ~ 17时31分]"
+        },
+        {
           "title": "网传 DeepSeek V4 Flash 完成任务后写了个游戏玩一上午，是真的吗？为什么会出现这样的现象？",
           "url": "https://www.zhihu.com/question/2068108635620774765",
           "source": "知乎",
@@ -35,17 +46,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时20分 ~ 07时21分]"
-        },
-        {
-          "title": "如何评价今年被称为「最贵开学季」？游戏本涨至上万元「劝退」准大学生，有哪些平替方案？",
-          "url": "https://www.zhihu.com/question/2058246439600498015",
-          "source": "知乎",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时41分 ~ 16时33分]"
         }
       ]
     }
