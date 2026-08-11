@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-11T16:07:21.305474+08:00",
-  "total_titles_processed": 1321,
+  "generated_at": "2026-08-11T17:53:38.121012+08:00",
+  "total_titles_processed": 1451,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时29分 ~ 14时53分]"
+          "appearance_count": 5,
+          "time_info": "[11时29分 ~ 17时53分]"
         },
         {
           "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
@@ -27,11 +27,12 @@
           "source": "知乎",
           "ranks": [
             17,
-            20
+            20,
+            13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时53分 ~ 16时07分]"
+          "appearance_count": 3,
+          "time_info": "[14时53分 ~ 17时53分]"
         }
       ]
     }
