@@ -1,25 +1,7 @@
 {
-  "generated_at": "2026-08-12T23:53:37.871854+08:00",
-  "total_titles_processed": 1547,
+  "generated_at": "2026-08-13T00:49:36.569656+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
-  "trends": [
-    {
-      "keyword_group": "游戏 用户体验 交互设计",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "为什么武侠游戏招式名爱用 「 降龙十八掌 」 式的华丽辞藻, 而西方中世纪骑士游戏招式却朴素得像说明书?",
-          "url": "https://www.zhihu.com/question/2070098614244864702",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时58分 ~ 01时52分]"
-        }
-      ]
-    }
-  ],
+  "trends": [],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
