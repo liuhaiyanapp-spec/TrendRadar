@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-13T20:52:31.954625+08:00",
-  "total_titles_processed": 1258,
+  "generated_at": "2026-08-14T01:52:42.968821+08:00",
+  "total_titles_processed": 307,
   "failed_sources": [],
   "trends": [
     {
@@ -8,15 +8,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "甄子丹「饰演」《影之刃零》中的角色「魔渊」，通过动捕 + 面捕参与游戏制作，使用「饰演」描述是否合适？",
-          "url": "https://www.zhihu.com/question/2070894183359983825",
-          "source": "知乎",
+          "title": "用AI给朋友做个专属小游戏",
+          "url": "https://www.douyin.com/hot/2608715",
+          "source": "抖音",
           "ranks": [
-            18
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时16分"
+          "time_info": "01时52分"
         }
       ]
     }
