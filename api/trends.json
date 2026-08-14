@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T18:09:59.707782+08:00",
-  "total_titles_processed": 1322,
+  "generated_at": "2026-08-14T20:46:04.053485+08:00",
+  "total_titles_processed": 1490,
   "failed_sources": [],
   "trends": [
     {
@@ -14,11 +14,12 @@
           "ranks": [
             13,
             3,
-            2
+            2,
+            14
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时14分 ~ 18时09分]"
+          "appearance_count": 10,
+          "time_info": "[09时14分 ~ 20时46分]"
         },
         {
           "title": "用AI给朋友做个专属小游戏",
