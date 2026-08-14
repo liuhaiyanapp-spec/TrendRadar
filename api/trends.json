@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-14T12:01:15.769709+08:00",
-  "total_titles_processed": 877,
+  "generated_at": "2026-08-14T13:39:02.208852+08:00",
+  "total_titles_processed": 1004,
   "failed_sources": [],
   "trends": [
     {
@@ -20,8 +20,8 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时52分 ~ 12时01分]"
+          "appearance_count": 10,
+          "time_info": "[01时52分 ~ 13时39分]"
         },
         {
           "title": "亲戚 3200 卖给我的电脑，他说现在 2 手能卖 4000 多，能流畅运行生化危机 9 类型的游戏吗?",
@@ -29,11 +29,12 @@
           "source": "知乎",
           "ranks": [
             13,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时14分 ~ 12时01分]"
+          "appearance_count": 5,
+          "time_info": "[09时14分 ~ 13时39分]"
         }
       ]
     }
